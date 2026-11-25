@@ -1,0 +1,521 @@
+[
+{
+"t": "AC.PA",
+"n": "Accor",
+"s": "Consumer Services",
+"y": "AC.PA",
+"sh": 226932177.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Accor SA",
+"alts": [
+"AC.PA"
+]
+},
+{
+"t": "AI.PA",
+"n": "Air Liquide",
+"s": "Basic Materials",
+"y": "AI.PA",
+"sh": 638168550.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "L'Air Liquide S.A.",
+"alts": [
+"AI.PA"
+]
+},
+{
+"t": "AIR.PA",
+"n": "Airbus",
+"s": "Industrials",
+"y": "AIR.PA",
+"sh": 789141199.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Airbus SE",
+"alts": [
+"AIR.PA"
+]
+},
+{
+"t": "MT.AS",
+"n": "ArcelorMittal",
+"s": "Basic Materials",
+"y": "MT.AS",
+"sh": 751935008.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "ArcelorMittal S.A.",
+"alts": [
+"MT.AS"
+]
+},
+{
+"t": "CS.PA",
+"n": "Axa",
+"s": "Financial Services",
+"y": "CS.PA",
+"sh": 2023296997.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "AXA SA",
+"alts": [
+"CS.PA"
+]
+},
+{
+"t": "BNP.PA",
+"n": "BNP Paribas",
+"s": "Financial Services",
+"y": "BNP.PA",
+"sh": 1096000000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "BNP Paribas SA",
+"alts": [
+"BNP.PA"
+]
+},
+{
+"t": "EN.PA",
+"n": "Bouygues",
+"s": "Industrials",
+"y": "EN.PA",
+"sh": 385371276.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Bouygues SA",
+"alts": [
+"EN.PA"
+]
+},
+{
+"t": "BVI.PA",
+"n": "Bureau Veritas",
+"s": "Industrials",
+"y": "BVI.PA",
+"sh": 442352319.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Bureau Veritas SA",
+"alts": [
+"BVI.PA"
+]
+},
+{
+"t": "CAP.PA",
+"n": "Capgemini",
+"s": "Technology",
+"y": "CAP.PA",
+"sh": 163302200.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Capgemini SE",
+"alts": [
+"CAP.PA"
+]
+},
+{
+"t": "CA.PA",
+"n": "Carrefour",
+"s": "Consumer Defensive",
+"y": "CA.PA",
+"sh": 707313254.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Carrefour SA",
+"alts": [
+"CA.PA"
+]
+},
+{
+"t": "ACA.PA",
+"n": "Crédit Agricole",
+"s": "Financial Services",
+"y": "ACA.PA",
+"sh": 3024345732.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Crédit Agricole S.A.",
+"alts": [
+"ACA.PA"
+]
+},
+{
+"t": "BN.PA",
+"n": "Danone",
+"s": "Consumer Defensive",
+"y": "BN.PA",
+"sh": 644095494.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Danone S.A.",
+"alts": [
+"BN.PA"
+]
+},
+{
+"t": "DSY.PA",
+"n": "Dassault Systèmes",
+"s": "Technology",
+"y": "DSY.PA",
+"sh": 1314247393.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Dassault Systèmes SE",
+"alts": [
+"DSY.PA"
+]
+},
+{
+"t": "FGR.PA",
+"n": "Eiffage",
+"s": "Industrials",
+"y": "FGR.PA",
+"sh": 97160024.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Eiffage SA",
+"alts": [
+"FGR.PA"
+]
+},
+{
+"t": "ENGI.PA",
+"n": "Engie",
+"s": "Utilities",
+"y": "ENGI.PA",
+"sh": 2540607984.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Engie SA",
+"alts": [
+"ENGI.PA"
+]
+},
+{
+"t": "EL.PA",
+"n": "EssilorLuxottica",
+"s": "Healthcare",
+"y": "EL.PA",
+"sh": 458376127.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "EssilorLuxottica Société anonyme",
+"alts": [
+"EL.PA"
+]
+},
+{
+"t": "ERF.PA",
+"n": "Eurofins Scientific",
+"s": "Healthcare",
+"y": "ERF.PA",
+"sh": 171002223.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Eurofins Scientific SE",
+"alts": [
+"ERF.PA"
+]
+},
+{
+"t": "ENX.PA",
+"n": "Euronext",
+"s": "Financial Services",
+"y": "ENX.PA",
+"sh": 99740109.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Euronext N.V.",
+"alts": [
+"ENX.PA"
+]
+},
+{
+"t": "RMS.PA",
+"n": "Hermès",
+"s": "Consumer Cyclical",
+"y": "RMS.PA",
+"sh": 104602982.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Hermès International Société en commandite par actions",
+"alts": [
+"RMS.PA"
+]
+},
+{
+"t": "KER.PA",
+"n": "Kering",
+"s": "Consumer Cyclical",
+"y": "KER.PA",
+"sh": 122648328.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Kering SA",
+"alts": [
+"KER.PA"
+]
+},
+{
+"t": "OR.PA",
+"n": "L'Oréal",
+"s": "Consumer Defensive",
+"y": "OR.PA",
+"sh": 533314966.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "L'Oréal S.A.",
+"alts": [
+"OR.PA"
+]
+},
+{
+"t": "LR.PA",
+"n": "Legrand",
+"s": "Industrials",
+"y": "LR.PA",
+"sh": 262096701.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Legrand SA",
+"alts": [
+"LR.PA"
+]
+},
+{
+"t": "MC.PA",
+"n": "LVMH",
+"s": "Consumer Cyclical",
+"y": "MC.PA",
+"sh": 490630174.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+"alts": [
+"MC.PA"
+]
+},
+{
+"t": "ML.PA",
+"n": "Michelin",
+"s": "Industrials",
+"y": "ML.PA",
+"sh": 713302016.0,
+"shAt": "2026-11-25",
+"yn": "Compagnie Générale des Établissements Michelin Société en commandite par actions",
+"alts": [
+"ML.PA"
+]
+},
+{
+"t": "ORA.PA",
+"n": "Orange",
+"s": "Communication Services",
+"y": "ORA.PA",
+"sh": 2651421454.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Orange S.A.",
+"alts": [
+"ORA.PA"
+]
+},
+{
+"t": "RI.PA",
+"n": "Pernod Ricard",
+"s": "Consumer Defensive",
+"y": "RI.PA",
+"sh": 251818962.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Pernod Ricard SA",
+"alts": [
+"RI.PA"
+]
+},
+{
+"t": "PUB.PA",
+"n": "Publicis",
+"s": "Communication Services",
+"y": "PUB.PA",
+"sh": 249721079.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Publicis Groupe S.A.",
+"alts": [
+"PUB.PA"
+]
+},
+{
+"t": "RNO.PA",
+"n": "Renault",
+"s": "Consumer Cyclical",
+"y": "RNO.PA",
+"sh": 289373409.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Renault SA",
+"alts": [
+"RNO.PA"
+]
+},
+{
+"t": "SAF.PA",
+"n": "Safran",
+"s": "Industrials",
+"y": "SAF.PA",
+"sh": 413155288.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Safran SA",
+"alts": [
+"SAF.PA"
+]
+},
+{
+"t": "SGO.PA",
+"n": "Saint-Gobain",
+"s": "Industrials",
+"y": "SGO.PA",
+"sh": 487220483.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Compagnie de Saint-Gobain S.A.",
+"alts": [
+"SGO.PA"
+]
+},
+{
+"t": "SAN.PA",
+"n": "Sanofi",
+"s": "Healthcare",
+"y": "SAN.PA",
+"sh": 1200606331.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Sanofi",
+"alts": [
+"SAN.PA"
+]
+},
+{
+"t": "SU.PA",
+"n": "Schneider Electric",
+"s": "Industrials",
+"y": "SU.PA",
+"sh": 587633141.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Schneider Electric S.E.",
+"alts": [
+"SU.PA"
+]
+},
+{
+"t": "GLE.PA",
+"n": "Société Générale",
+"s": "Financial Services",
+"y": "GLE.PA",
+"sh": 716670000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Société Générale Société anonyme",
+"alts": [
+"GLE.PA"
+]
+},
+{
+"t": "STLAP.PA",
+"n": "Stellantis",
+"s": "Consumer Cyclical",
+"y": "STLAP.PA",
+"sh": 2904596446.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Stellantis N.V.",
+"alts": [
+"STLAP.PA"
+]
+},
+{
+"t": "STMPA.PA",
+"n": "STMicroelectronics",
+"s": "Technology",
+"y": "STMPA.PA",
+"sh": 892920905.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "STMicroelectronics N.V.",
+"alts": [
+"STMPA.PA"
+]
+},
+{
+"t": "HO.PA",
+"n": "Thales",
+"s": "Industrials",
+"y": "HO.PA",
+"sh": 205546233.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Thales S.A.",
+"alts": [
+"HO.PA"
+]
+},
+{
+"t": "TTE.PA",
+"n": "TotalEnergies",
+"s": "Energy",
+"y": "TTE.PA",
+"sh": 2190574255.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "TotalEnergies SE",
+"alts": [
+"TTE.PA"
+]
+},
+{
+"t": "URW.PA",
+"n": "Unibail-Rodamco-Westfield",
+"s": "Real Estate",
+"y": "URW.PA",
+"sh": 144549701.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Unibail-Rodamco-Westfield SE",
+"alts": [
+"URW.PA"
+]
+},
+{
+"t": "VIE.PA",
+"n": "Veolia",
+"s": "Industrials",
+"y": "VIE.PA",
+"sh": 731998150.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Veolia Environnement SA",
+"alts": [
+"VIE.PA"
+]
+},
+{
+"t": "DG.PA",
+"n": "Vinci",
+"s": "Industrials",
+"y": "DG.PA",
+"sh": 550097470.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Vinci SA",
+"alts": [
+"DG.PA"
+]
+}
+]

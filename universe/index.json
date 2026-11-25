@@ -1,0 +1,105 @@
+{
+ "generatedAt": "2026-11-25T11:27Z",
+ "countries": [
+  {
+   "code": "US",
+   "name": "United States",
+   "index": "S&P 500",
+   "file": "US.json",
+   "asOf": "2026-11-24",
+   "n": 503,
+   "priced": 502
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "index": "IBEX 35",
+   "file": "ES.json",
+   "asOf": "2026-11-25",
+   "n": 35,
+   "priced": 35
+  },
+  {
+   "code": "UK",
+   "name": "United Kingdom",
+   "index": "FTSE 100",
+   "file": "UK.json",
+   "asOf": "2026-11-25",
+   "n": 100,
+   "priced": 100
+  },
+  {
+   "code": "MX",
+   "name": "Mexico",
+   "index": "S&P/BMV IPC",
+   "file": "MX.json",
+   "asOf": "2026-11-24",
+   "n": 35,
+   "priced": 35
+  },
+  {
+   "code": "BR",
+   "name": "Brazil",
+   "index": "Ibovespa",
+   "file": "BR.json",
+   "asOf": "2026-11-24",
+   "n": 76,
+   "priced": 76
+  },
+  {
+   "code": "DE",
+   "name": "Germany",
+   "index": "DAX 40",
+   "file": "DE.json",
+   "asOf": "2026-11-25",
+   "n": 40,
+   "priced": 40
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "index": "CAC 40",
+   "file": "FR.json",
+   "asOf": "2026-11-25",
+   "n": 40,
+   "priced": 40
+  },
+  {
+   "code": "NL",
+   "name": "Netherlands",
+   "index": "AEX",
+   "file": "NL.json",
+   "asOf": "2026-11-25",
+   "n": 25,
+   "priced": 25
+  },
+  {
+   "code": "CH",
+   "name": "Switzerland",
+   "index": "SMI",
+   "file": "CH.json",
+   "asOf": "2026-11-25",
+   "n": 20,
+   "priced": 20
+  },
+  {
+   "code": "JP",
+   "name": "Japan",
+   "index": "Nikkei 225",
+   "file": "JP.json",
+   "asOf": "2026-11-25",
+   "n": 224,
+   "priced": 224
+  },
+  {
+   "code": "HK",
+   "name": "Hong Kong",
+   "index": "Hang Seng",
+   "file": "HK.json",
+   "asOf": "2026-11-25",
+   "n": 85,
+   "priced": 85
+  }
+ ],
+ "errors": []
+}

@@ -1,0 +1,327 @@
+[
+{
+"t": "ABN.AS",
+"n": "ABN AMRO",
+"s": "Financials",
+"y": "ABN.AS",
+"sh": 814935713.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "ABN AMRO Bank N.V.",
+"alts": [
+"ABN.AS"
+]
+},
+{
+"t": "ADYEN.AS",
+"n": "Adyen",
+"s": "Industrials",
+"y": "ADYEN.AS",
+"sh": 31566677.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Adyen N.V.",
+"alts": [
+"ADYEN.AS"
+]
+},
+{
+"t": "AGN.AS",
+"n": "Aegon",
+"s": "Financials",
+"y": "AGN.AS",
+"sh": 1456605803.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aegon Ltd.",
+"alts": [
+"AGN.AS"
+]
+},
+{
+"t": "AD.AS",
+"n": "Ahold Delhaize",
+"s": "Consumer Staples",
+"y": "AD.AS",
+"sh": 873011999.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Koninklijke Ahold Delhaize N.V.",
+"alts": [
+"AD.AS"
+]
+},
+{
+"t": "AKZA.AS",
+"n": "AkzoNobel",
+"s": "Basic Materials",
+"y": "AKZA.AS",
+"sh": 171400000.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Akzo Nobel N.V.",
+"alts": [
+"AKZA.AS"
+]
+},
+{
+"t": "MT.AS",
+"n": "ArcelorMittal",
+"s": "Basic Materials",
+"y": "MT.AS",
+"sh": 751935008.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "ArcelorMittal S.A.",
+"alts": [
+"MT.AS"
+]
+},
+{
+"t": "ASM.AS",
+"n": "ASM International",
+"s": "Technology",
+"y": "ASM.AS",
+"sh": 48792435.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "ASM International NV",
+"alts": [
+"ASM.AS"
+]
+},
+{
+"t": "ASML.AS",
+"n": "ASML Holding",
+"s": "Technology",
+"y": "ASML.AS",
+"sh": 385417742.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "ASML Holding N.V.",
+"alts": [
+"ASML.AS"
+]
+},
+{
+"t": "ASRNL.AS",
+"n": "ASR Nederland",
+"s": "Financials",
+"y": "ASRNL.AS",
+"sh": 201549565.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "ASR Nederland N.V.",
+"alts": [
+"ASRNL.AS"
+]
+},
+{
+"t": "BESI.AS",
+"n": "BE Semiconductors",
+"s": "Technology",
+"y": "BESI.AS",
+"sh": 79050402.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "BE Semiconductor Industries N.V.",
+"alts": [
+"BESI.AS"
+]
+},
+{
+"t": "DSFIR.AS",
+"n": "DSM Firmenich AG",
+"s": "Consumer Staples",
+"y": "DSFIR.AS",
+"sh": 244361250.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "DSM-Firmenich AG",
+"alts": [
+"DSFIR.AS"
+]
+},
+{
+"t": "EXO.AS",
+"n": "Exor",
+"s": "Financials",
+"y": "EXO.AS",
+"sh": 200220210.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Exor N.V.",
+"alts": [
+"EXO.AS"
+]
+},
+{
+"t": "HEIA.AS",
+"n": "Heineken",
+"s": "Consumer Staples",
+"y": "HEIA.AS",
+"sh": 557994949.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Heineken N.V.",
+"alts": [
+"HEIA.AS"
+]
+},
+{
+"t": "IMCD.AS",
+"n": "IMCD",
+"s": "Basic Materials",
+"y": "IMCD.AS",
+"sh": 59044962.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "IMCD N.V.",
+"alts": [
+"IMCD.AS"
+]
+},
+{
+"t": "INGA.AS",
+"n": "ING Group",
+"s": "Financials",
+"y": "INGA.AS",
+"sh": 2833560687.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "ING Groep N.V.",
+"alts": [
+"INGA.AS"
+]
+},
+{
+"t": "KPN.AS",
+"n": "KPN",
+"s": "Telecommunications",
+"y": "KPN.AS",
+"sh": 3772121708.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Koninklijke KPN N.V.",
+"alts": [
+"KPN.AS"
+]
+},
+{
+"t": "NN.AS",
+"n": "NN Group",
+"s": "Financials",
+"y": "NN.AS",
+"sh": 258222621.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "NN Group N.V.",
+"alts": [
+"NN.AS"
+]
+},
+{
+"t": "PHIA.AS",
+"n": "Philips",
+"s": "Health Care",
+"y": "PHIA.AS",
+"sh": 977614000.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Koninklijke Philips N.V.",
+"alts": [
+"PHIA.AS"
+]
+},
+{
+"t": "PRX.AS",
+"n": "Prosus",
+"s": "Technology",
+"y": "PRX.AS",
+"sh": 2089956053.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Prosus N.V.",
+"alts": [
+"PRX.AS"
+]
+},
+{
+"t": "RAND.AS",
+"n": "Randstad",
+"s": "Industrials",
+"y": "RAND.AS",
+"sh": 175450661.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Randstad N.V.",
+"alts": [
+"RAND.AS"
+]
+},
+{
+"t": "REN.AS",
+"n": "RELX",
+"s": "Consumer Discretionary",
+"y": "REN.AS",
+"sh": 1733368490.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "RELX PLC",
+"alts": [
+"REN.AS"
+]
+},
+{
+"t": "SHELL.AS",
+"n": "Shell plc",
+"s": "Energy",
+"y": "SHELL.AS",
+"sh": 5640925059.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Shell plc",
+"alts": [
+"SHELL.AS"
+]
+},
+{
+"t": "UMG.AS",
+"n": "Universal Music Group",
+"s": "Consumer Discretionary",
+"y": "UMG.AS",
+"sh": 1798210619.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Universal Music Group N.V.",
+"alts": [
+"UMG.AS"
+]
+},
+{
+"t": "UNA.AS",
+"n": "Unilever",
+"s": "Consumer Staples",
+"y": "UNA.AS",
+"sh": 2153366959.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Unilever PLC",
+"alts": [
+"UNA.AS"
+]
+},
+{
+"t": "WKL.AS",
+"n": "Wolters Kluwer",
+"s": "Consumer Discretionary",
+"y": "WKL.AS",
+"sh": 222433563.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Wolters Kluwer N.V.",
+"alts": [
+"WKL.AS"
+]
+}
+]

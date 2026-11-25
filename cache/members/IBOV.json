@@ -1,0 +1,988 @@
+[
+{
+"t": "ALOS3",
+"n": "ALLOS",
+"s": "",
+"y": "ALOS3.SA",
+"sh": 500139358.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Allos S.A.",
+"alts": [
+"ALOS3.SA"
+]
+},
+{
+"t": "ABEV3",
+"n": "AMBEV S/A",
+"s": "",
+"y": "ABEV3.SA",
+"sh": 15414015196.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Ambev S.A.",
+"alts": [
+"ABEV3.SA"
+]
+},
+{
+"t": "ASAI3",
+"n": "ASSAI",
+"s": "",
+"y": "ASAI3.SA",
+"sh": 1331477403.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Sendas Distribuidora S.A.",
+"alts": [
+"ASAI3.SA"
+]
+},
+{
+"t": "AURE3",
+"n": "AUREN",
+"s": "",
+"y": "AURE3.SA",
+"sh": 1043660054.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Auren Energia S.A.",
+"alts": [
+"AURE3.SA"
+]
+},
+{
+"t": "AXIA3",
+"n": "AXIA ENERGIA",
+"s": "",
+"y": "AXIA3.SA",
+"sh": 2413102486.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "AXIA Energia SA",
+"alts": [
+"AXIA3.SA"
+]
+},
+{
+"t": "AZZA3",
+"n": "AZZAS 2154",
+"s": "",
+"y": "AZZA3.SA",
+"sh": 202176943.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Azzas 2154 S.A.",
+"alts": [
+"AZZA3.SA"
+]
+},
+{
+"t": "B3SA3",
+"n": "B3",
+"s": "",
+"y": "B3SA3.SA",
+"sh": 4973779255.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "B3 S.A. - Brasil, Bolsa, Balcão",
+"alts": [
+"B3SA3.SA"
+]
+},
+{
+"t": "BBSE3",
+"n": "BBSEGURIDADE",
+"s": "",
+"y": "BBSE3.SA",
+"sh": 1941248544.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "BB Seguridade Participações S.A.",
+"alts": [
+"BBSE3.SA"
+]
+},
+{
+"t": "BBDC3",
+"n": "BRADESCO",
+"s": "",
+"y": "BBDC3.SA",
+"sh": 11165377881.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco Bradesco S.A.",
+"alts": [
+"BBDC3.SA"
+]
+},
+{
+"t": "BBDC4",
+"n": "BRADESCO",
+"s": "",
+"y": "BBDC4.SA",
+"sh": 11165377881.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco Bradesco S.A.",
+"alts": [
+"BBDC4.SA"
+]
+},
+{
+"t": "BRAP4",
+"n": "BRADESPAR",
+"s": "",
+"y": "BRAP4.SA",
+"sh": 393096610.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Bradespar S.A.",
+"alts": [
+"BRAP4.SA"
+]
+},
+{
+"t": "BBAS3",
+"n": "BRASIL",
+"s": "",
+"y": "BBAS3.SA",
+"sh": 5708922664.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco do Brasil S.A.",
+"alts": [
+"BBAS3.SA"
+]
+},
+{
+"t": "BRAV3",
+"n": "BRAVA",
+"s": "",
+"y": "BRAV3.SA",
+"sh": 464543102.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Brava Energia S.A.",
+"alts": [
+"BRAV3.SA"
+]
+},
+{
+"t": "BPAC11",
+"n": "BTGP BANCO",
+"s": "",
+"y": "BPAC11.SA",
+"sh": 3342095256.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco BTG Pactual S.A.",
+"alts": [
+"BPAC11.SA"
+]
+},
+{
+"t": "CXSE3",
+"n": "CAIXA SEGURI",
+"s": "",
+"y": "CXSE3.SA",
+"sh": 3000000000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Caixa Seguridade Participações S.A.",
+"alts": [
+"CXSE3.SA"
+]
+},
+{
+"t": "CEAB3",
+"n": "CEA MODAS",
+"s": "",
+"y": "CEAB3.SA",
+"sh": 296063123.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "C&A Modas S.A.",
+"alts": [
+"CEAB3.SA"
+]
+},
+{
+"t": "CMIG4",
+"n": "CEMIG",
+"s": "",
+"y": "CMIG4.SA",
+"sh": 2860681883.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Companhia Energética de Minas Gerais - CEMIG",
+"alts": [
+"CMIG4.SA"
+]
+},
+{
+"t": "COGN3",
+"n": "COGNA ON",
+"s": "",
+"y": "COGN3.SA",
+"sh": 2005487378.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Cogna Educação S.A.",
+"alts": [
+"COGN3.SA"
+]
+},
+{
+"t": "CSMG3",
+"n": "COPASA",
+"s": "",
+"y": "CSMG3.SA",
+"sh": 379181429.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Companhia de Saneamento de Minas Gerais",
+"alts": [
+"CSMG3.SA"
+]
+},
+{
+"t": "CPLE3",
+"n": "COPEL",
+"s": "",
+"y": "CPLE3.SA",
+"sh": 2969610592.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Companhia Paranaense de Energia - COPEL",
+"alts": [
+"CPLE3.SA"
+]
+},
+{
+"t": "CSAN3",
+"n": "COSAN",
+"s": "",
+"y": "CSAN3.SA",
+"sh": 3945436186.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Cosan S.A.",
+"alts": [
+"CSAN3.SA"
+]
+},
+{
+"t": "CPFE3",
+"n": "CPFL ENERGIA",
+"s": "",
+"y": "CPFE3.SA",
+"sh": 1152254440.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "CPFL Energia S.A.",
+"alts": [
+"CPFE3.SA"
+]
+},
+{
+"t": "CMIN3",
+"n": "CSNMINERACAO",
+"s": "",
+"y": "CMIN3.SA",
+"sh": 5367528538.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "CSN Mineração S.A.",
+"alts": [
+"CMIN3.SA"
+]
+},
+{
+"t": "CURY3",
+"n": "CURY S/A",
+"s": "",
+"y": "CURY3.SA",
+"sh": 308047594.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Cury Construtora e Incorporadora S.A.",
+"alts": [
+"CURY3.SA"
+]
+},
+{
+"t": "CYRE3",
+"n": "CYRELA REALT",
+"s": "",
+"y": "CYRE3.SA",
+"sh": 356672839.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
+"alts": [
+"CYRE3.SA"
+]
+},
+{
+"t": "DIRR3",
+"n": "DIRECIONAL",
+"s": "",
+"y": "DIRR3.SA",
+"sh": 518898690.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Direcional Engenharia S.A.",
+"alts": [
+"DIRR3.SA"
+]
+},
+{
+"t": "EMBJ3",
+"n": "EMBRAER",
+"s": "",
+"y": "EMBJ3.SA",
+"sh": 711833141.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Embraer S.A.",
+"alts": [
+"EMBJ3.SA"
+]
+},
+{
+"t": "ENGI11",
+"n": "ENERGISA",
+"s": "",
+"y": "ENGI11.SA",
+"sh": 457130457.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Energisa S.A.",
+"alts": [
+"ENGI11.SA"
+]
+},
+{
+"t": "ENEV3",
+"n": "ENEVA",
+"s": "",
+"y": "ENEV3.SA",
+"sh": 1920366806.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Eneva S.A.",
+"alts": [
+"ENEV3.SA"
+]
+},
+{
+"t": "EGIE3",
+"n": "ENGIE BRASIL",
+"s": "",
+"y": "EGIE3.SA",
+"sh": 1416381520.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Engie Brasil Energia S.A.",
+"alts": [
+"EGIE3.SA"
+]
+},
+{
+"t": "EQTL3",
+"n": "EQUATORIAL",
+"s": "",
+"y": "EQTL3.SA",
+"sh": 1256298711.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Equatorial S.A.",
+"alts": [
+"EQTL3.SA"
+]
+},
+{
+"t": "FLRY3",
+"n": "FLEURY",
+"s": "",
+"y": "FLRY3.SA",
+"sh": 543626208.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Fleury S.A.",
+"alts": [
+"FLRY3.SA"
+]
+},
+{
+"t": "GGBR4",
+"n": "GERDAU",
+"s": "",
+"y": "GGBR4.SA",
+"sh": 1961396150.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Gerdau S.A.",
+"alts": [
+"GGBR4.SA"
+]
+},
+{
+"t": "GOAU4",
+"n": "GERDAU MET",
+"s": "",
+"y": "GOAU4.SA",
+"sh": 1318768048.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Metalurgica Gerdau S.A.",
+"alts": [
+"GOAU4.SA"
+]
+},
+{
+"t": "HAPV3",
+"n": "HAPVIDA",
+"s": "",
+"y": "HAPV3.SA",
+"sh": 475176680.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Hapvida Participações e Investimentos S.A.",
+"alts": [
+"HAPV3.SA"
+]
+},
+{
+"t": "HYPE3",
+"n": "HYPERA",
+"s": "",
+"y": "HYPE3.SA",
+"sh": 703995955.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Hypera S.A.",
+"alts": [
+"HYPE3.SA"
+]
+},
+{
+"t": "IGTI11",
+"n": "IGUATEMI S.A",
+"s": "",
+"y": "IGTI11.SA",
+"ys": "Real Estate",
+"yn": "Iguatemi S.A.",
+"alts": [
+"IGTI11.SA"
+]
+},
+{
+"t": "ISAE4",
+"n": "ISA ENERGIA",
+"s": "",
+"y": "ISAE4.SA",
+"sh": 703327748.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "ISA Energía Brasil S.A.",
+"alts": [
+"ISAE4.SA"
+]
+},
+{
+"t": "ITSA4",
+"n": "ITAUSA",
+"s": "",
+"y": "ITSA4.SA",
+"sh": 11207349976.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Itaúsa S.A.",
+"alts": [
+"ITSA4.SA"
+]
+},
+{
+"t": "ITUB4",
+"n": "ITAUUNIBANCO",
+"s": "",
+"y": "ITUB4.SA",
+"sh": 11022025902.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Itaú Unibanco Holding S.A.",
+"alts": [
+"ITUB4.SA"
+]
+},
+{
+"t": "KLBN11",
+"n": "KLABIN S/A",
+"s": "",
+"y": "KLBN11.SA",
+"sh": 7106061317.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Klabin S.A.",
+"alts": [
+"KLBN11.SA"
+]
+},
+{
+"t": "RENT3",
+"n": "LOCALIZA",
+"s": "",
+"y": "RENT3.SA",
+"sh": 1104798323.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Localiza Rent a Car S.A.",
+"alts": [
+"RENT3.SA"
+]
+},
+{
+"t": "LREN3",
+"n": "LOJAS RENNER",
+"s": "",
+"y": "LREN3.SA",
+"sh": 945452448.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Lojas Renner S.A.",
+"alts": [
+"LREN3.SA"
+]
+},
+{
+"t": "MGLU3",
+"n": "MAGAZ LUIZA",
+"s": "",
+"y": "MGLU3.SA",
+"sh": 775695038.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Magazine Luiza S.A.",
+"alts": [
+"MGLU3.SA"
+]
+},
+{
+"t": "POMO4",
+"n": "MARCOPOLO",
+"s": "",
+"y": "POMO4.SA",
+"sh": 1233144035.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Marcopolo S.A.",
+"alts": [
+"POMO4.SA"
+]
+},
+{
+"t": "MBRF3",
+"n": "MARFRIG",
+"s": "",
+"y": "MBRF3.SA",
+"sh": 1363614553.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "MBRF Global Foods Company S.A.",
+"alts": [
+"MBRF3.SA"
+]
+},
+{
+"t": "BEEF3",
+"n": "MINERVA",
+"s": "",
+"y": "BEEF3.SA",
+"sh": 991718511.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Minerva S.A.",
+"alts": [
+"BEEF3.SA"
+]
+},
+{
+"t": "MOTV3",
+"n": "MOTIVA SA",
+"s": "",
+"y": "MOTV3.SA",
+"sh": 2009492918.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Motiva Infraestrutura de Mobilidade S.A.",
+"alts": [
+"MOTV3.SA"
+]
+},
+{
+"t": "MRVE3",
+"n": "MRV",
+"s": "",
+"y": "MRVE3.SA",
+"sh": 562834423.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "MRV Engenharia e Participações S.A.",
+"alts": [
+"MRVE3.SA"
+]
+},
+{
+"t": "MULT3",
+"n": "MULTIPLAN",
+"s": "",
+"y": "MULT3.SA",
+"sh": 489201788.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Multiplan Empreendimentos Imobiliários S.A.",
+"alts": [
+"MULT3.SA"
+]
+},
+{
+"t": "NATU3",
+"n": "NATURA",
+"s": "",
+"y": "NATU3.SA",
+"sh": 1373984502.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Natura Cosméticos S.A.",
+"alts": [
+"NATU3.SA"
+]
+},
+{
+"t": "PETR3",
+"n": "PETROBRAS",
+"s": "",
+"y": "PETR3.SA",
+"sh": 12888732761.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Petróleo Brasileiro S.A. - Petrobras",
+"alts": [
+"PETR3.SA"
+]
+},
+{
+"t": "PETR4",
+"n": "PETROBRAS",
+"s": "",
+"y": "PETR4.SA",
+"sh": 13663485771.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Petróleo Brasileiro S.A. - Petrobras",
+"alts": [
+"PETR4.SA"
+]
+},
+{
+"t": "PSSA3",
+"n": "PORTO SEGURO",
+"s": "",
+"y": "PSSA3.SA",
+"sh": 640402160.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Porto Seguro S.A.",
+"alts": [
+"PSSA3.SA"
+]
+},
+{
+"t": "PRIO3",
+"n": "PRIO",
+"s": "",
+"y": "PRIO3.SA",
+"sh": 791606701.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Prio S.A.",
+"alts": [
+"PRIO3.SA"
+]
+},
+{
+"t": "RADL3",
+"n": "RAIADROGASIL",
+"s": "",
+"y": "RADL3.SA",
+"sh": 1748536237.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Raia Drogasil S.A.",
+"alts": [
+"RADL3.SA"
+]
+},
+{
+"t": "RDOR3",
+"n": "REDE D OR",
+"s": "",
+"y": "RDOR3.SA",
+"sh": 2167204749.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Rede D'Or São Luiz S.A.",
+"alts": [
+"RDOR3.SA"
+]
+},
+{
+"t": "RAIL3",
+"n": "RUMO S.A.",
+"s": "",
+"y": "RAIL3.SA",
+"sh": 1856645313.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Rumo S.A.",
+"alts": [
+"RAIL3.SA"
+]
+},
+{
+"t": "SBSP3",
+"n": "SABESP",
+"s": "",
+"y": "SBSP3.SA",
+"sh": 3526467355.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+"alts": [
+"SBSP3.SA"
+]
+},
+{
+"t": "SANB11",
+"n": "SANTANDER BR",
+"s": "",
+"y": "SANB11.SA",
+"sh": 4720421578.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco Santander (Brasil) S.A.",
+"alts": [
+"SANB11.SA"
+]
+},
+{
+"t": "CSNA3",
+"n": "SID NACIONAL",
+"s": "",
+"y": "CSNA3.SA",
+"sh": 1326093947.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Companhia Siderúrgica Nacional",
+"alts": [
+"CSNA3.SA"
+]
+},
+{
+"t": "SMFT3",
+"n": "SMART FIT",
+"s": "",
+"y": "SMFT3.SA",
+"sh": 612086280.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Smartfit Escola de Ginástica e Dança S.A.",
+"alts": [
+"SMFT3.SA"
+]
+},
+{
+"t": "SUZB3",
+"n": "SUZANO S.A.",
+"s": "",
+"y": "SUZB3.SA",
+"sh": 1230310722.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Suzano S.A.",
+"alts": [
+"SUZB3.SA"
+]
+},
+{
+"t": "TAEE11",
+"n": "TAESA",
+"s": "",
+"y": "TAEE11.SA",
+"sh": 344498907.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Transmissora Aliança de Energia Elétrica S.A.",
+"alts": [
+"TAEE11.SA"
+]
+},
+{
+"t": "VIVT3",
+"n": "TELEF BRASIL",
+"s": "",
+"y": "VIVT3.SA",
+"sh": 3195606352.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Telefônica Brasil S.A.",
+"alts": [
+"VIVT3.SA"
+]
+},
+{
+"t": "TEND3",
+"n": "TENDA",
+"s": "",
+"y": "TEND3.SA",
+"sh": 122578152.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Construtora Tenda S.A.",
+"alts": [
+"TEND3.SA"
+]
+},
+{
+"t": "TIMS3",
+"n": "TIM",
+"s": "",
+"y": "TIMS3.SA",
+"sh": 2376799012.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "TIM S.A.",
+"alts": [
+"TIMS3.SA"
+]
+},
+{
+"t": "TOTS3",
+"n": "TOTVS",
+"s": "",
+"y": "TOTS3.SA",
+"sh": 562778457.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "TOTVS S.A.",
+"alts": [
+"TOTS3.SA"
+]
+},
+{
+"t": "UGPA3",
+"n": "ULTRAPAR",
+"s": "",
+"y": "UGPA3.SA",
+"sh": 1064562759.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Ultrapar Participações S.A.",
+"alts": [
+"UGPA3.SA"
+]
+},
+{
+"t": "USIM5",
+"n": "USIMINAS",
+"s": "",
+"y": "USIM5.SA",
+"sh": 1230942660.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Usinas Siderúrgicas de Minas Gerais S.A.",
+"alts": [
+"USIM5.SA"
+]
+},
+{
+"t": "VALE3",
+"n": "VALE",
+"s": "",
+"y": "VALE3.SA",
+"sh": 4255763725.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Vale S.A.",
+"alts": [
+"VALE3.SA"
+]
+},
+{
+"t": "VAMO3",
+"n": "VAMOS",
+"s": "",
+"y": "VAMO3.SA",
+"sh": 1221740534.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+"alts": [
+"VAMO3.SA"
+]
+},
+{
+"t": "VBBR3",
+"n": "VIBRA",
+"s": "",
+"y": "VBBR3.SA",
+"sh": 1196573885.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Vibra Energia S.A.",
+"alts": [
+"VBBR3.SA"
+]
+},
+{
+"t": "VIVA3",
+"n": "VIVARA S.A.",
+"s": "",
+"y": "VIVA3.SA",
+"sh": 234785052.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Vivara Participações S.A.",
+"alts": [
+"VIVA3.SA"
+]
+},
+{
+"t": "WEGE3",
+"n": "WEG",
+"s": "",
+"y": "WEGE3.SA",
+"sh": 4195829691.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "WEG S.A.",
+"alts": [
+"WEGE3.SA"
+]
+},
+{
+"t": "YDUQ3",
+"n": "YDUQS PART",
+"s": "",
+"y": "YDUQ3.SA",
+"sh": 254519572.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Yduqs Participações S.A.",
+"alts": [
+"YDUQ3.SA"
+]
+}
+]

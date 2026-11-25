@@ -1,0 +1,522 @@
+[
+{
+"t": "ADS.DE",
+"n": "Adidas",
+"s": "Apparel",
+"y": "ADS.DE",
+"sh": 169062879.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "adidas AG",
+"alts": [
+"ADS.DE"
+]
+},
+{
+"t": "AIR.PA",
+"n": "Airbus",
+"s": "Aerospace & Defence",
+"y": "AIR.PA",
+"sh": 789141199.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Airbus SE",
+"alts": [
+"AIR.PA"
+]
+},
+{
+"t": "ALV.DE",
+"n": "Allianz",
+"s": "Financial Services",
+"y": "ALV.DE",
+"sh": 373994237.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Allianz SE",
+"alts": [
+"ALV.DE"
+]
+},
+{
+"t": "BAS.DE",
+"n": "BASF",
+"s": "Chemicals",
+"y": "BAS.DE",
+"sh": 860921903.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "BASF SE",
+"alts": [
+"BAS.DE"
+]
+},
+{
+"t": "BAYN.DE",
+"n": "Bayer",
+"s": "Pharmaceuticals",
+"y": "BAYN.DE",
+"sh": 982424082.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Bayer Aktiengesellschaft",
+"alts": [
+"BAYN.DE"
+]
+},
+{
+"t": "BEI.DE",
+"n": "Beiersdorf",
+"s": "Consumer goods",
+"y": "BEI.DE",
+"sh": 218072613.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Beiersdorf Aktiengesellschaft",
+"alts": [
+"BEI.DE"
+]
+},
+{
+"t": "BMW.DE",
+"n": "BMW",
+"s": "Automotive",
+"y": "BMW.DE",
+"sh": 591133711.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Bayerische Motoren Werke Aktiengesellschaft",
+"alts": [
+"BMW.DE"
+]
+},
+{
+"t": "BNR.DE",
+"n": "Brenntag",
+"s": "Distribution",
+"y": "BNR.DE",
+"sh": 144385372.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Brenntag SE",
+"alts": [
+"BNR.DE"
+]
+},
+{
+"t": "CBK.DE",
+"n": "Commerzbank",
+"s": "Financial Services",
+"y": "CBK.DE",
+"sh": 1080847095.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Commerzbank AG",
+"alts": [
+"CBK.DE"
+]
+},
+{
+"t": "CON.DE",
+"n": "Continental",
+"s": "Automotive",
+"y": "CON.DE",
+"sh": 200005983.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Continental Aktiengesellschaft",
+"alts": [
+"CON.DE"
+]
+},
+{
+"t": "DTG.DE",
+"n": "Daimler Truck",
+"s": "Automotive",
+"y": "DTG.DE",
+"sh": 757334352.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Daimler Truck Holding AG",
+"alts": [
+"DTG.DE"
+]
+},
+{
+"t": "DBK.DE",
+"n": "Deutsche Bank",
+"s": "Financial Services",
+"y": "DBK.DE",
+"sh": 1854100000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Deutsche Bank Aktiengesellschaft",
+"alts": [
+"DBK.DE"
+]
+},
+{
+"t": "DB1.DE",
+"n": "Deutsche Börse",
+"s": "Financial Services",
+"y": "DB1.DE",
+"sh": 178187660.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Deutsche Börse AG",
+"alts": [
+"DB1.DE"
+]
+},
+{
+"t": "DHL.DE",
+"n": "Deutsche Post",
+"s": "Logistics",
+"y": "DHL.DE",
+"sh": 1110000000.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "DHL AG",
+"alts": [
+"DHL.DE"
+]
+},
+{
+"t": "DTE.DE",
+"n": "Deutsche Telekom",
+"s": "Telecommunication",
+"y": "DTE.DE",
+"sh": 4782610264.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Deutsche Telekom AG",
+"alts": [
+"DTE.DE"
+]
+},
+{
+"t": "EOAN.DE",
+"n": "E.ON",
+"s": "Utilities",
+"y": "EOAN.DE",
+"sh": 2613077958.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "E.ON SE",
+"alts": [
+"EOAN.DE"
+]
+},
+{
+"t": "FRE.DE",
+"n": "Fresenius",
+"s": "Healthcare",
+"y": "FRE.DE",
+"sh": 563237277.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Fresenius SE & Co. KGaA",
+"alts": [
+"FRE.DE"
+]
+},
+{
+"t": "FME.DE",
+"n": "Fresenius Medical Care",
+"s": "Healthcare",
+"y": "FME.DE",
+"sh": 259509365.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Fresenius Medical Care AG",
+"alts": [
+"FME.DE"
+]
+},
+{
+"t": "G1A.DE",
+"n": "GEA Group",
+"s": "Mechanical Engineering",
+"y": "G1A.DE",
+"sh": 162712763.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "GEA Group Aktiengesellschaft",
+"alts": [
+"G1A.DE"
+]
+},
+{
+"t": "HNR1.DE",
+"n": "Hannover Re",
+"s": "Insurance",
+"y": "HNR1.DE",
+"sh": 120597134.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Hannover Rück SE",
+"alts": [
+"HNR1.DE"
+]
+},
+{
+"t": "HEI.DE",
+"n": "Heidelberg Materials",
+"s": "Construction Materials",
+"y": "HEI.DE",
+"sh": 175801909.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Heidelberg Materials AG",
+"alts": [
+"HEI.DE"
+]
+},
+{
+"t": "HEN3.DE",
+"n": "Henkel",
+"s": "Consumer Goods",
+"y": "HEN3.DE",
+"sh": 404850922.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Henkel AG & Co. KGaA",
+"alts": [
+"HEN3.DE"
+]
+},
+{
+"t": "IFX.DE",
+"n": "Infineon Technologies",
+"s": "Technology",
+"y": "IFX.DE",
+"sh": 1300655393.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Infineon Technologies AG",
+"alts": [
+"IFX.DE"
+]
+},
+{
+"t": "MBG.DE",
+"n": "Mercedes-Benz Group",
+"s": "Automotive",
+"y": "MBG.DE",
+"sh": 949232324.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Mercedes-Benz Group AG",
+"alts": [
+"MBG.DE"
+]
+},
+{
+"t": "MRK.DE",
+"n": "Merck",
+"s": "Pharmaceuticals",
+"y": "MRK.DE",
+"sh": 434777878.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Merck KGaA",
+"alts": [
+"MRK.DE"
+]
+},
+{
+"t": "MTX.DE",
+"n": "MTU Aero Engines",
+"s": "Aerospace & Defence",
+"y": "MTX.DE",
+"sh": 53870614.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "MTU Aero Engines AG",
+"alts": [
+"MTX.DE"
+]
+},
+{
+"t": "MUV2.DE",
+"n": "Munich Re",
+"s": "Financial Services",
+"y": "MUV2.DE",
+"sh": 125814467.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München",
+"alts": [
+"MUV2.DE"
+]
+},
+{
+"t": "PAH3.DE",
+"n": "Porsche SE",
+"s": "Automotive",
+"y": "PAH3.DE",
+"sh": 306250000.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Porsche Automobil Holding SE",
+"alts": [
+"PAH3.DE"
+]
+},
+{
+"t": "QIA.DE",
+"n": "Qiagen",
+"s": "Biotech",
+"y": "QIA.DE",
+"sh": 206496521.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Qiagen N.V.",
+"alts": [
+"QIA.DE"
+]
+},
+{
+"t": "RHM.DE",
+"n": "Rheinmetall",
+"s": "Aerospace & Defence",
+"y": "RHM.DE",
+"sh": 46668063.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Rheinmetall AG",
+"alts": [
+"RHM.DE"
+]
+},
+{
+"t": "RWE.DE",
+"n": "RWE",
+"s": "Utilities",
+"y": "RWE.DE",
+"sh": 779985169.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "RWE Aktiengesellschaft",
+"alts": [
+"RWE.DE"
+]
+},
+{
+"t": "SAP.DE",
+"n": "SAP",
+"s": "Technology",
+"y": "SAP.DE",
+"sh": 1154204232.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "SAP SE",
+"alts": [
+"SAP.DE"
+]
+},
+{
+"t": "G24.DE",
+"n": "Scout24",
+"s": "E-Commerce",
+"y": "G24.DE",
+"sh": 69640229.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Scout24 SE",
+"alts": [
+"G24.DE"
+]
+},
+{
+"t": "SIE.DE",
+"n": "Siemens",
+"s": "Industrials",
+"y": "SIE.DE",
+"sh": 764214809.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Siemens Aktiengesellschaft",
+"alts": [
+"SIE.DE"
+]
+},
+{
+"t": "ENR.DE",
+"n": "Siemens Energy",
+"s": "Energy technology",
+"y": "ENR.DE",
+"sh": 850848567.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Siemens Energy AG",
+"alts": [
+"ENR.DE"
+]
+},
+{
+"t": "SHL.DE",
+"n": "Siemens Healthineers",
+"s": "Medical Equipment",
+"y": "SHL.DE",
+"sh": 1119198976.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Siemens Healthineers AG",
+"alts": [
+"SHL.DE"
+]
+},
+{
+"t": "SY1.DE",
+"n": "Symrise",
+"s": "Chemicals",
+"y": "SY1.DE",
+"sh": 137180179.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Symrise AG",
+"alts": [
+"SY1.DE"
+]
+},
+{
+"t": "VOW3.DE",
+"n": "Volkswagen Group",
+"s": "Automotive",
+"y": "VOW3.DE",
+"sh": 501295263.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Volkswagen AG",
+"alts": [
+"VOW3.DE"
+]
+},
+{
+"t": "VNA.DE",
+"n": "Vonovia",
+"s": "Real Estate",
+"y": "VNA.DE",
+"sh": 848458878.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Vonovia SE",
+"alts": [
+"VNA.DE"
+]
+},
+{
+"t": "ZAL.DE",
+"n": "Zalando",
+"s": "E-Commerce",
+"y": "ZAL.DE",
+"sh": 244223114.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Zalando SE",
+"alts": [
+"ZAL.DE"
+]
+}
+]

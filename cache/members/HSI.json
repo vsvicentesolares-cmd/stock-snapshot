@@ -1,0 +1,1107 @@
+[
+{
+"t": "5",
+"n": "HSBC Holdings plc",
+"s": "Finance",
+"y": "0005.HK",
+"sh": 17084440109.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "HSBC Holdings plc",
+"alts": [
+"0005.HK"
+]
+},
+{
+"t": "388",
+"n": "HKEx Limited",
+"s": "Finance",
+"y": "0388.HK",
+"sh": 1263998743.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Hong Kong Exchanges and Clearing Limited",
+"alts": [
+"0388.HK"
+]
+},
+{
+"t": "939",
+"n": "China Construction Bank",
+"s": "Finance",
+"y": "0939.HK",
+"sh": 261600381459.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "China Construction Bank Corporation",
+"alts": [
+"0939.HK"
+]
+},
+{
+"t": "1299",
+"n": "AIA Group Limited",
+"s": "Finance",
+"y": "1299.HK",
+"sh": 10303140172.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "AIA Group Limited",
+"alts": [
+"1299.HK"
+]
+},
+{
+"t": "1398",
+"n": "Industrial and Commercial Bank of China",
+"s": "Finance",
+"y": "1398.HK",
+"sh": 356406257089.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Industrial and Commercial Bank of China Limited",
+"alts": [
+"1398.HK"
+]
+},
+{
+"t": "2318",
+"n": "Ping An Insurance",
+"s": "Finance",
+"y": "2318.HK",
+"sh": 18107641995.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Ping An Insurance (Group) Company of China, Ltd.",
+"alts": [
+"2318.HK"
+]
+},
+{
+"t": "2388",
+"n": "BOC Hong Kong (Holdings) Ltd",
+"s": "Finance",
+"y": "2388.HK",
+"sh": 10572780266.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "BOC Hong Kong (Holdings) Limited",
+"alts": [
+"2388.HK"
+]
+},
+{
+"t": "2628",
+"n": "China Life",
+"s": "Finance",
+"y": "2628.HK",
+"sh": 28264705000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "China Life Insurance Company Limited",
+"alts": [
+"2628.HK"
+]
+},
+{
+"t": "3968",
+"n": "China Merchants Bank",
+"s": "Finance",
+"y": "3968.HK",
+"sh": 25219845601.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "China Merchants Bank Co., Ltd.",
+"alts": [
+"3968.HK"
+]
+},
+{
+"t": "3988",
+"n": "Bank of China Ltd",
+"s": "Finance",
+"y": "3988.HK",
+"sh": 322212411814.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Bank of China Limited",
+"alts": [
+"3988.HK"
+]
+},
+{
+"t": "2",
+"n": "CLP Holdings Limited",
+"s": "Utilities",
+"y": "0002.HK",
+"sh": 2526450570.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "CLP Holdings Limited",
+"alts": [
+"0002.HK"
+]
+},
+{
+"t": "3",
+"n": "Hong Kong and China Gas Company Limited",
+"s": "Utilities",
+"y": "0003.HK",
+"sh": 18659870098.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "The Hong Kong and China Gas Company Limited",
+"alts": [
+"0003.HK"
+]
+},
+{
+"t": "6",
+"n": "Power Assets Holdings Limited",
+"s": "Utilities",
+"y": "0006.HK",
+"sh": 2131105154.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Power Assets Holdings Limited",
+"alts": [
+"0006.HK"
+]
+},
+{
+"t": "836",
+"n": "China Resources Power",
+"s": "Utilities",
+"y": "0836.HK",
+"sh": 5177057740.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "China Resources Power Holdings Company Limited",
+"alts": [
+"0836.HK"
+]
+},
+{
+"t": "1038",
+"n": "Cheung Kong Infrastructure Holdings Limited",
+"s": "Utilities",
+"y": "1038.HK",
+"sh": 2519610945.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "CK Infrastructure Holdings Limited",
+"alts": [
+"1038.HK"
+]
+},
+{
+"t": "2688",
+"n": "ENN Energy",
+"s": "Utilities",
+"y": "2688.HK",
+"sh": 1111854664.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "ENN Energy Holdings Limited",
+"alts": [
+"2688.HK"
+]
+},
+{
+"t": "12",
+"n": "Henderson Land Development Company Limited",
+"s": "Properties",
+"y": "0012.HK",
+"sh": 4841387003.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Henderson Land Development Company Limited",
+"alts": [
+"0012.HK"
+]
+},
+{
+"t": "16",
+"n": "Sun Hung Kai Properties Limited",
+"s": "Properties",
+"y": "0016.HK",
+"sh": 2897780274.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Sun Hung Kai Properties Limited",
+"alts": [
+"0016.HK"
+]
+},
+{
+"t": "101",
+"n": "Hang Lung Properties Limited",
+"s": "Properties",
+"y": "0101.HK",
+"sh": 5203082528.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Hang Lung Properties Limited",
+"alts": [
+"0101.HK"
+]
+},
+{
+"t": "688",
+"n": "China Overseas Land & Investment Limited",
+"s": "Properties",
+"y": "0688.HK",
+"sh": 10944883535.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "China Overseas Land & Investment Limited",
+"alts": [
+"0688.HK"
+]
+},
+{
+"t": "823",
+"n": "Link REIT",
+"s": "Properties",
+"y": "0823.HK",
+"sh": 2588998106.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Link Real Estate Investment Trust",
+"alts": [
+"0823.HK"
+]
+},
+{
+"t": "960",
+"n": "Longfor Properties",
+"s": "Properties",
+"y": "0960.HK",
+"sh": 6898551657.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Longfor Group Holdings Limited",
+"alts": [
+"0960.HK"
+]
+},
+{
+"t": "1109",
+"n": "China Resources Land Limited",
+"s": "Properties",
+"y": "1109.HK",
+"sh": 7130939579.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "China Resources Land Limited",
+"alts": [
+"1109.HK"
+]
+},
+{
+"t": "1113",
+"n": "CK Asset Holdings",
+"s": "Properties",
+"y": "1113.HK",
+"sh": 3499778333.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "CK Asset Holdings Limited",
+"alts": [
+"1113.HK"
+]
+},
+{
+"t": "1209",
+"n": "China Resources Mixc Lifestyle",
+"s": "Properties",
+"y": "1209.HK",
+"sh": 2282500000.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "China Resources Mixc Lifestyle Services Limited",
+"alts": [
+"1209.HK"
+]
+},
+{
+"t": "1997",
+"n": "Wharf Real Estate Investment Company Limited",
+"s": "Properties",
+"y": "1997.HK",
+"sh": 3036227327.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Wharf Real Estate Investment Company Limited",
+"alts": [
+"1997.HK"
+]
+},
+{
+"t": "1",
+"n": "CK Hutchison Holdings Limited",
+"s": "Commerce & Industry",
+"y": "0001.HK",
+"sh": 3830044500.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "CK Hutchison Holdings Limited",
+"alts": [
+"0001.HK"
+]
+},
+{
+"t": "27",
+"n": "Galaxy Entertainment Group Ltd.",
+"s": "Commerce & Industry",
+"y": "0027.HK",
+"sh": 4386255712.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Galaxy Entertainment Group Limited",
+"alts": [
+"0027.HK"
+]
+},
+{
+"t": "66",
+"n": "MTR Corporation Ltd",
+"s": "Commerce & Industry",
+"y": "0066.HK",
+"sh": 6213513397.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "MTR Corporation Limited",
+"alts": [
+"0066.HK"
+]
+},
+{
+"t": "175",
+"n": "Geely Auto",
+"s": "Commerce & Industry",
+"y": "0175.HK",
+"sh": 10786142097.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Geely Automobile Holdings Limited",
+"alts": [
+"0175.HK"
+]
+},
+{
+"t": "241",
+"n": "Alibaba Health",
+"s": "Commerce & Industry",
+"y": "0241.HK",
+"sh": 16175300965.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Alibaba Health Information Technology Limited",
+"alts": [
+"0241.HK"
+]
+},
+{
+"t": "267",
+"n": "CITIC Limited",
+"s": "Commerce & Industry",
+"y": "0267.HK",
+"sh": 29090262630.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "CITIC Limited",
+"alts": [
+"0267.HK"
+]
+},
+{
+"t": "285",
+"n": "BYD Electronics",
+"s": "Commerce & Industry",
+"y": "0285.HK",
+"sh": 2246108500.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "BYD Electronic (International) Company Limited",
+"alts": [
+"0285.HK"
+]
+},
+{
+"t": "288",
+"n": "WH Group",
+"s": "Commerce & Industry",
+"y": "0288.HK",
+"sh": 12830219550.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "WH Group Limited",
+"alts": [
+"0288.HK"
+]
+},
+{
+"t": "291",
+"n": "China Resources Beer",
+"s": "Commerce & Industry",
+"y": "0291.HK",
+"sh": 3244000000.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "China Resources Beer (Holdings) Company Limited",
+"alts": [
+"0291.HK"
+]
+},
+{
+"t": "300",
+"n": "Midea Group",
+"s": "Commerce & Industry",
+"y": "0300.HK",
+"sh": 7630322484.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Midea Group Co., Ltd.",
+"alts": [
+"0300.HK"
+]
+},
+{
+"t": "316",
+"n": "Orient Overseas (International) Limited",
+"s": "Commerce & Industry",
+"y": "0316.HK",
+"sh": 660373297.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Orient Overseas (International) Limited",
+"alts": [
+"0316.HK"
+]
+},
+{
+"t": "322",
+"n": "Tingyi",
+"s": "Commerce & Industry",
+"y": "0322.HK",
+"sh": 5637386360.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Tingyi (Cayman Islands) Holding Corp.",
+"alts": [
+"0322.HK"
+]
+},
+{
+"t": "386",
+"n": "Sinopec Corp",
+"s": "Commerce & Industry",
+"y": "0386.HK",
+"sh": 120682161172.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "China Petroleum & Chemical Corporation",
+"alts": [
+"0386.HK"
+]
+},
+{
+"t": "669",
+"n": "Techtronic Industries",
+"s": "Commerce & Industry",
+"y": "0669.HK",
+"sh": 1822567541.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Techtronic Industries Company Limited",
+"alts": [
+"0669.HK"
+]
+},
+{
+"t": "700",
+"n": "Tencent Holdings Limited",
+"s": "Commerce & Industry",
+"y": "0700.HK",
+"sh": 9004607601.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Tencent Holdings Limited",
+"alts": [
+"0700.HK"
+]
+},
+{
+"t": "762",
+"n": "China Unicom",
+"s": "Commerce & Industry",
+"y": "0762.HK",
+"sh": 30598000000.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "China Unicom (Hong Kong) Limited",
+"alts": [
+"0762.HK"
+]
+},
+{
+"t": "857",
+"n": "PetroChina Company Limited",
+"s": "Commerce & Industry",
+"y": "0857.HK",
+"sh": 183020977818.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "PetroChina Company Limited",
+"alts": [
+"0857.HK"
+]
+},
+{
+"t": "868",
+"n": "Xinyi Glass",
+"s": "Commerce & Industry",
+"y": "0868.HK",
+"sh": 4427425346.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Xinyi Glass Holdings Limited",
+"alts": [
+"0868.HK"
+]
+},
+{
+"t": "881",
+"n": "Zhongsheng Group",
+"s": "Commerce & Industry",
+"y": "0881.HK",
+"sh": 2366993863.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Zhongsheng Group Holdings Limited",
+"alts": [
+"0881.HK"
+]
+},
+{
+"t": "883",
+"n": "CNOOC Limited",
+"s": "Commerce & Industry",
+"y": "0883.HK",
+"sh": 47529953984.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "CNOOC Limited",
+"alts": [
+"0883.HK"
+]
+},
+{
+"t": "941",
+"n": "China Mobile Ltd",
+"s": "Commerce & Industry",
+"y": "0941.HK",
+"sh": 21683696323.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "China Mobile Limited",
+"alts": [
+"0941.HK"
+]
+},
+{
+"t": "968",
+"n": "Xinyi Solar",
+"s": "Commerce & Industry",
+"y": "0968.HK",
+"sh": 9132043615.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Xinyi Solar Holdings Limited",
+"alts": [
+"0968.HK"
+]
+},
+{
+"t": "981",
+"n": "Semiconductor Manufacturing International Corporation",
+"s": "Commerce & Industry",
+"y": "0981.HK",
+"sh": 8562439270.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Semiconductor Manufacturing International Corporation",
+"alts": [
+"0981.HK"
+]
+},
+{
+"t": "992",
+"n": "Lenovo",
+"s": "Commerce & Industry",
+"y": "0992.HK",
+"sh": 12826044682.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Lenovo Group Limited",
+"alts": [
+"0992.HK"
+]
+},
+{
+"t": "1024",
+"n": "Kuaishou",
+"s": "Commerce & Industry",
+"y": "1024.HK",
+"sh": 4285734192.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Kuaishou Technology",
+"alts": [
+"1024.HK"
+]
+},
+{
+"t": "1044",
+"n": "Hengan International Group Co. Ltd",
+"s": "Commerce & Industry",
+"y": "1044.HK",
+"sh": 1143567917.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Hengan International Group Company Limited",
+"alts": [
+"1044.HK"
+]
+},
+{
+"t": "1088",
+"n": "China Shenhua Energy",
+"s": "Commerce & Industry",
+"y": "1088.HK",
+"sh": 21689434304.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "China Shenhua Energy Company Limited",
+"alts": [
+"1088.HK"
+]
+},
+{
+"t": "1093",
+"n": "CSPC Pharmaceutical Group",
+"s": "Commerce & Industry",
+"y": "1093.HK",
+"sh": 11405451732.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "CSPC Pharmaceutical Group Limited",
+"alts": [
+"1093.HK"
+]
+},
+{
+"t": "1099",
+"n": "Sinopharm Group",
+"s": "Commerce & Industry",
+"y": "1099.HK",
+"sh": 3120656191.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Sinopharm Group Co. Ltd.",
+"alts": [
+"1099.HK"
+]
+},
+{
+"t": "1177",
+"n": "Sino Biopharm",
+"s": "Commerce & Industry",
+"y": "1177.HK",
+"sh": 17784552537.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Sino Biopharmaceutical Limited",
+"alts": [
+"1177.HK"
+]
+},
+{
+"t": "1211",
+"n": "BYD Company",
+"s": "Commerce & Industry",
+"y": "1211.HK",
+"sh": 9117197565.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "BYD Company Limited",
+"alts": [
+"1211.HK"
+]
+},
+{
+"t": "1378",
+"n": "China Hongqiao Group",
+"s": "Commerce & Industry",
+"y": "1378.HK",
+"sh": 9711456841.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "China Hongqiao Group Limited",
+"alts": [
+"1378.HK"
+]
+},
+{
+"t": "1810",
+"n": "Xiaomi",
+"s": "Commerce & Industry",
+"y": "1810.HK",
+"sh": 25724783757.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Xiaomi Corporation",
+"alts": [
+"1810.HK"
+]
+},
+{
+"t": "1876",
+"n": "Budweiser Brewing Company APAC",
+"s": "Commerce & Industry",
+"y": "1876.HK",
+"sh": 13229769004.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Budweiser Brewing Company APAC Limited",
+"alts": [
+"1876.HK"
+]
+},
+{
+"t": "1928",
+"n": "Sands China",
+"s": "Commerce & Industry",
+"y": "1928.HK",
+"sh": 8093379566.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Sands China Ltd.",
+"alts": [
+"1928.HK"
+]
+},
+{
+"t": "1929",
+"n": "Chow Tai Fook",
+"s": "Commerce & Industry",
+"y": "1929.HK",
+"sh": 9866331200.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Chow Tai Fook Jewellery Group Limited",
+"alts": [
+"1929.HK"
+]
+},
+{
+"t": "2015",
+"n": "Li Auto",
+"s": "Commerce & Industry",
+"y": "2015.HK",
+"sh": 1954548946.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Li Auto Inc.",
+"alts": [
+"2015.HK"
+]
+},
+{
+"t": "2020",
+"n": "Anta Sports",
+"s": "Commerce & Industry",
+"y": "2020.HK",
+"sh": 2770499587.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "ANTA Sports Products Limited",
+"alts": [
+"2020.HK"
+]
+},
+{
+"t": "2057",
+"n": "ZTO Express",
+"s": "Commerce & Industry",
+"y": "2057.HK",
+"sh": 746638567.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "ZTO Express (Cayman) Inc.",
+"alts": [
+"2057.HK"
+]
+},
+{
+"t": "2269",
+"n": "WuXi Biologics",
+"s": "Commerce & Industry",
+"y": "2269.HK",
+"sh": 4116330477.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "WuXi Biologics (Cayman) Inc.",
+"alts": [
+"2269.HK"
+]
+},
+{
+"t": "2313",
+"n": "Shenzhou International",
+"s": "Commerce & Industry",
+"y": "2313.HK",
+"sh": 1502835997.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Shenzhou International Group Holdings Limited",
+"alts": [
+"2313.HK"
+]
+},
+{
+"t": "2319",
+"n": "Mengniu Dairy",
+"s": "Commerce & Industry",
+"y": "2319.HK",
+"sh": 3860363058.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "China Mengniu Dairy Company Limited",
+"alts": [
+"2319.HK"
+]
+},
+{
+"t": "2331",
+"n": "Li-Ning",
+"s": "Commerce & Industry",
+"y": "2331.HK",
+"sh": 2551693221.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Li Ning Company Limited",
+"alts": [
+"2331.HK"
+]
+},
+{
+"t": "2359",
+"n": "WuXi AppTec",
+"s": "Commerce & Industry",
+"y": "2359.HK",
+"sh": 3034904066.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "WuXi AppTec Co., Ltd.",
+"alts": [
+"2359.HK"
+]
+},
+{
+"t": "2382",
+"n": "Sunny Optical",
+"s": "Commerce & Industry",
+"y": "2382.HK",
+"sh": 1074174800.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Sunny Optical Technology (Group) Company Limited",
+"alts": [
+"2382.HK"
+]
+},
+{
+"t": "2618",
+"n": "JD Logistics",
+"s": "Commerce & Industry",
+"y": "2618.HK",
+"sh": 6123430016.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "JD Logistics, Inc.",
+"alts": [
+"2618.HK"
+]
+},
+{
+"t": "2899",
+"n": "Zijin Mining",
+"s": "Commerce & Industry",
+"y": "2899.HK",
+"sh": 26590798241.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Zijin Mining Group Company Limited",
+"alts": [
+"2899.HK"
+]
+},
+{
+"t": "3690",
+"n": "Meituan",
+"s": "Commerce & Industry",
+"y": "3690.HK",
+"sh": 6171841162.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Meituan",
+"alts": [
+"3690.HK"
+]
+},
+{
+"t": "3692",
+"n": "Hansoh Pharmaceutical Group",
+"s": "Commerce & Industry",
+"y": "3692.HK",
+"sh": 6062729070.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Hansoh Pharmaceutical Group Company Limited",
+"alts": [
+"3692.HK"
+]
+},
+{
+"t": "6618",
+"n": "JD Health",
+"s": "Commerce & Industry",
+"y": "6618.HK",
+"sh": 3189531011.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "JD Health International Inc.",
+"alts": [
+"6618.HK"
+]
+},
+{
+"t": "6690",
+"n": "Haier",
+"s": "Commerce & Industry",
+"y": "6690.HK",
+"sh": 9298538164.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Haier Smart Home Co., Ltd.",
+"alts": [
+"6690.HK"
+]
+},
+{
+"t": "6862",
+"n": "Haidilao",
+"s": "Commerce & Industry",
+"y": "6862.HK",
+"sh": 5415478340.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Haidilao International Holding Ltd.",
+"alts": [
+"6862.HK"
+]
+},
+{
+"t": "9618",
+"n": "JD.com",
+"s": "Commerce & Industry",
+"y": "9618.HK",
+"sh": 2731641465.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "JD.com, Inc.",
+"alts": [
+"9618.HK"
+]
+},
+{
+"t": "9633",
+"n": "Nongfu Spring",
+"s": "Commerce & Industry",
+"y": "9633.HK",
+"sh": 11246466400.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Nongfu Spring Co., Ltd.",
+"alts": [
+"9633.HK"
+]
+},
+{
+"t": "9888",
+"n": "Baidu",
+"s": "Commerce & Industry",
+"y": "9888.HK",
+"sh": 2721545918.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Baidu, Inc.",
+"alts": [
+"9888.HK"
+]
+},
+{
+"t": "9961",
+"n": "Trip.com Group",
+"s": "Commerce & Industry",
+"y": "9961.HK",
+"sh": 629705222.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Trip.com Group Limited",
+"alts": [
+"9961.HK"
+]
+},
+{
+"t": "9988",
+"n": "Alibaba Group",
+"s": "Commerce & Industry",
+"y": "9988.HK",
+"sh": 19901959514.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Alibaba Group Holding Limited",
+"alts": [
+"9988.HK"
+]
+},
+{
+"t": "9992",
+"n": "Pop Mart",
+"s": "Commerce & Industry",
+"y": "9992.HK",
+"sh": 1315934510.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Pop Mart International Group Limited",
+"alts": [
+"9992.HK"
+]
+},
+{
+"t": "9999",
+"n": "NetEase",
+"s": "Commerce & Industry",
+"y": "9999.HK",
+"sh": 3201423601.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "NetEase, Inc.",
+"alts": [
+"9999.HK"
+]
+}
+]

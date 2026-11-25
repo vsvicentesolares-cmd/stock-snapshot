@@ -1,4026 +1,6540 @@
 [
 {
 "t": "MMM",
-"y": "MMM",
 "n": "3M",
 "s": "Industrials",
+"y": "MMM",
 "sh": 516729574.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "3M Company",
+"alts": [
+"MMM"
+]
 },
 {
 "t": "AOS",
-"y": "AOS",
 "n": "A. O. Smith",
 "s": "Industrials",
-"sh": 134328956.0,
-"shAt": "2026-11-22"
+"y": "AOS",
+"sh": 108468717.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "A. O. Smith Corporation",
+"alts": [
+"AOS"
+]
 },
 {
 "t": "ABT",
-"y": "ABT",
 "n": "Abbott Laboratories",
 "s": "Health Care",
+"y": "ABT",
 "sh": 1731941601.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Abbott Laboratories",
+"alts": [
+"ABT"
+]
 },
 {
 "t": "ABBV",
-"y": "ABBV",
 "n": "AbbVie",
 "s": "Health Care",
+"y": "ABBV",
 "sh": 1767616306.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "AbbVie Inc.",
+"alts": [
+"ABBV"
+]
 },
 {
 "t": "ACN",
-"y": "ACN",
 "n": "Accenture",
 "s": "Information Technology",
+"y": "ACN",
 "sh": 590737475.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Accenture plc",
+"alts": [
+"ACN"
+]
 },
 {
 "t": "ADBE",
-"y": "ADBE",
 "n": "Adobe Inc.",
 "s": "Information Technology",
+"y": "ADBE",
 "sh": 389200000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Adobe Inc.",
+"alts": [
+"ADBE"
+]
 },
 {
 "t": "AMD",
-"y": "AMD",
 "n": "Advanced Micro Devices",
 "s": "Information Technology",
+"y": "AMD",
 "sh": 1655065573.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Advanced Micro Devices, Inc.",
+"alts": [
+"AMD"
+]
 },
 {
 "t": "AES",
-"y": "AES",
 "n": "AES Corporation",
 "s": "Utilities",
+"y": "AES",
 "sh": 713564658.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "The AES Corporation",
+"alts": [
+"AES"
+]
 },
 {
 "t": "AFL",
-"y": "AFL",
 "n": "Aflac",
 "s": "Financials",
+"y": "AFL",
 "sh": 494607060.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aflac Incorporated",
+"alts": [
+"AFL"
+]
 },
 {
 "t": "A",
-"y": "A",
 "n": "Agilent Technologies",
 "s": "Health Care",
+"y": "A",
 "sh": 281965813.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Agilent Technologies, Inc.",
+"alts": [
+"A"
+]
 },
 {
 "t": "APD",
-"y": "APD",
 "n": "Air Products",
 "s": "Materials",
+"y": "APD",
 "sh": 222693409.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Air Products and Chemicals, Inc.",
+"alts": [
+"APD"
+]
 },
 {
 "t": "ABNB",
-"y": "ABNB",
 "n": "Airbnb",
 "s": "Consumer Discretionary",
-"sh": 587542197.0,
-"shAt": "2026-11-22"
+"y": "ABNB",
+"sh": 424579862.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Airbnb, Inc.",
+"alts": [
+"ABNB"
+]
 },
 {
 "t": "AKAM",
-"y": "AKAM",
 "n": "Akamai Technologies",
 "s": "Information Technology",
+"y": "AKAM",
 "sh": 144229175.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Akamai Technologies, Inc.",
+"alts": [
+"AKAM"
+]
 },
 {
 "t": "ALB",
-"y": "ALB",
 "n": "Albemarle Corporation",
 "s": "Materials",
+"y": "ALB",
 "sh": 118009849.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Albemarle Corporation",
+"alts": [
+"ALB"
+]
 },
 {
 "t": "ARE",
-"y": "ARE",
 "n": "Alexandria Real Estate Equities",
 "s": "Real Estate",
+"y": "ARE",
 "sh": 174160645.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Alexandria Real Estate Equities, Inc.",
+"alts": [
+"ARE"
+]
 },
 {
 "t": "ALGN",
-"y": "ALGN",
 "n": "Align Technology",
 "s": "Health Care",
+"y": "ALGN",
 "sh": 70487053.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Align Technology, Inc.",
+"alts": [
+"ALGN"
+]
 },
 {
 "t": "ALLE",
-"y": "ALLE",
 "n": "Allegion",
 "s": "Industrials",
+"y": "ALLE",
 "sh": 84321432.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Allegion plc",
+"alts": [
+"ALLE"
+]
 },
 {
 "t": "LNT",
-"y": "LNT",
 "n": "Alliant Energy",
 "s": "Utilities",
+"y": "LNT",
 "sh": 259361652.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Alliant Energy Corporation",
+"alts": [
+"LNT"
+]
 },
 {
 "t": "ALL",
-"y": "ALL",
 "n": "Allstate",
 "s": "Financials",
+"y": "ALL",
 "sh": 247449496.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Allstate Corporation",
+"alts": [
+"ALL"
+]
 },
 {
 "t": "GOOGL",
-"y": "GOOGL",
 "n": "Alphabet Inc. (Class A)",
 "s": "Communication Services",
-"sh": 12294000000.0,
-"shAt": "2026-11-22"
+"y": "GOOGL",
+"sh": 5888000000.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Alphabet Inc.",
+"alts": [
+"GOOGL"
+]
 },
 {
 "t": "GOOG",
-"y": "GOOG",
 "n": "Alphabet Inc. (Class C)",
 "s": "Communication Services",
-"sh": 12294000000.0,
-"shAt": "2026-11-22"
+"y": "GOOG",
+"sh": 5579000000.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Alphabet Inc.",
+"alts": [
+"GOOG"
+]
 },
 {
 "t": "MO",
-"y": "MO",
 "n": "Altria",
 "s": "Consumer Staples",
+"y": "MO",
 "sh": 1663436915.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Altria Group, Inc.",
+"alts": [
+"MO"
+]
 },
 {
 "t": "AMZN",
-"y": "AMZN",
 "n": "Amazon",
 "s": "Consumer Discretionary",
+"y": "AMZN",
 "sh": 10813138306.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Amazon.com, Inc.",
+"alts": [
+"AMZN"
+]
 },
 {
 "t": "AMCR",
-"y": "AMCR",
 "n": "Amcor",
 "s": "Materials",
+"y": "AMCR",
 "sh": 461845690.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Amcor plc",
+"alts": [
+"AMCR"
+]
 },
 {
 "t": "AEE",
-"y": "AEE",
 "n": "Ameren",
 "s": "Utilities",
+"y": "AEE",
 "sh": 276937491.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Ameren Corporation",
+"alts": [
+"AEE"
+]
 },
 {
 "t": "AEP",
-"y": "AEP",
 "n": "American Electric Power",
 "s": "Utilities",
+"y": "AEP",
 "sh": 544526330.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "American Electric Power Company, Inc.",
+"alts": [
+"AEP"
+]
 },
 {
 "t": "AXP",
-"y": "AXP",
 "n": "American Express",
 "s": "Financials",
+"y": "AXP",
 "sh": 670552018.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "American Express Company",
+"alts": [
+"AXP"
+]
 },
 {
 "t": "AIG",
-"y": "AIG",
 "n": "American International Group",
 "s": "Financials",
+"y": "AIG",
 "sh": 518438878.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "American International Group, Inc.",
+"alts": [
+"AIG"
+]
 },
 {
 "t": "AMT",
-"y": "AMT",
 "n": "American Tower",
 "s": "Real Estate",
+"y": "AMT",
 "sh": 463763555.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "American Tower Corporation",
+"alts": [
+"AMT"
+]
 },
 {
 "t": "AWK",
-"y": "AWK",
 "n": "American Water Works",
 "s": "Utilities",
+"y": "AWK",
 "sh": 199104661.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "American Water Works Company, Inc.",
+"alts": [
+"AWK"
+]
 },
 {
 "t": "AMP",
-"y": "AMP",
 "n": "Ameriprise Financial",
 "s": "Financials",
+"y": "AMP",
 "sh": 86812469.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Ameriprise Financial, Inc.",
+"alts": [
+"AMP"
+]
 },
 {
 "t": "AME",
-"y": "AME",
 "n": "Ametek",
 "s": "Industrials",
+"y": "AME",
 "sh": 229317998.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "AMETEK, Inc.",
+"alts": [
+"AME"
+]
 },
 {
 "t": "AMGN",
-"y": "AMGN",
 "n": "Amgen",
 "s": "Health Care",
+"y": "AMGN",
 "sh": 540911490.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Amgen Inc.",
+"alts": [
+"AMGN"
+]
 },
 {
 "t": "APH",
-"y": "APH",
 "n": "Amphenol",
 "s": "Information Technology",
+"y": "APH",
 "sh": 2469261188.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Amphenol Corporation",
+"alts": [
+"APH"
+]
 },
 {
 "t": "ADI",
-"y": "ADI",
 "n": "Analog Devices",
 "s": "Information Technology",
+"y": "ADI",
 "sh": 484565465.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Analog Devices, Inc.",
+"alts": [
+"ADI"
+]
 },
 {
 "t": "AON",
-"y": "AON",
 "n": "Aon plc",
 "s": "Financials",
+"y": "AON",
 "sh": 212157176.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aon plc",
+"alts": [
+"AON"
+]
 },
 {
 "t": "APA",
-"y": "APA",
 "n": "APA Corporation",
 "s": "Energy",
+"y": "APA",
 "sh": 335756005.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "APA Corporation",
+"alts": [
+"APA"
+]
 },
 {
 "t": "APO",
-"y": "APO",
 "n": "Apollo Global Management",
 "s": "Financials",
+"y": "APO",
 "sh": 590432584.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Apollo Global Management, Inc.",
+"alts": [
+"APO"
+]
 },
 {
 "t": "AAPL",
-"y": "AAPL",
 "n": "Apple Inc.",
 "s": "Information Technology",
+"y": "AAPL",
 "sh": 14532182000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Apple Inc.",
+"alts": [
+"AAPL"
+]
 },
 {
 "t": "AMAT",
-"y": "AMAT",
 "n": "Applied Materials",
 "s": "Information Technology",
+"y": "AMAT",
 "sh": 793597443.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Applied Materials, Inc.",
+"alts": [
+"AMAT"
+]
 },
 {
 "t": "APP",
-"y": "APP",
 "n": "AppLovin",
 "s": "Communication Services",
-"sh": 331322000.0,
-"shAt": "2026-11-22"
+"y": "APP",
+"sh": 301258000.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "AppLovin Corporation",
+"alts": [
+"APP"
+]
 },
 {
 "t": "APTV",
-"y": "APTV",
 "n": "Aptiv",
 "s": "Consumer Discretionary",
+"y": "APTV",
 "sh": 202430074.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Aptiv PLC",
+"alts": [
+"APTV"
+]
 },
 {
 "t": "ACGL",
-"y": "ACGL",
 "n": "Arch Capital Group",
 "s": "Financials",
+"y": "ACGL",
 "sh": 325525336.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Arch Capital Group Ltd.",
+"alts": [
+"ACGL"
+]
 },
 {
 "t": "ADM",
-"y": "ADM",
 "n": "Archer Daniels Midland",
 "s": "Consumer Staples",
+"y": "ADM",
 "sh": 475919192.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Archer-Daniels-Midland Company",
+"alts": [
+"ADM"
+]
 },
 {
 "t": "ARES",
-"y": "ARES",
 "n": "Ares Management",
 "s": "Financials",
-"sh": 227627941.0,
-"shAt": "2026-11-22"
+"y": "ARES",
+"sh": 224138030.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Ares Management Corporation",
+"alts": [
+"ARES"
+]
 },
 {
 "t": "ANET",
-"y": "ANET",
 "n": "Arista Networks",
 "s": "Information Technology",
+"y": "ANET",
 "sh": 1263402335.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Arista Networks, Inc.",
+"alts": [
+"ANET"
+]
 },
 {
 "t": "AJG",
-"y": "AJG",
 "n": "Arthur J. Gallagher & Co.",
 "s": "Financials",
+"y": "AJG",
 "sh": 256415000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Arthur J. Gallagher & Co.",
+"alts": [
+"AJG"
+]
 },
 {
 "t": "AIZ",
-"y": "AIZ",
 "n": "Assurant",
 "s": "Financials",
+"y": "AIZ",
 "sh": 49066851.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Assurant, Inc.",
+"alts": [
+"AIZ"
+]
 },
 {
 "t": "T",
-"y": "T",
 "n": "AT&T",
 "s": "Communication Services",
+"y": "T",
 "sh": 6736473433.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "AT&T Inc.",
+"alts": [
+"T"
+]
 },
 {
 "t": "ATO",
-"y": "ATO",
 "n": "Atmos Energy",
 "s": "Utilities",
+"y": "ATO",
 "sh": 170210681.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Atmos Energy Corporation",
+"alts": [
+"ATO"
+]
 },
 {
 "t": "ADSK",
-"y": "ADSK",
 "n": "Autodesk",
 "s": "Information Technology",
+"y": "ADSK",
 "sh": 209000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Autodesk, Inc.",
+"alts": [
+"ADSK"
+]
 },
 {
 "t": "ADP",
-"y": "ADP",
 "n": "Automatic Data Processing",
 "s": "Industrials",
+"y": "ADP",
 "sh": 394759432.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Automatic Data Processing, Inc.",
+"alts": [
+"ADP"
+]
 },
 {
 "t": "AZO",
-"y": "AZO",
 "n": "AutoZone",
 "s": "Consumer Discretionary",
+"y": "AZO",
 "sh": 16094341.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "AutoZone, Inc.",
+"alts": [
+"AZO"
+]
 },
 {
 "t": "AVY",
-"y": "AVY",
 "n": "Avery Dennison",
 "s": "Materials",
+"y": "AVY",
 "sh": 75511437.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Avery Dennison Corporation",
+"alts": [
+"AVY"
+]
 },
 {
 "t": "AXON",
-"y": "AXON",
 "n": "Axon Enterprise",
 "s": "Industrials",
+"y": "AXON",
 "sh": 81432712.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Axon Enterprise, Inc.",
+"alts": [
+"AXON"
+]
 },
 {
 "t": "BKR",
-"y": "BKR",
 "n": "Baker Hughes",
 "s": "Energy",
+"y": "BKR",
 "sh": 993078473.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Baker Hughes Company",
+"alts": [
+"BKR"
+]
 },
 {
 "t": "BALL",
-"y": "BALL",
 "n": "Ball Corporation",
 "s": "Materials",
+"y": "BALL",
 "sh": 260291542.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ball Corporation",
+"alts": [
+"BALL"
+]
 },
 {
 "t": "BAC",
-"y": "BAC",
 "n": "Bank of America",
 "s": "Financials",
+"y": "BAC",
 "sh": 6900209006.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Bank of America Corporation",
+"alts": [
+"BAC"
+]
 },
 {
 "t": "BAX",
-"y": "BAX",
 "n": "Baxter International",
 "s": "Health Care",
+"y": "BAX",
 "sh": 517348188.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Baxter International Inc.",
+"alts": [
+"BAX"
+]
 },
 {
 "t": "BDX",
-"y": "BDX",
 "n": "Becton Dickinson",
 "s": "Health Care",
+"y": "BDX",
 "sh": 272386800.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Becton, Dickinson and Company",
+"alts": [
+"BDX"
+]
 },
 {
 "t": "BRK.B",
-"y": "BRK-B",
 "n": "Berkshire Hathaway",
 "s": "Financials",
-"sh": 2124519233.0,
-"shAt": "2026-11-22"
+"y": "BRK-B",
+"sh": 1403805594.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Berkshire Hathaway Inc.",
+"alts": [
+"BRK-B"
+]
 },
 {
 "t": "BBY",
-"y": "BBY",
 "n": "Best Buy",
 "s": "Consumer Discretionary",
+"y": "BBY",
 "sh": 209727698.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Best Buy Co., Inc.",
+"alts": [
+"BBY"
+]
 },
 {
 "t": "TECH",
-"y": "TECH",
 "n": "Bio-Techne",
 "s": "Health Care",
+"y": "TECH",
 "sh": 157090727.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Bio-Techne Corporation",
+"alts": [
+"TECH"
+]
 },
 {
 "t": "BIIB",
-"y": "BIIB",
 "n": "Biogen",
 "s": "Health Care",
+"y": "BIIB",
 "sh": 147820223.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Biogen Inc.",
+"alts": [
+"BIIB"
+]
 },
 {
 "t": "BLK",
-"y": "BLK",
 "n": "BlackRock",
 "s": "Financials",
+"y": "BLK",
 "sh": 154423421.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "BlackRock, Inc.",
+"alts": [
+"BLK"
+]
 },
 {
 "t": "BX",
-"y": "BX",
 "n": "Blackstone Inc.",
 "s": "Financials",
-"sh": 790691239.0,
-"shAt": "2026-11-22"
+"y": "BX",
+"sh": 751115317.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Blackstone Inc.",
+"alts": [
+"BX"
+]
 },
 {
 "t": "XYZ",
-"y": "XYZ",
 "n": "Block, Inc.",
 "s": "Financials",
-"sh": 604522000.0,
-"shAt": "2026-11-22"
+"y": "XYZ",
+"sh": 544546000.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Block, Inc.",
+"alts": [
+"XYZ"
+]
 },
 {
 "t": "BE",
-"y": "BE",
 "n": "Bloom Energy",
 "s": "Industrials",
+"y": "BE",
 "sh": 295656689.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Bloom Energy Corporation",
+"alts": [
+"BE"
+]
 },
 {
 "t": "BNY",
-"y": "BNY",
 "n": "BNY Mellon",
 "s": "Financials",
+"y": "BNY",
 "sh": 672898490.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Bank of New York Mellon Corporation",
+"alts": [
+"BNY"
+]
 },
 {
 "t": "BA",
-"y": "BA",
 "n": "Boeing",
 "s": "Industrials",
+"y": "BA",
 "sh": 792449940.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "The Boeing Company",
+"alts": [
+"BA"
+]
 },
 {
 "t": "BKNG",
-"y": "BKNG",
 "n": "Booking Holdings",
 "s": "Consumer Discretionary",
+"y": "BKNG",
 "sh": 743701257.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Booking Holdings Inc.",
+"alts": [
+"BKNG"
+]
 },
 {
 "t": "BSX",
-"y": "BSX",
 "n": "Boston Scientific",
 "s": "Health Care",
+"y": "BSX",
 "sh": 1449473222.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Boston Scientific Corporation",
+"alts": [
+"BSX"
+]
 },
 {
 "t": "BMY",
-"y": "BMY",
 "n": "Bristol Myers Squibb",
 "s": "Health Care",
+"y": "BMY",
 "sh": 2044085831.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Bristol-Myers Squibb Company",
+"alts": [
+"BMY"
+]
 },
 {
 "t": "AVGO",
-"y": "AVGO",
 "n": "Broadcom",
 "s": "Information Technology",
+"y": "AVGO",
 "sh": 4773629865.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Broadcom Inc.",
+"alts": [
+"AVGO"
+]
 },
 {
 "t": "BR",
-"y": "BR",
 "n": "Broadridge Financial Solutions",
 "s": "Industrials",
+"y": "BR",
 "sh": 113106236.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Broadridge Financial Solutions, Inc.",
+"alts": [
+"BR"
+]
 },
 {
 "t": "BRO",
-"y": "BRO",
 "n": "Brown & Brown",
 "s": "Financials",
+"y": "BRO",
 "sh": 331691829.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Brown & Brown, Inc.",
+"alts": [
+"BRO"
+]
 },
 {
 "t": "BF.B",
-"y": "BF-B",
 "n": "Brown–Forman",
 "s": "Consumer Staples",
-"sh": 458864265.0,
-"shAt": "2026-11-22"
+"y": "BF-B",
+"sh": 290383416.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Brown-Forman Corporation",
+"alts": [
+"BF-B"
+]
 },
 {
 "t": "BG",
-"y": "BG",
 "n": "Bunge Global",
 "s": "Consumer Staples",
+"y": "BG",
 "sh": 192143784.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Bunge Global SA",
+"alts": [
+"BG"
+]
 },
 {
 "t": "BXP",
-"y": "BXP",
 "n": "BXP, Inc.",
 "s": "Real Estate",
+"y": "BXP",
 "sh": 159713264.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "BXP, Inc.",
+"alts": [
+"BXP"
+]
 },
 {
 "t": "CHRW",
-"y": "CHRW",
 "n": "C.H. Robinson",
 "s": "Industrials",
+"y": "CHRW",
 "sh": 115941629.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "C.H. Robinson Worldwide, Inc.",
+"alts": [
+"CHRW"
+]
 },
 {
 "t": "CDNS",
-"y": "CDNS",
 "n": "Cadence Design Systems",
 "s": "Information Technology",
+"y": "CDNS",
 "sh": 274379000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Cadence Design Systems, Inc.",
+"alts": [
+"CDNS"
+]
 },
 {
 "t": "CPT",
-"y": "CPT",
 "n": "Camden Property Trust",
 "s": "Real Estate",
+"y": "CPT",
 "sh": 100069681.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Camden Property Trust",
+"alts": [
+"CPT"
+]
 },
 {
 "t": "COF",
-"y": "COF",
 "n": "Capital One",
 "s": "Financials",
+"y": "COF",
 "sh": 601533153.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Capital One Financial Corporation",
+"alts": [
+"COF"
+]
 },
 {
 "t": "CAH",
-"y": "CAH",
 "n": "Cardinal Health",
 "s": "Health Care",
+"y": "CAH",
 "sh": 231136655.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Cardinal Health, Inc.",
+"alts": [
+"CAH"
+]
 },
 {
 "t": "CCL",
-"y": "CCL",
 "n": "Carnival Corporation",
 "s": "Consumer Discretionary",
+"y": "CCL",
 "sh": 1344610129.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Carnival Corporation Ltd.",
+"alts": [
+"CCL"
+]
 },
 {
 "t": "CARR",
-"y": "CARR",
 "n": "Carrier Global",
 "s": "Industrials",
+"y": "CARR",
 "sh": 818160206.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Carrier Global Corporation",
+"alts": [
+"CARR"
+]
 },
 {
 "t": "CVNA",
-"y": "CVNA",
 "n": "Carvana",
 "s": "Consumer Discretionary",
-"sh": 1103260745.0,
-"shAt": "2026-11-22"
+"y": "CVNA",
+"sh": 722713745.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Carvana Co.",
+"alts": [
+"CVNA"
+]
 },
 {
 "t": "CASY",
-"y": "CASY",
 "n": "Casey's",
 "s": "Consumer Staples",
+"y": "CASY",
 "sh": 36960167.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Casey's General Stores, Inc.",
+"alts": [
+"CASY"
+]
 },
 {
 "t": "CAT",
-"y": "CAT",
 "n": "Caterpillar Inc.",
 "s": "Industrials",
+"y": "CAT",
 "sh": 457594174.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Caterpillar Inc.",
+"alts": [
+"CAT"
+]
 },
 {
 "t": "CBOE",
-"y": "CBOE",
 "n": "Cboe Global Markets",
 "s": "Financials",
+"y": "CBOE",
 "sh": 104330235.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Cboe Global Markets, Inc.",
+"alts": [
+"CBOE"
+]
 },
 {
 "t": "CBRE",
-"y": "CBRE",
 "n": "CBRE Group",
 "s": "Real Estate",
+"y": "CBRE",
 "sh": 288196254.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "CBRE Group, Inc.",
+"alts": [
+"CBRE"
+]
 },
 {
 "t": "CDW",
-"y": "CDW",
 "n": "CDW Corporation",
 "s": "Information Technology",
+"y": "CDW",
 "sh": 124809323.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "CDW Corporation",
+"alts": [
+"CDW"
+]
 },
 {
 "t": "COR",
-"y": "COR",
 "n": "Cencora",
 "s": "Health Care",
+"y": "COR",
 "sh": 190827165.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Cencora, Inc.",
+"alts": [
+"COR"
+]
 },
 {
 "t": "CNC",
-"y": "CNC",
 "n": "Centene Corporation",
 "s": "Health Care",
+"y": "CNC",
 "sh": 495068000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Centene Corporation",
+"alts": [
+"CNC"
+]
 },
 {
 "t": "CNP",
-"y": "CNP",
 "n": "CenterPoint Energy",
 "s": "Utilities",
+"y": "CNP",
 "sh": 662879606.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "CenterPoint Energy, Inc.",
+"alts": [
+"CNP"
+]
 },
 {
 "t": "CF",
-"y": "CF",
 "n": "CF Industries",
 "s": "Materials",
+"y": "CF",
 "sh": 146284911.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "CF Industries Holdings, Inc.",
+"alts": [
+"CF"
+]
 },
 {
 "t": "CRL",
-"y": "CRL",
 "n": "Charles River Laboratories",
 "s": "Health Care",
+"y": "CRL",
 "sh": 47917467.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Charles River Laboratories International, Inc.",
+"alts": [
+"CRL"
+]
 },
 {
 "t": "SCHW",
-"y": "SCHW",
 "n": "Charles Schwab Corporation",
 "s": "Financials",
+"y": "SCHW",
 "sh": 1726007705.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Charles Schwab Corporation",
+"alts": [
+"SCHW"
+]
 },
 {
 "t": "CHTR",
-"y": "CHTR",
 "n": "Charter Communications",
 "s": "Communication Services",
-"sh": 114454221.0,
-"shAt": "2026-11-22"
+"y": "CHTR",
+"sh": 114454220.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Charter Communications, Inc.",
+"alts": [
+"CHTR"
+]
 },
 {
 "t": "CVX",
-"y": "CVX",
 "n": "Chevron Corporation",
 "s": "Energy",
+"y": "CVX",
 "sh": 1951253686.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Chevron Corporation",
+"alts": [
+"CVX"
+]
 },
 {
 "t": "CMG",
-"y": "CMG",
 "n": "Chipotle Mexican Grill",
 "s": "Consumer Discretionary",
+"y": "CMG",
 "sh": 1264975000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Chipotle Mexican Grill, Inc.",
+"alts": [
+"CMG"
+]
 },
 {
 "t": "CB",
-"y": "CB",
 "n": "Chubb Limited",
 "s": "Financials",
+"y": "CB",
 "sh": 382079222.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Chubb Limited",
+"alts": [
+"CB"
+]
 },
 {
 "t": "CHD",
-"y": "CHD",
 "n": "Church & Dwight",
 "s": "Consumer Staples",
+"y": "CHD",
 "sh": 236032052.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Church & Dwight Co., Inc.",
+"alts": [
+"CHD"
+]
 },
 {
 "t": "CIEN",
-"y": "CIEN",
 "n": "Ciena",
 "s": "Information Technology",
+"y": "CIEN",
 "sh": 141808525.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Ciena Corporation",
+"alts": [
+"CIEN"
+]
 },
 {
 "t": "CI",
-"y": "CI",
 "n": "Cigna",
 "s": "Health Care",
+"y": "CI",
 "sh": 263502561.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "The Cigna Group",
+"alts": [
+"CI"
+]
 },
 {
 "t": "CINF",
-"y": "CINF",
 "n": "Cincinnati Financial",
 "s": "Financials",
+"y": "CINF",
 "sh": 153510324.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Cincinnati Financial Corporation",
+"alts": [
+"CINF"
+]
 },
 {
 "t": "CTAS",
-"y": "CTAS",
 "n": "Cintas",
 "s": "Industrials",
+"y": "CTAS",
 "sh": 397075093.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Cintas Corporation",
+"alts": [
+"CTAS"
+]
 },
 {
 "t": "CSCO",
-"y": "CSCO",
 "n": "Cisco",
 "s": "Information Technology",
+"y": "CSCO",
 "sh": 3942448184.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Cisco Systems, Inc.",
+"alts": [
+"CSCO"
+]
 },
 {
 "t": "C",
-"y": "C",
 "n": "Citigroup",
 "s": "Financials",
+"y": "C",
 "sh": 1655204519.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Citigroup Inc.",
+"alts": [
+"C"
+]
 },
 {
 "t": "CFG",
-"y": "CFG",
 "n": "Citizens Financial Group",
 "s": "Financials",
+"y": "CFG",
 "sh": 419195029.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Citizens Financial Group, Inc.",
+"alts": [
+"CFG"
+]
 },
 {
 "t": "CLX",
-"y": "CLX",
 "n": "Clorox",
 "s": "Consumer Staples",
+"y": "CLX",
 "sh": 121147396.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Clorox Company",
+"alts": [
+"CLX"
+]
 },
 {
 "t": "CME",
-"y": "CME",
 "n": "CME Group",
 "s": "Financials",
-"sh": 357933884.0,
-"shAt": "2026-11-22"
+"y": "CME",
+"sh": 357930746.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "CME Group Inc.",
+"alts": [
+"CME"
+]
 },
 {
 "t": "CMS",
-"y": "CMS",
 "n": "CMS Energy",
 "s": "Utilities",
+"y": "CMS",
 "sh": 313625618.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "CMS Energy Corporation",
+"alts": [
+"CMS"
+]
 },
 {
 "t": "KO",
-"y": "KO",
 "n": "Coca-Cola Company (The)",
 "s": "Consumer Staples",
+"y": "KO",
 "sh": 4301902335.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Coca-Cola Company",
+"alts": [
+"KO"
+]
 },
 {
 "t": "CTSH",
-"y": "CTSH",
 "n": "Cognizant",
 "s": "Information Technology",
+"y": "CTSH",
 "sh": 447030425.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Cognizant Technology Solutions Corporation",
+"alts": [
+"CTSH"
+]
 },
 {
 "t": "COHR",
-"y": "COHR",
 "n": "Coherent Corp.",
 "s": "Information Technology",
+"y": "COHR",
 "sh": 196958669.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Coherent Corp.",
+"alts": [
+"COHR"
+]
 },
 {
 "t": "COIN",
-"y": "COIN",
 "n": "Coinbase",
 "s": "Financials",
-"sh": 264763418.0,
-"shAt": "2026-11-22"
+"y": "COIN",
+"sh": 223729527.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Coinbase Global, Inc.",
+"alts": [
+"COIN"
+]
 },
 {
 "t": "CL",
-"y": "CL",
 "n": "Colgate-Palmolive",
 "s": "Consumer Staples",
+"y": "CL",
 "sh": 794920513.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Colgate-Palmolive Company",
+"alts": [
+"CL"
+]
 },
 {
 "t": "CMCSA",
-"y": "CMCSA",
 "n": "Comcast",
 "s": "Communication Services",
-"sh": 3551006335.0,
-"shAt": "2026-11-22"
+"y": "CMCSA",
+"sh": 3541561960.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Comcast Corporation",
+"alts": [
+"CMCSA"
+]
 },
 {
 "t": "FIX",
-"y": "FIX",
 "n": "Comfort Systems USA",
 "s": "Industrials",
+"y": "FIX",
 "sh": 34985904.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Comfort Systems USA, Inc.",
+"alts": [
+"FIX"
+]
 },
 {
 "t": "COP",
-"y": "COP",
 "n": "ConocoPhillips",
 "s": "Energy",
+"y": "COP",
 "sh": 1182335057.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "ConocoPhillips",
+"alts": [
+"COP"
+]
 },
 {
 "t": "ED",
-"y": "ED",
 "n": "Consolidated Edison",
 "s": "Utilities",
+"y": "ED",
 "sh": 371184015.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Consolidated Edison, Inc.",
+"alts": [
+"ED"
+]
 },
 {
 "t": "STZ",
-"y": "STZ",
 "n": "Constellation Brands",
 "s": "Consumer Staples",
-"sh": 169224220.0,
-"shAt": "2026-11-22"
+"y": "STZ",
+"sh": 169198487.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Constellation Brands, Inc.",
+"alts": [
+"STZ"
+]
 },
 {
 "t": "CEG",
-"y": "CEG",
 "n": "Constellation Energy",
 "s": "Utilities",
+"y": "CEG",
 "sh": 351608504.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Constellation Energy Corporation",
+"alts": [
+"CEG"
+]
 },
 {
 "t": "COO",
-"y": "COO",
 "n": "Cooper Companies (The)",
 "s": "Health Care",
+"y": "COO",
 "sh": 190155294.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "The Cooper Companies, Inc.",
+"alts": [
+"COO"
+]
 },
 {
 "t": "CPRT",
-"y": "CPRT",
 "n": "Copart",
 "s": "Industrials",
+"y": "CPRT",
 "sh": 926378016.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Copart, Inc.",
+"alts": [
+"CPRT"
+]
 },
 {
 "t": "GLW",
-"y": "GLW",
 "n": "Corning Inc.",
 "s": "Information Technology",
+"y": "GLW",
 "sh": 861401106.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Corning Incorporated",
+"alts": [
+"GLW"
+]
 },
 {
 "t": "CPAY",
-"y": "CPAY",
 "n": "Corpay",
 "s": "Financials",
+"y": "CPAY",
 "sh": 63971827.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Corpay, Inc.",
+"alts": [
+"CPAY"
+]
 },
 {
 "t": "CSGP",
-"y": "CSGP",
 "n": "CoStar Group",
 "s": "Real Estate",
+"y": "CSGP",
 "sh": 402337328.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "CoStar Group, Inc.",
+"alts": [
+"CSGP"
+]
 },
 {
 "t": "COST",
-"y": "COST",
 "n": "Costco",
 "s": "Consumer Staples",
+"y": "COST",
 "sh": 443129349.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Costco Wholesale Corporation",
+"alts": [
+"COST"
+]
 },
 {
 "t": "CRH",
-"y": "CRH",
 "n": "CRH plc",
 "s": "Materials",
+"y": "CRH",
 "sh": 665230751.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "CRH plc",
+"alts": [
+"CRH"
+]
 },
 {
 "t": "CRWD",
-"y": "CRWD",
 "n": "CrowdStrike",
 "s": "Information Technology",
-"sh": 1023934842.0,
-"shAt": "2026-11-22"
+"y": "CRWD",
+"sh": 1030596521.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "CrowdStrike Holdings, Inc.",
+"alts": [
+"CRWD"
+]
 },
 {
 "t": "CCI",
-"y": "CCI",
 "n": "Crown Castle",
 "s": "Real Estate",
+"y": "CCI",
 "sh": 425481189.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Crown Castle Inc.",
+"alts": [
+"CCI"
+]
 },
 {
 "t": "CSX",
-"y": "CSX",
 "n": "CSX Corporation",
 "s": "Industrials",
+"y": "CSX",
 "sh": 1843398210.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "CSX Corporation",
+"alts": [
+"CSX"
+]
 },
 {
 "t": "CMI",
-"y": "CMI",
 "n": "Cummins",
 "s": "Industrials",
+"y": "CMI",
 "sh": 137000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Cummins Inc.",
+"alts": [
+"CMI"
+]
 },
 {
 "t": "CVS",
-"y": "CVS",
 "n": "CVS Health",
 "s": "Health Care",
+"y": "CVS",
 "sh": 1279474188.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "CVS Health Corporation",
+"alts": [
+"CVS"
+]
 },
 {
 "t": "DHR",
-"y": "DHR",
 "n": "Danaher Corporation",
 "s": "Health Care",
+"y": "DHR",
 "sh": 703530815.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Danaher Corporation",
+"alts": [
+"DHR"
+]
 },
 {
 "t": "DRI",
-"y": "DRI",
 "n": "Darden Restaurants",
 "s": "Consumer Discretionary",
+"y": "DRI",
 "sh": 113143224.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Darden Restaurants, Inc.",
+"alts": [
+"DRI"
+]
 },
 {
 "t": "DDOG",
-"y": "DDOG",
 "n": "Datadog",
 "s": "Information Technology",
-"sh": 361042545.0,
-"shAt": "2026-11-22"
+"y": "DDOG",
+"sh": 337307033.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Datadog, Inc.",
+"alts": [
+"DDOG"
+]
 },
 {
 "t": "DVA",
-"y": "DVA",
 "n": "DaVita",
 "s": "Health Care",
+"y": "DVA",
 "sh": 62900000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "DaVita Inc.",
+"alts": [
+"DVA"
+]
 },
 {
 "t": "DECK",
-"y": "DECK",
 "n": "Deckers Brands",
 "s": "Consumer Discretionary",
+"y": "DECK",
 "sh": 133479987.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Deckers Outdoor Corporation",
+"alts": [
+"DECK"
+]
 },
 {
 "t": "DE",
-"y": "DE",
 "n": "Deere & Company",
 "s": "Industrials",
+"y": "DE",
 "sh": 269625412.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Deere & Company",
+"alts": [
+"DE"
+]
 },
 {
 "t": "DELL",
-"y": "DELL",
 "n": "Dell Technologies",
 "s": "Information Technology",
-"sh": 635812750.0,
-"shAt": "2026-11-22"
+"y": "DELL",
+"sh": 315433188.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Dell Technologies Inc.",
+"alts": [
+"DELL"
+]
 },
 {
 "t": "DAL",
-"y": "DAL",
 "n": "Delta Air Lines",
 "s": "Industrials",
+"y": "DAL",
 "sh": 657912380.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Delta Air Lines, Inc.",
+"alts": [
+"DAL"
+]
 },
 {
 "t": "DVN",
-"y": "DVN",
 "n": "Devon Energy",
 "s": "Energy",
+"y": "DVN",
 "sh": 1139714310.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Devon Energy Corporation",
+"alts": [
+"DVN"
+]
 },
 {
 "t": "DXCM",
-"y": "DXCM",
 "n": "Dexcom",
 "s": "Health Care",
+"y": "DXCM",
 "sh": 372950922.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "DexCom, Inc.",
+"alts": [
+"DXCM"
+]
 },
 {
 "t": "FANG",
-"y": "FANG",
 "n": "Diamondback Energy",
 "s": "Energy",
+"y": "FANG",
 "sh": 279167841.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Diamondback Energy, Inc.",
+"alts": [
+"FANG"
+]
 },
 {
 "t": "DLR",
-"y": "DLR",
 "n": "Digital Realty",
 "s": "Real Estate",
+"y": "DLR",
 "sh": 378325884.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Digital Realty Trust, Inc.",
+"alts": [
+"DLR"
+]
 },
 {
 "t": "DG",
-"y": "DG",
 "n": "Dollar General",
 "s": "Consumer Staples",
+"y": "DG",
 "sh": 220616790.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Dollar General Corporation",
+"alts": [
+"DG"
+]
 },
 {
 "t": "DLTR",
-"y": "DLTR",
 "n": "Dollar Tree",
 "s": "Consumer Staples",
+"y": "DLTR",
 "sh": 187630299.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Dollar Tree, Inc.",
+"alts": [
+"DLTR"
+]
 },
 {
 "t": "D",
-"y": "D",
 "n": "Dominion Energy",
 "s": "Utilities",
+"y": "D",
 "sh": 879566078.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Dominion Energy, Inc.",
+"alts": [
+"D"
+]
 },
 {
 "t": "DPZ",
-"y": "DPZ",
 "n": "Domino's",
 "s": "Consumer Discretionary",
+"y": "DPZ",
 "sh": 32896056.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Domino's Pizza, Inc.",
+"alts": [
+"DPZ"
+]
 },
 {
 "t": "DASH",
-"y": "DASH",
 "n": "DoorDash",
 "s": "Consumer Discretionary",
-"sh": 435976331.0,
-"shAt": "2026-11-22"
+"y": "DASH",
+"sh": 411998576.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "DoorDash, Inc.",
+"alts": [
+"DASH"
+]
 },
 {
 "t": "DOV",
-"y": "DOV",
 "n": "Dover Corporation",
 "s": "Industrials",
+"y": "DOV",
 "sh": 133007687.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Dover Corporation",
+"alts": [
+"DOV"
+]
 },
 {
 "t": "DOW",
-"y": "DOW",
 "n": "Dow Inc.",
 "s": "Materials",
+"y": "DOW",
 "sh": 723881907.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Dow Inc.",
+"alts": [
+"DOW"
+]
 },
 {
 "t": "DHI",
-"y": "DHI",
 "n": "D. R. Horton",
 "s": "Consumer Discretionary",
+"y": "DHI",
 "sh": 267595589.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "D.R. Horton, Inc.",
+"alts": [
+"DHI"
+]
 },
 {
 "t": "DTE",
-"y": "DTE",
 "n": "DTE Energy",
 "s": "Utilities",
+"y": "DTE",
 "sh": 208163081.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "DTE Energy Company",
+"alts": [
+"DTE"
+]
 },
 {
 "t": "DUK",
-"y": "DUK",
 "n": "Duke Energy",
 "s": "Utilities",
+"y": "DUK",
 "sh": 779708297.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Duke Energy Corporation",
+"alts": [
+"DUK"
+]
 },
 {
 "t": "DD",
-"y": "DD",
 "n": "DuPont",
 "s": "Industrials",
+"y": "DD",
 "sh": 132532338.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "DuPont de Nemours, Inc.",
+"alts": [
+"DD"
+]
 },
 {
 "t": "ETN",
-"y": "ETN",
 "n": "Eaton Corporation",
 "s": "Industrials",
+"y": "ETN",
 "sh": 388500000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Eaton Corporation plc",
+"alts": [
+"ETN"
+]
 },
 {
 "t": "EBAY",
-"y": "EBAY",
 "n": "eBay Inc.",
 "s": "Consumer Discretionary",
+"y": "EBAY",
 "sh": 439000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "eBay Inc.",
+"alts": [
+"EBAY"
+]
 },
 {
 "t": "ECHO",
-"y": "ECHO",
 "n": "EchoStar",
 "s": "Communication Services",
-"sh": 290978155.0,
-"shAt": "2026-11-22"
+"y": "ECHO",
+"sh": 159629687.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "EchoStar Corporation",
+"alts": [
+"ECHO"
+]
 },
 {
 "t": "ECL",
-"y": "ECL",
 "n": "Ecolab",
 "s": "Materials",
+"y": "ECL",
 "sh": 280467785.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Ecolab Inc.",
+"alts": [
+"ECL"
+]
 },
 {
 "t": "EIX",
-"y": "EIX",
 "n": "Edison International",
 "s": "Utilities",
+"y": "EIX",
 "sh": 384787221.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Edison International",
+"alts": [
+"EIX"
+]
 },
 {
 "t": "EW",
-"y": "EW",
 "n": "Edwards Lifesciences",
 "s": "Health Care",
+"y": "EW",
 "sh": 575000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Edwards Lifesciences Corporation",
+"alts": [
+"EW"
+]
 },
 {
 "t": "ELV",
-"y": "ELV",
 "n": "Elevance Health",
 "s": "Health Care",
+"y": "ELV",
 "sh": 216055891.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Elevance Health, Inc.",
+"alts": [
+"ELV"
+]
 },
 {
 "t": "EME",
-"y": "EME",
 "n": "Emcor",
 "s": "Industrials",
+"y": "EME",
 "sh": 43782004.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "EMCOR Group, Inc.",
+"alts": [
+"EME"
+]
 },
 {
 "t": "EMR",
-"y": "EMR",
 "n": "Emerson Electric",
 "s": "Industrials",
+"y": "EMR",
 "sh": 548600000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Emerson Electric Co.",
+"alts": [
+"EMR"
+]
 },
 {
 "t": "ETR",
-"y": "ETR",
 "n": "Entergy",
 "s": "Utilities",
+"y": "ETR",
 "sh": 477827121.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Entergy Corporation",
+"alts": [
+"ETR"
+]
 },
 {
 "t": "EOG",
-"y": "EOG",
 "n": "EOG Resources",
 "s": "Energy",
+"y": "EOG",
 "sh": 518484224.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "EOG Resources, Inc.",
+"alts": [
+"EOG"
+]
 },
 {
 "t": "EQT",
-"y": "EQT",
 "n": "EQT Corporation",
 "s": "Energy",
+"y": "EQT",
 "sh": 625549428.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "EQT Corporation",
+"alts": [
+"EQT"
+]
 },
 {
 "t": "EFX",
-"y": "EFX",
 "n": "Equifax",
 "s": "Industrials",
+"y": "EFX",
 "sh": 117017174.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Equifax Inc.",
+"alts": [
+"EFX"
+]
 },
 {
 "t": "EQIX",
-"y": "EQIX",
 "n": "Equinix",
 "s": "Real Estate",
+"y": "EQIX",
 "sh": 98988318.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Equinix, Inc.",
+"alts": [
+"EQIX"
+]
 },
 {
 "t": "ERIE",
-"y": "ERIE",
 "n": "Erie Indemnity",
 "s": "Financials",
-"sh": 52289868.0,
-"shAt": "2026-11-22"
+"y": "ERIE",
+"sh": 46189068.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Erie Indemnity Company",
+"alts": [
+"ERIE"
+]
 },
 {
 "t": "ESS",
-"y": "ESS",
 "n": "Essex Property Trust",
 "s": "Real Estate",
+"y": "ESS",
 "sh": 64337514.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Essex Property Trust, Inc.",
+"alts": [
+"ESS"
+]
 },
 {
 "t": "EL",
-"y": "EL",
 "n": "Estée Lauder Companies (The)",
 "s": "Consumer Staples",
-"sh": 362330460.0,
-"shAt": "2026-11-22"
+"y": "EL",
+"sh": 247823116.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Estée Lauder Companies Inc.",
+"alts": [
+"EL"
+]
 },
 {
 "t": "EG",
-"y": "EG",
 "n": "Everest Group",
 "s": "Financials",
+"y": "EG",
 "sh": 37042996.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Everest Group, Ltd.",
+"alts": [
+"EG"
+]
 },
 {
 "t": "EVRG",
-"y": "EVRG",
 "n": "Evergy",
 "s": "Utilities",
+"y": "EVRG",
 "sh": 234496657.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Evergy, Inc.",
+"alts": [
+"EVRG"
+]
 },
 {
 "t": "P",
-"y": "P",
 "n": "Everpure",
 "s": "Information Technology",
+"y": "P",
 "sh": 333227251.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Everpure, Inc.",
+"alts": [
+"P"
+]
 },
 {
 "t": "ES",
-"y": "ES",
 "n": "Eversource Energy",
 "s": "Utilities",
+"y": "ES",
 "sh": 376674754.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Eversource Energy",
+"alts": [
+"ES"
+]
 },
 {
 "t": "EXC",
-"y": "EXC",
 "n": "Exelon",
 "s": "Utilities",
+"y": "EXC",
 "sh": 1034896686.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Exelon Corporation",
+"alts": [
+"EXC"
+]
 },
 {
 "t": "EXE",
-"y": "EXE",
 "n": "Expand Energy",
 "s": "Energy",
+"y": "EXE",
 "sh": 230957348.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Expand Energy Corporation",
+"alts": [
+"EXE"
+]
 },
 {
 "t": "EXPE",
-"y": "EXPE",
 "n": "Expedia Group",
 "s": "Consumer Discretionary",
-"sh": 118574304.0,
-"shAt": "2026-11-22"
+"y": "EXPE",
+"sh": 113050852.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Expedia Group, Inc.",
+"alts": [
+"EXPE"
+]
 },
 {
 "t": "EXPD",
-"y": "EXPD",
 "n": "Expeditors International",
 "s": "Industrials",
+"y": "EXPD",
 "sh": 129110669.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Expeditors International of Washington, Inc.",
+"alts": [
+"EXPD"
+]
 },
 {
 "t": "EXR",
-"y": "EXR",
 "n": "Extra Space Storage",
 "s": "Real Estate",
+"y": "EXR",
 "sh": 208719831.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Extra Space Storage Inc.",
+"alts": [
+"EXR"
+]
 },
 {
 "t": "XOM",
-"y": "XOM",
 "n": "ExxonMobil",
 "s": "Energy",
+"y": "XOM",
 "sh": 4079222444.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "ExxonMobil Holdings Corporation",
+"alts": [
+"XOM"
+]
 },
 {
 "t": "FFIV",
-"y": "FFIV",
 "n": "F5, Inc.",
 "s": "Information Technology",
-"sh": 56811000.0,
-"shAt": "2026-11-22"
+"y": "FFIV",
+"sh": 56936090.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "F5, Inc.",
+"alts": [
+"FFIV"
+]
 },
 {
 "t": "FDS",
-"y": "FDS",
 "n": "FactSet",
 "s": "Financials",
+"y": "FDS",
 "sh": 35255660.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "FactSet Research Systems Inc.",
+"alts": [
+"FDS"
+]
 },
 {
 "t": "FICO",
-"y": "FICO",
 "n": "Fair Isaac",
 "s": "Information Technology",
+"y": "FICO",
 "sh": 21380929.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Fair Isaac Corporation",
+"alts": [
+"FICO"
+]
 },
 {
 "t": "FAST",
-"y": "FAST",
 "n": "Fastenal",
 "s": "Industrials",
+"y": "FAST",
 "sh": 1147301488.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Fastenal Company",
+"alts": [
+"FAST"
+]
 },
 {
 "t": "FRT",
-"y": "FRT",
 "n": "Federal Realty Investment Trust",
 "s": "Real Estate",
+"y": "FRT",
 "sh": 86021559.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Federal Realty Investment Trust",
+"alts": [
+"FRT"
+]
 },
 {
 "t": "FDX",
-"y": "FDX",
 "n": "FedEx",
 "s": "Industrials",
+"y": "FDX",
 "sh": 234199353.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "FedEx Corporation",
+"alts": [
+"FDX"
+]
 },
 {
 "t": "FDXF",
-"y": "FDXF",
 "n": "FedEx Freight",
 "s": "Industrials",
+"y": "FDXF",
 "sh": 149521266.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "FedEx Freight Holding Company, Inc.",
+"alts": [
+"FDXF"
+]
 },
 {
 "t": "FERG",
-"y": "FERG",
 "n": "Ferguson Enterprises",
 "s": "Industrials",
+"y": "FERG",
 "sh": 193648602.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Ferguson Enterprises Inc.",
+"alts": [
+"FERG"
+]
 },
 {
 "t": "FIS",
-"y": "FIS",
 "n": "Fidelity National Information Services",
 "s": "Financials",
+"y": "FIS",
 "sh": 515470244.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Fidelity National Information Services, Inc.",
+"alts": [
+"FIS"
+]
 },
 {
 "t": "FITB",
-"y": "FITB",
 "n": "Fifth Third Bancorp",
 "s": "Financials",
+"y": "FITB",
 "sh": 903645765.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Fifth Third Bancorp",
+"alts": [
+"FITB"
+]
 },
 {
 "t": "FSLR",
-"y": "FSLR",
 "n": "First Solar",
 "s": "Information Technology",
+"y": "FSLR",
 "sh": 107481151.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "First Solar, Inc.",
+"alts": [
+"FSLR"
+]
 },
 {
 "t": "FE",
-"y": "FE",
 "n": "FirstEnergy",
 "s": "Utilities",
+"y": "FE",
 "sh": 578893330.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "FirstEnergy Corp.",
+"alts": [
+"FE"
+]
 },
 {
 "t": "FISV",
-"y": "FISV",
 "n": "Fiserv",
 "s": "Financials",
+"y": "FISV",
 "sh": 532047720.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "Fiserv, Inc.",
+"alts": [
+"FISV"
+]
 },
 {
 "t": "FLEX",
-"y": "FLEX",
 "n": "Flex Ltd.",
 "s": "Information Technology",
+"y": "FLEX",
 "sh": 369460804.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Flex Ltd.",
+"alts": [
+"FLEX"
+]
 },
 {
 "t": "F",
-"y": "F",
 "n": "Ford Motor Company",
 "s": "Consumer Discretionary",
-"sh": 3993217466.0,
-"shAt": "2026-11-22"
+"y": "F",
+"sh": 3922365390.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ford Motor Company",
+"alts": [
+"F"
+]
 },
 {
 "t": "FTNT",
-"y": "FTNT",
 "n": "Fortinet",
 "s": "Information Technology",
+"y": "FTNT",
 "sh": 734709741.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Fortinet, Inc.",
+"alts": [
+"FTNT"
+]
 },
 {
 "t": "FTV",
-"y": "FTV",
 "n": "Fortive",
 "s": "Industrials",
+"y": "FTV",
 "sh": 297644456.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Fortive Corporation",
+"alts": [
+"FTV"
+]
 },
 {
 "t": "FOXA",
-"y": "FOXA",
 "n": "Fox Corporation (Class A)",
 "s": "Communication Services",
-"sh": 567905799.0,
-"shAt": "2026-11-22"
+"y": "FOXA",
+"sh": 347657035.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Fox Corporation",
+"alts": [
+"FOXA"
+]
 },
 {
 "t": "FOX",
-"y": "FOX",
 "n": "Fox Corporation (Class B)",
 "s": "Communication Services",
-"sh": 421801414.0,
-"shAt": "2026-11-22"
+"y": "FOX",
+"sh": 220248764.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Fox Corporation",
+"alts": [
+"FOX"
+]
 },
 {
 "t": "BEN",
-"y": "BEN",
 "n": "Franklin Resources",
 "s": "Financials",
+"y": "BEN",
 "sh": 512500000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Franklin Templeton Inc.",
+"alts": [
+"BEN"
+]
 },
 {
 "t": "FCX",
-"y": "FCX",
 "n": "Freeport-McMoRan",
 "s": "Materials",
+"y": "FCX",
 "sh": 1434936034.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Freeport-McMoRan Inc.",
+"alts": [
+"FCX"
+]
 },
 {
 "t": "GRMN",
-"y": "GRMN",
 "n": "Garmin",
 "s": "Consumer Discretionary",
+"y": "GRMN",
 "sh": 192695298.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Garmin Ltd.",
+"alts": [
+"GRMN"
+]
 },
 {
 "t": "IT",
-"y": "IT",
 "n": "Gartner",
 "s": "Information Technology",
+"y": "IT",
 "sh": 63081351.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Gartner, Inc.",
+"alts": [
+"IT"
+]
 },
 {
 "t": "GE",
-"y": "GE",
 "n": "GE Aerospace",
 "s": "Industrials",
+"y": "GE",
 "sh": 1033351921.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "GE Aerospace",
+"alts": [
+"GE"
+]
 },
 {
 "t": "GEHC",
-"y": "GEHC",
 "n": "GE HealthCare",
 "s": "Health Care",
+"y": "GEHC",
 "sh": 452137831.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "GE HealthCare Technologies Inc.",
+"alts": [
+"GEHC"
+]
 },
 {
 "t": "GEV",
-"y": "GEV",
 "n": "GE Vernova",
 "s": "Industrials",
+"y": "GEV",
 "sh": 264677066.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "GE Vernova Inc.",
+"alts": [
+"GEV"
+]
 },
 {
 "t": "GEN",
-"y": "GEN",
 "n": "Gen Digital",
 "s": "Information Technology",
+"y": "GEN",
 "sh": 593276080.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Gen Digital Inc.",
+"alts": [
+"GEN"
+]
 },
 {
 "t": "GNRC",
-"y": "GNRC",
 "n": "Generac",
 "s": "Industrials",
+"y": "GNRC",
 "sh": 58988982.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Generac Holdings Inc.",
+"alts": [
+"GNRC"
+]
 },
 {
 "t": "GD",
-"y": "GD",
 "n": "General Dynamics",
 "s": "Industrials",
+"y": "GD",
 "sh": 270223709.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "General Dynamics Corporation",
+"alts": [
+"GD"
+]
 },
 {
 "t": "GIS",
-"y": "GIS",
 "n": "General Mills",
 "s": "Consumer Staples",
+"y": "GIS",
 "sh": 534687144.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "General Mills, Inc.",
+"alts": [
+"GIS"
+]
 },
 {
 "t": "GM",
-"y": "GM",
 "n": "General Motors",
 "s": "Consumer Discretionary",
+"y": "GM",
 "sh": 843549423.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "General Motors Company",
+"alts": [
+"GM"
+]
 },
 {
 "t": "GPC",
-"y": "GPC",
 "n": "Genuine Parts Company",
 "s": "Consumer Discretionary",
+"y": "GPC",
 "sh": 137864682.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Genuine Parts Company",
+"alts": [
+"GPC"
+]
 },
 {
 "t": "GILD",
-"y": "GILD",
 "n": "Gilead Sciences",
 "s": "Health Care",
+"y": "GILD",
 "sh": 1240338614.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Gilead Sciences, Inc.",
+"alts": [
+"GILD"
+]
 },
 {
 "t": "GPN",
-"y": "GPN",
 "n": "Global Payments",
 "s": "Financials",
+"y": "GPN",
 "sh": 264635810.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Global Payments Inc.",
+"alts": [
+"GPN"
+]
 },
 {
 "t": "GL",
-"y": "GL",
 "n": "Globe Life",
 "s": "Financials",
+"y": "GL",
 "sh": 75439736.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Globe Life Inc.",
+"alts": [
+"GL"
+]
 },
 {
 "t": "GDDY",
-"y": "GDDY",
 "n": "GoDaddy",
 "s": "Information Technology",
+"y": "GDDY",
 "sh": 121274701.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "GoDaddy Inc.",
+"alts": [
+"GDDY"
+]
 },
 {
 "t": "GS",
-"y": "GS",
 "n": "Goldman Sachs",
 "s": "Financials",
+"y": "GS",
 "sh": 288434583.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Goldman Sachs Group, Inc.",
+"alts": [
+"GS"
+]
 },
 {
 "t": "HAL",
-"y": "HAL",
 "n": "Halliburton",
 "s": "Energy",
+"y": "HAL",
 "sh": 827126342.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Halliburton Company",
+"alts": [
+"HAL"
+]
 },
 {
 "t": "HIG",
-"y": "HIG",
 "n": "Hartford (The)",
 "s": "Financials",
+"y": "HIG",
 "sh": 267413397.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Hartford Insurance Group, Inc.",
+"alts": [
+"HIG"
+]
 },
 {
 "t": "HAS",
-"y": "HAS",
 "n": "Hasbro",
 "s": "Consumer Discretionary",
+"y": "HAS",
 "sh": 139862589.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Hasbro, Inc.",
+"alts": [
+"HAS"
+]
 },
 {
 "t": "HCA",
-"y": "HCA",
 "n": "HCA Healthcare",
 "s": "Health Care",
+"y": "HCA",
 "sh": 208892500.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "HCA Healthcare, Inc.",
+"alts": [
+"HCA"
+]
 },
 {
 "t": "DOC",
-"y": "DOC",
 "n": "Healthpeak Properties",
 "s": "Real Estate",
+"y": "DOC",
 "sh": 689543752.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Healthpeak Properties, Inc.",
+"alts": [
+"DOC"
+]
 },
 {
 "t": "HSIC",
-"y": "HSIC",
 "n": "Henry Schein",
 "s": "Health Care",
+"y": "HSIC",
 "sh": 110538542.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Henry Schein, Inc.",
+"alts": [
+"HSIC"
+]
 },
 {
 "t": "HSY",
-"y": "HSY",
 "n": "Hershey Company (The)",
 "s": "Consumer Staples",
-"sh": 200980389.0,
-"shAt": "2026-11-22"
+"y": "HSY",
+"sh": 146366875.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Hershey Company",
+"alts": [
+"HSY"
+]
 },
 {
 "t": "HPE",
-"y": "HPE",
 "n": "Hewlett Packard Enterprise",
 "s": "Information Technology",
+"y": "HPE",
 "sh": 1327464779.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Hewlett Packard Enterprise Company",
+"alts": [
+"HPE"
+]
 },
 {
 "t": "HLT",
-"y": "HLT",
 "n": "Hilton Worldwide",
 "s": "Consumer Discretionary",
+"y": "HLT",
 "sh": 222504355.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Hilton Worldwide Holdings Inc.",
+"alts": [
+"HLT"
+]
 },
 {
 "t": "HD",
-"y": "HD",
 "n": "Home Depot (The)",
 "s": "Consumer Discretionary",
-"sh": 997689626.0,
-"shAt": "2026-11-22"
+"y": "HD",
+"sh": 997852247.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "The Home Depot, Inc.",
+"alts": [
+"HD"
+]
 },
 {
 "t": "HONA",
-"y": "HONA",
 "n": "Honeywell Aerospace",
 "s": "Industrials",
+"y": "HONA",
 "sh": 317031836.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Honeywell Aerospace Inc.",
+"alts": [
+"HONA"
+]
 },
 {
 "t": "HON",
-"y": "HON",
 "n": "Honeywell Technologies",
 "s": "Industrials",
+"y": "HON",
 "sh": 317358518.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Honeywell International Inc.",
+"alts": [
+"HON"
+]
 },
 {
 "t": "HRL",
-"y": "HRL",
 "n": "Hormel Foods",
 "s": "Consumer Staples",
+"y": "HRL",
 "sh": 550350800.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Hormel Foods Corporation",
+"alts": [
+"HRL"
+]
 },
 {
 "t": "HST",
-"y": "HST",
 "n": "Host Hotels & Resorts",
 "s": "Real Estate",
+"y": "HST",
 "sh": 685156063.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Host Hotels & Resorts, Inc.",
+"alts": [
+"HST"
+]
 },
 {
 "t": "HWM",
-"y": "HWM",
 "n": "Howmet Aerospace",
 "s": "Industrials",
+"y": "HWM",
 "sh": 397660490.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Howmet Aerospace Inc.",
+"alts": [
+"HWM"
+]
 },
 {
 "t": "HPQ",
-"y": "HPQ",
 "n": "HP Inc.",
 "s": "Information Technology",
+"y": "HPQ",
 "sh": 901790969.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "HP Inc.",
+"alts": [
+"HPQ"
+]
 },
 {
 "t": "HUBB",
-"y": "HUBB",
 "n": "Hubbell Incorporated",
 "s": "Industrials",
+"y": "HUBB",
 "sh": 52835035.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Hubbell Incorporated",
+"alts": [
+"HUBB"
+]
 },
 {
 "t": "HUM",
-"y": "HUM",
 "n": "Humana",
 "s": "Health Care",
+"y": "HUM",
 "sh": 120103250.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Humana Inc.",
+"alts": [
+"HUM"
+]
 },
 {
 "t": "HBAN",
-"y": "HBAN",
 "n": "Huntington Bancshares",
 "s": "Financials",
+"y": "HBAN",
 "sh": 2015387251.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Huntington Bancshares Incorporated",
+"alts": [
+"HBAN"
+]
 },
 {
 "t": "HII",
-"y": "HII",
 "n": "Huntington Ingalls Industries",
 "s": "Industrials",
+"y": "HII",
 "sh": 39406060.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Huntington Ingalls Industries, Inc.",
+"alts": [
+"HII"
+]
 },
 {
 "t": "IBM",
-"y": "IBM",
 "n": "IBM",
 "s": "Information Technology",
+"y": "IBM",
 "sh": 945120805.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "International Business Machines Corporation",
+"alts": [
+"IBM"
+]
 },
 {
 "t": "IEX",
-"y": "IEX",
 "n": "IDEX Corporation",
 "s": "Industrials",
+"y": "IEX",
 "sh": 73452801.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "IDEX Corporation",
+"alts": [
+"IEX"
+]
 },
 {
 "t": "IDXX",
-"y": "IDXX",
 "n": "Idexx Laboratories",
 "s": "Health Care",
+"y": "IDXX",
 "sh": 78786265.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "IDEXX Laboratories, Inc.",
+"alts": [
+"IDXX"
+]
 },
 {
 "t": "ITW",
-"y": "ITW",
 "n": "Illinois Tool Works",
 "s": "Industrials",
+"y": "ITW",
 "sh": 284200000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Illinois Tool Works Inc.",
+"alts": [
+"ITW"
+]
 },
 {
 "t": "ILMN",
-"y": "ILMN",
 "n": "Illumina, Inc.",
 "s": "Health Care",
+"y": "ILMN",
 "sh": 151200000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Illumina, Inc.",
+"alts": [
+"ILMN"
+]
 },
 {
 "t": "INCY",
-"y": "INCY",
 "n": "Incyte",
 "s": "Health Care",
+"y": "INCY",
 "sh": 203832492.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Incyte Corporation",
+"alts": [
+"INCY"
+]
 },
 {
 "t": "IR",
-"y": "IR",
 "n": "Ingersoll Rand",
 "s": "Industrials",
+"y": "IR",
 "sh": 384019778.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Ingersoll Rand Inc.",
+"alts": [
+"IR"
+]
 },
 {
 "t": "PODD",
-"y": "PODD",
 "n": "Insulet Corporation",
 "s": "Health Care",
+"y": "PODD",
 "sh": 69371043.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Insulet Corporation",
+"alts": [
+"PODD"
+]
 },
 {
 "t": "INTC",
-"y": "INTC",
 "n": "Intel",
 "s": "Information Technology",
+"y": "INTC",
 "sh": 5315000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Intel Corporation",
+"alts": [
+"INTC"
+]
 },
 {
 "t": "IBKR",
-"y": "IBKR",
 "n": "Interactive Brokers",
 "s": "Financials",
-"sh": 453103799.0,
-"shAt": "2026-11-22"
+"y": "IBKR",
+"sh": 453103399.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Interactive Brokers Group, Inc.",
+"alts": [
+"IBKR"
+]
 },
 {
 "t": "ICE",
-"y": "ICE",
 "n": "Intercontinental Exchange",
 "s": "Financials",
+"y": "ICE",
 "sh": 558858412.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Intercontinental Exchange, Inc.",
+"alts": [
+"ICE"
+]
 },
 {
 "t": "IFF",
-"y": "IFF",
 "n": "International Flavors & Fragrances",
 "s": "Materials",
+"y": "IFF",
 "sh": 250391293.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "International Flavors & Fragrances Inc.",
+"alts": [
+"IFF"
+]
 },
 {
 "t": "IP",
-"y": "IP",
 "n": "International Paper",
 "s": "Materials",
+"y": "IP",
 "sh": 529602540.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "International Paper Company",
+"alts": [
+"IP"
+]
 },
 {
 "t": "INTU",
-"y": "INTU",
 "n": "Intuit",
 "s": "Information Technology",
-"sh": 267236000.0,
-"shAt": "2026-11-22"
+"y": "INTU",
+"sh": 264015000.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Intuit Inc.",
+"alts": [
+"INTU"
+]
 },
 {
 "t": "ISRG",
-"y": "ISRG",
 "n": "Intuitive Surgical",
 "s": "Health Care",
+"y": "ISRG",
 "sh": 346643718.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Intuitive Surgical, Inc.",
+"alts": [
+"ISRG"
+]
 },
 {
 "t": "IVZ",
-"y": "IVZ",
 "n": "Invesco",
 "s": "Financials",
+"y": "IVZ",
 "sh": 439528938.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Invesco Ltd.",
+"alts": [
+"IVZ"
+]
 },
 {
 "t": "INVH",
-"y": "INVH",
 "n": "Invitation Homes",
 "s": "Real Estate",
+"y": "INVH",
 "sh": 576154556.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Invitation Homes Inc.",
+"alts": [
+"INVH"
+]
 },
 {
 "t": "IQV",
-"y": "IQV",
 "n": "IQVIA",
 "s": "Health Care",
+"y": "IQV",
 "sh": 164800000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "IQVIA Holdings Inc.",
+"alts": [
+"IQV"
+]
 },
 {
 "t": "IRM",
-"y": "IRM",
 "n": "Iron Mountain",
 "s": "Real Estate",
+"y": "IRM",
 "sh": 297833786.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Iron Mountain Incorporated",
+"alts": [
+"IRM"
+]
 },
 {
 "t": "JBHT",
-"y": "JBHT",
 "n": "J.B. Hunt",
 "s": "Industrials",
+"y": "JBHT",
 "sh": 93218722.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "J.B. Hunt Transport Services, Inc.",
+"alts": [
+"JBHT"
+]
 },
 {
 "t": "JBL",
-"y": "JBL",
 "n": "Jabil",
 "s": "Information Technology",
+"y": "JBL",
 "sh": 102974470.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Jabil Inc.",
+"alts": [
+"JBL"
+]
 },
 {
 "t": "JKHY",
-"y": "JKHY",
 "n": "Jack Henry & Associates",
 "s": "Financials",
+"y": "JKHY",
 "sh": 69618713.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Jack Henry & Associates, Inc.",
+"alts": [
+"JKHY"
+]
 },
 {
 "t": "J",
-"y": "J",
 "n": "Jacobs Solutions",
 "s": "Industrials",
+"y": "J",
 "sh": 117038611.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Jacobs Solutions Inc.",
+"alts": [
+"J"
+]
 },
 {
 "t": "JNJ",
-"y": "JNJ",
 "n": "Johnson & Johnson",
 "s": "Health Care",
+"y": "JNJ",
 "sh": 2407310266.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Johnson & Johnson",
+"alts": [
+"JNJ"
+]
 },
 {
 "t": "JCI",
-"y": "JCI",
 "n": "Johnson Controls",
 "s": "Industrials",
+"y": "JCI",
 "sh": 600199736.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Johnson Controls International plc",
+"alts": [
+"JCI"
+]
 },
 {
 "t": "JPM",
-"y": "JPM",
 "n": "JPMorgan Chase",
 "s": "Financials",
+"y": "JPM",
 "sh": 2655609509.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "JPMorgan Chase & Co.",
+"alts": [
+"JPM"
+]
 },
 {
 "t": "KDP",
-"y": "KDP",
 "n": "Keurig Dr Pepper",
 "s": "Consumer Staples",
+"y": "KDP",
 "sh": 1427615017.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Keurig Dr Pepper Inc.",
+"alts": [
+"KDP"
+]
 },
 {
 "t": "KEY",
-"y": "KEY",
 "n": "KeyCorp",
 "s": "Financials",
+"y": "KEY",
 "sh": 1055979769.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "KeyCorp",
+"alts": [
+"KEY"
+]
 },
 {
 "t": "KEYS",
-"y": "KEYS",
 "n": "Keysight Technologies",
 "s": "Information Technology",
-"sh": 170244745.0,
-"shAt": "2026-11-22"
+"y": "KEYS",
+"sh": 169900000.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Keysight Technologies, Inc.",
+"alts": [
+"KEYS"
+]
 },
 {
 "t": "KMB",
-"y": "KMB",
 "n": "Kimberly-Clark",
 "s": "Consumer Staples",
+"y": "KMB",
 "sh": 613675314.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Kimberly-Clark Corporation",
+"alts": [
+"KMB"
+]
 },
 {
 "t": "KIM",
-"y": "KIM",
 "n": "Kimco Realty",
 "s": "Real Estate",
+"y": "KIM",
 "sh": 664488625.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Kimco Realty Corporation",
+"alts": [
+"KIM"
+]
 },
 {
 "t": "KMI",
-"y": "KMI",
 "n": "Kinder Morgan",
 "s": "Energy",
+"y": "KMI",
 "sh": 2227715229.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Kinder Morgan, Inc.",
+"alts": [
+"KMI"
+]
 },
 {
 "t": "KKR",
-"y": "KKR",
 "n": "KKR & Co.",
 "s": "Financials",
+"y": "KKR",
 "sh": 892139534.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "KKR & Co. Inc.",
+"alts": [
+"KKR"
+]
 },
 {
 "t": "KLAC",
-"y": "KLAC",
 "n": "KLA Corporation",
 "s": "Information Technology",
+"y": "KLAC",
 "sh": 1302962435.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "KLA Corporation",
+"alts": [
+"KLAC"
+]
 },
 {
 "t": "KHC",
-"y": "KHC",
 "n": "Kraft Heinz",
 "s": "Consumer Staples",
+"y": "KHC",
 "sh": 1183828946.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Kraft Heinz Company",
+"alts": [
+"KHC"
+]
 },
 {
 "t": "KR",
-"y": "KR",
 "n": "Kroger",
 "s": "Consumer Staples",
+"y": "KR",
 "sh": 590588700.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Kroger Co.",
+"alts": [
+"KR"
+]
 },
 {
 "t": "LHX",
-"y": "LHX",
 "n": "L3Harris",
 "s": "Industrials",
+"y": "LHX",
 "sh": 186200733.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "L3Harris Technologies, Inc.",
+"alts": [
+"LHX"
+]
 },
 {
 "t": "LH",
-"y": "LH",
 "n": "Labcorp",
 "s": "Health Care",
+"y": "LH",
 "sh": 81200000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Labcorp Holdings Inc.",
+"alts": [
+"LH"
+]
 },
 {
 "t": "LRCX",
-"y": "LRCX",
 "n": "Lam Research",
 "s": "Information Technology",
+"y": "LRCX",
 "sh": 1249171000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Lam Research Corporation",
+"alts": [
+"LRCX"
+]
 },
 {
 "t": "LVS",
-"y": "LVS",
 "n": "Las Vegas Sands",
 "s": "Consumer Discretionary",
+"y": "LVS",
 "sh": 626990133.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Las Vegas Sands Corp.",
+"alts": [
+"LVS"
+]
 },
 {
 "t": "LDOS",
-"y": "LDOS",
 "n": "Leidos",
 "s": "Industrials",
+"y": "LDOS",
 "sh": 121994697.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Leidos Holdings, Inc.",
+"alts": [
+"LDOS"
+]
 },
 {
 "t": "LEN",
-"y": "LEN",
 "n": "Lennar",
 "s": "Consumer Discretionary",
-"sh": 237900239.0,
-"shAt": "2026-11-22"
+"y": "LEN",
+"sh": 207876222.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Lennar Corporation",
+"alts": [
+"LEN"
+]
 },
 {
 "t": "LII",
-"y": "LII",
 "n": "Lennox International",
 "s": "Industrials",
+"y": "LII",
 "sh": 34208431.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Lennox International Inc.",
+"alts": [
+"LII"
+]
 },
 {
 "t": "LLY",
-"y": "LLY",
 "n": "Lilly (Eli)",
 "s": "Health Care",
+"y": "LLY",
 "sh": 890745031.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Eli Lilly and Company",
+"alts": [
+"LLY"
+]
 },
 {
 "t": "LIN",
-"y": "LIN",
 "n": "Linde plc",
 "s": "Materials",
+"y": "LIN",
 "sh": 459083779.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Linde plc",
+"alts": [
+"LIN"
+]
 },
 {
 "t": "LYV",
-"y": "LYV",
 "n": "Live Nation Entertainment",
 "s": "Communication Services",
+"y": "LYV",
 "sh": 235696543.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Live Nation Entertainment, Inc.",
+"alts": [
+"LYV"
+]
 },
 {
 "t": "LMT",
-"y": "LMT",
 "n": "Lockheed Martin",
 "s": "Industrials",
+"y": "LMT",
 "sh": 231004640.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Lockheed Martin Corporation",
+"alts": [
+"LMT"
+]
 },
 {
 "t": "L",
-"y": "L",
 "n": "Loews Corporation",
 "s": "Financials",
+"y": "L",
 "sh": 202225230.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Loews Corporation",
+"alts": [
+"L"
+]
 },
 {
 "t": "LOW",
-"y": "LOW",
 "n": "Lowe's",
 "s": "Consumer Discretionary",
-"sh": 560707041.0,
-"shAt": "2026-11-22"
+"y": "LOW",
+"sh": 561054019.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Lowe's Companies, Inc.",
+"alts": [
+"LOW"
+]
 },
 {
 "t": "LULU",
-"y": "LULU",
 "n": "Lululemon Athletica",
 "s": "Consumer Discretionary",
-"sh": 115825986.0,
-"shAt": "2026-11-22"
+"y": "LULU",
+"sh": 105594064.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "lululemon athletica inc.",
+"alts": [
+"LULU"
+]
 },
 {
 "t": "LITE",
-"y": "LITE",
 "n": "Lumentum",
 "s": "Information Technology",
+"y": "LITE",
 "sh": 90684914.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Lumentum Holdings Inc.",
+"alts": [
+"LITE"
+]
 },
 {
 "t": "LYB",
-"y": "LYB",
 "n": "LyondellBasell",
 "s": "Materials",
+"y": "LYB",
 "sh": 323242496.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "LyondellBasell Industries N.V.",
+"alts": [
+"LYB"
+]
 },
 {
 "t": "MTB",
-"y": "MTB",
 "n": "M&T Bank",
 "s": "Financials",
+"y": "MTB",
 "sh": 143434433.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "M&T Bank Corporation",
+"alts": [
+"MTB"
+]
 },
 {
 "t": "MPC",
-"y": "MPC",
 "n": "Marathon Petroleum",
 "s": "Energy",
+"y": "MPC",
 "sh": 272282280.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Marathon Petroleum Corporation",
+"alts": [
+"MPC"
+]
 },
 {
 "t": "MAR",
-"y": "MAR",
 "n": "Marriott International",
 "s": "Consumer Discretionary",
+"y": "MAR",
 "sh": 257504397.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Marriott International, Inc.",
+"alts": [
+"MAR"
+]
 },
 {
 "t": "MRSH",
-"y": "MRSH",
 "n": "Marsh McLennan",
 "s": "Financials",
+"y": "MRSH",
 "sh": 475514327.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Marsh & McLennan Companies, Inc.",
+"alts": [
+"MRSH"
+]
 },
 {
 "t": "MLM",
-"y": "MLM",
 "n": "Martin Marietta Materials",
 "s": "Materials",
+"y": "MLM",
 "sh": 71118485.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Martin Marietta Materials, Inc.",
+"alts": [
+"MLM"
+]
 },
 {
 "t": "MRVL",
-"y": "MRVL",
 "n": "Marvell Technology",
 "s": "Information Technology",
-"sh": 899765882.0,
-"shAt": "2026-11-22"
+"y": "MRVL",
+"sh": 877987882.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Marvell Technology, Inc.",
+"alts": [
+"MRVL"
+]
 },
 {
 "t": "MAS",
-"y": "MAS",
 "n": "Masco",
 "s": "Industrials",
+"y": "MAS",
 "sh": 192769103.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Masco Corporation",
+"alts": [
+"MAS"
+]
 },
 {
 "t": "MA",
-"y": "MA",
 "n": "Mastercard",
 "s": "Financials",
-"sh": 871176114.0,
-"shAt": "2026-11-22"
+"y": "MA",
+"sh": 864657109.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Mastercard Incorporated",
+"alts": [
+"MA"
+]
 },
 {
 "t": "MKC",
-"y": "MKC",
 "n": "McCormick & Company",
 "s": "Consumer Staples",
-"sh": 269064479.0,
-"shAt": "2026-11-22"
+"y": "MKC",
+"sh": 254541615.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "McCormick & Company, Incorporated",
+"alts": [
+"MKC"
+]
 },
 {
 "t": "MCD",
-"y": "MCD",
 "n": "McDonald's",
 "s": "Consumer Discretionary",
+"y": "MCD",
 "sh": 705784744.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "McDonald's Corporation",
+"alts": [
+"MCD"
+]
 },
 {
 "t": "MCK",
-"y": "MCK",
 "n": "McKesson",
 "s": "Health Care",
+"y": "MCK",
 "sh": 115456664.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "McKesson Corporation",
+"alts": [
+"MCK"
+]
 },
 {
 "t": "MDT",
-"y": "MDT",
 "n": "Medtronic",
 "s": "Health Care",
+"y": "MDT",
 "sh": 1279137890.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Medtronic plc",
+"alts": [
+"MDT"
+]
 },
 {
 "t": "MRK",
-"y": "MRK",
 "n": "Merck & Co.",
 "s": "Health Care",
+"y": "MRK",
 "sh": 2465245688.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Merck & Co., Inc.",
+"alts": [
+"MRK"
+]
 },
 {
 "t": "META",
-"y": "META",
 "n": "Meta Platforms",
 "s": "Communication Services",
-"sh": 2556241253.0,
-"shAt": "2026-11-22"
+"y": "META",
+"sh": 2214472367.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Meta Platforms, Inc.",
+"alts": [
+"META"
+]
 },
 {
 "t": "MET",
-"y": "MET",
 "n": "MetLife",
 "s": "Financials",
+"y": "MET",
 "sh": 628442143.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "MetLife, Inc.",
+"alts": [
+"MET"
+]
 },
 {
 "t": "MTD",
-"y": "MTD",
 "n": "Mettler Toledo",
 "s": "Health Care",
+"y": "MTD",
 "sh": 19890405.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Mettler-Toledo International Inc.",
+"alts": [
+"MTD"
+]
 },
 {
 "t": "MGM",
-"y": "MGM",
 "n": "MGM Resorts",
 "s": "Consumer Discretionary",
+"y": "MGM",
 "sh": 253010547.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "MGM Resorts International",
+"alts": [
+"MGM"
+]
 },
 {
 "t": "MCHP",
-"y": "MCHP",
 "n": "Microchip Technology",
 "s": "Information Technology",
+"y": "MCHP",
 "sh": 544223627.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Microchip Technology Incorporated",
+"alts": [
+"MCHP"
+]
 },
 {
 "t": "MU",
-"y": "MU",
 "n": "Micron Technology",
 "s": "Information Technology",
+"y": "MU",
 "sh": 1131423212.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Micron Technology, Inc.",
+"alts": [
+"MU"
+]
 },
 {
 "t": "MSFT",
-"y": "MSFT",
 "n": "Microsoft",
 "s": "Information Technology",
+"y": "MSFT",
 "sh": 7426194552.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Microsoft Corporation",
+"alts": [
+"MSFT"
+]
 },
 {
 "t": "MAA",
-"y": "MAA",
 "n": "Mid-America Apartment Communities",
 "s": "Real Estate",
+"y": "MAA",
 "sh": 115993211.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Mid-America Apartment Communities, Inc.",
+"alts": [
+"MAA"
+]
 },
 {
 "t": "MRNA",
-"y": "MRNA",
 "n": "Moderna",
 "s": "Health Care",
+"y": "MRNA",
 "sh": 404620975.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Moderna, Inc.",
+"alts": [
+"MRNA"
+]
 },
 {
 "t": "MDLZ",
-"y": "MDLZ",
 "n": "Mondelez International",
 "s": "Consumer Staples",
+"y": "MDLZ",
 "sh": 1265838379.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Mondelez International, Inc.",
+"alts": [
+"MDLZ"
+]
 },
 {
 "t": "MPWR",
-"y": "MPWR",
 "n": "Monolithic Power Systems",
 "s": "Information Technology",
+"y": "MPWR",
 "sh": 48768000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Monolithic Power Systems, Inc.",
+"alts": [
+"MPWR"
+]
 },
 {
 "t": "MNST",
-"y": "MNST",
 "n": "Monster Beverage",
 "s": "Consumer Staples",
+"y": "MNST",
 "sh": 1957511922.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Monster Beverage Corporation",
+"alts": [
+"MNST"
+]
 },
 {
 "t": "MCO",
-"y": "MCO",
 "n": "Moody's Corporation",
 "s": "Financials",
+"y": "MCO",
 "sh": 172424082.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Moody's Corporation",
+"alts": [
+"MCO"
+]
 },
 {
 "t": "MS",
-"y": "MS",
 "n": "Morgan Stanley",
 "s": "Financials",
+"y": "MS",
 "sh": 1563043865.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Morgan Stanley",
+"alts": [
+"MS"
+]
 },
 {
 "t": "MOS",
-"y": "MOS",
 "n": "Mosaic Company (The)",
 "s": "Materials",
+"y": "MOS",
 "sh": 317903655.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "The Mosaic Company",
+"alts": [
+"MOS"
+]
 },
 {
 "t": "MSI",
-"y": "MSI",
 "n": "Motorola Solutions",
 "s": "Information Technology",
+"y": "MSI",
 "sh": 165333940.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Motorola Solutions, Inc.",
+"alts": [
+"MSI"
+]
 },
 {
 "t": "MSCI",
-"y": "MSCI",
 "n": "MSCI",
 "s": "Financials",
+"y": "MSCI",
 "sh": 71500000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "MSCI Inc.",
+"alts": [
+"MSCI"
+]
 },
 {
 "t": "NDAQ",
-"y": "NDAQ",
 "n": "Nasdaq, Inc.",
 "s": "Financials",
+"y": "NDAQ",
 "sh": 554962751.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Nasdaq, Inc.",
+"alts": [
+"NDAQ"
+]
 },
 {
 "t": "NTAP",
-"y": "NTAP",
 "n": "NetApp",
 "s": "Information Technology",
+"y": "NTAP",
 "sh": 196419005.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "NetApp, Inc.",
+"alts": [
+"NTAP"
+]
 },
 {
 "t": "NFLX",
-"y": "NFLX",
 "n": "Netflix",
 "s": "Communication Services",
+"y": "NFLX",
 "sh": 4106325903.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Netflix, Inc.",
+"alts": [
+"NFLX"
+]
 },
 {
 "t": "NEM",
-"y": "NEM",
 "n": "Newmont",
 "s": "Materials",
+"y": "NEM",
 "sh": 1039193185.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Newmont Corporation",
+"alts": [
+"NEM"
+]
 },
 {
 "t": "NWSA",
-"y": "NWSA",
 "n": "News Corp (Class A)",
 "s": "Communication Services",
-"sh": 536459707.0,
-"shAt": "2026-11-22"
+"y": "NWSA",
+"sh": 357720964.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "News Corporation",
+"alts": [
+"NWSA"
+]
 },
 {
 "t": "NWS",
-"y": "NWS",
 "n": "News Corp (Class B)",
 "s": "Communication Services",
-"sh": 536459707.0,
-"shAt": "2026-11-22"
+"y": "NWS",
+"sh": 178685745.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "News Corporation",
+"alts": [
+"NWS"
+]
 },
 {
 "t": "NEE",
-"y": "NEE",
 "n": "NextEra Energy",
 "s": "Utilities",
+"y": "NEE",
 "sh": 2097306049.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "NextEra Energy, Inc.",
+"alts": [
+"NEE"
+]
 },
 {
 "t": "NKE",
-"y": "NKE",
 "n": "Nike, Inc.",
 "s": "Consumer Discretionary",
-"sh": 1485308829.0,
-"shAt": "2026-11-22"
+"y": "NKE",
+"sh": 1203921077.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "NIKE, Inc.",
+"alts": [
+"NKE"
+]
 },
 {
 "t": "NI",
-"y": "NI",
 "n": "NiSource",
 "s": "Utilities",
+"y": "NI",
 "sh": 479668642.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "NiSource Inc.",
+"alts": [
+"NI"
+]
 },
 {
 "t": "NDSN",
-"y": "NDSN",
 "n": "Nordson Corporation",
 "s": "Industrials",
+"y": "NDSN",
 "sh": 55699366.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Nordson Corporation",
+"alts": [
+"NDSN"
+]
 },
 {
 "t": "NSC",
-"y": "NSC",
 "n": "Norfolk Southern",
 "s": "Industrials",
+"y": "NSC",
 "sh": 224616686.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Norfolk Southern Corporation",
+"alts": [
+"NSC"
+]
 },
 {
 "t": "NTRS",
-"y": "NTRS",
 "n": "Northern Trust",
 "s": "Financials",
+"y": "NTRS",
 "sh": 181117806.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Northern Trust Corporation",
+"alts": [
+"NTRS"
+]
 },
 {
 "t": "NOC",
-"y": "NOC",
 "n": "Northrop Grumman",
 "s": "Industrials",
+"y": "NOC",
 "sh": 142064489.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Northrop Grumman Corporation",
+"alts": [
+"NOC"
+]
 },
 {
 "t": "NCLH",
-"y": "NCLH",
 "n": "Norwegian Cruise Line Holdings",
 "s": "Consumer Discretionary",
+"y": "NCLH",
 "sh": 459275445.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Norwegian Cruise Line Holdings Ltd.",
+"alts": [
+"NCLH"
+]
 },
 {
 "t": "NRG",
-"y": "NRG",
 "n": "NRG Energy",
 "s": "Utilities",
+"y": "NRG",
 "sh": 210021280.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "NRG Energy, Inc.",
+"alts": [
+"NRG"
+]
 },
 {
 "t": "NUE",
-"y": "NUE",
 "n": "Nucor",
 "s": "Materials",
+"y": "NUE",
 "sh": 224944177.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Nucor Corporation",
+"alts": [
+"NUE"
+]
 },
 {
 "t": "NVDA",
-"y": "NVDA",
 "n": "Nvidia",
 "s": "Information Technology",
+"y": "NVDA",
 "sh": 24147000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "NVIDIA Corporation",
+"alts": [
+"NVDA"
+]
 },
 {
 "t": "NVR",
-"y": "NVR",
 "n": "NVR, Inc.",
 "s": "Consumer Discretionary",
+"y": "NVR",
 "sh": 2645788.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "NVR, Inc.",
+"alts": [
+"NVR"
+]
 },
 {
 "t": "NXPI",
-"y": "NXPI",
 "n": "NXP Semiconductors",
 "s": "Information Technology",
+"y": "NXPI",
 "sh": 252052988.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "NXP Semiconductors N.V.",
+"alts": [
+"NXPI"
+]
 },
 {
 "t": "ORLY",
-"y": "ORLY",
 "n": "O'Reilly Automotive",
 "s": "Consumer Discretionary",
+"y": "ORLY",
 "sh": 802048733.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "O'Reilly Automotive, Inc.",
+"alts": [
+"ORLY"
+]
 },
 {
 "t": "OXY",
-"y": "OXY",
 "n": "Occidental Petroleum",
 "s": "Energy",
+"y": "OXY",
 "sh": 999894745.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Occidental Petroleum Corporation",
+"alts": [
+"OXY"
+]
 },
 {
 "t": "OKTA",
-"y": "OKTA",
 "n": "Okta, Inc.",
 "s": "Information Technology",
-"sh": 174820928.0,
-"shAt": "2026-11-22"
+"y": "OKTA",
+"sh": 167139757.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Okta, Inc.",
+"alts": [
+"OKTA"
+]
 },
 {
 "t": "ODFL",
-"y": "ODFL",
 "n": "Old Dominion",
 "s": "Industrials",
+"y": "ODFL",
 "sh": 206039886.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Old Dominion Freight Line, Inc.",
+"alts": [
+"ODFL"
+]
 },
 {
 "t": "OMC",
-"y": "OMC",
 "n": "Omnicom Group",
 "s": "Communication Services",
+"y": "OMC",
 "sh": 272847468.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Omnicom Group Inc.",
+"alts": [
+"OMC"
+]
 },
 {
 "t": "ON",
-"y": "ON",
 "n": "ON Semiconductor",
 "s": "Information Technology",
+"y": "ON",
 "sh": 389284489.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "ON Semiconductor Corporation",
+"alts": [
+"ON"
+]
 },
 {
 "t": "OKE",
-"y": "OKE",
 "n": "Oneok",
 "s": "Energy",
+"y": "OKE",
 "sh": 630450437.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "ONEOK, Inc.",
+"alts": [
+"OKE"
+]
 },
 {
 "t": "ORCL",
-"y": "ORCL",
 "n": "Oracle Corporation",
 "s": "Information Technology",
+"y": "ORCL",
 "sh": 3117708046.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Oracle Corporation",
+"alts": [
+"ORCL"
+]
 },
 {
 "t": "OTIS",
-"y": "OTIS",
 "n": "Otis Worldwide",
 "s": "Industrials",
+"y": "OTIS",
 "sh": 380710513.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Otis Worldwide Corporation",
+"alts": [
+"OTIS"
+]
 },
 {
 "t": "PCAR",
-"y": "PCAR",
 "n": "Paccar",
 "s": "Industrials",
+"y": "PCAR",
 "sh": 526505329.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "PACCAR Inc",
+"alts": [
+"PCAR"
+]
 },
 {
 "t": "PKG",
-"y": "PKG",
 "n": "Packaging Corporation of America",
 "s": "Materials",
+"y": "PKG",
 "sh": 89094661.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Packaging Corporation of America",
+"alts": [
+"PKG"
+]
 },
 {
 "t": "PLTR",
-"y": "PLTR",
 "n": "Palantir Technologies",
 "s": "Information Technology",
-"sh": 2409497474.0,
-"shAt": "2026-11-22"
+"y": "PLTR",
+"sh": 2306705341.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Palantir Technologies Inc.",
+"alts": [
+"PLTR"
+]
 },
 {
 "t": "PANW",
-"y": "PANW",
 "n": "Palo Alto Networks",
 "s": "Information Technology",
+"y": "PANW",
 "sh": 821000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Palo Alto Networks, Inc.",
+"alts": [
+"PANW"
+]
 },
 {
 "t": "PH",
-"y": "PH",
 "n": "Parker Hannifin",
 "s": "Industrials",
+"y": "PH",
 "sh": 126096795.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Parker-Hannifin Corporation",
+"alts": [
+"PH"
+]
 },
 {
 "t": "PAYX",
-"y": "PAYX",
 "n": "Paychex",
 "s": "Industrials",
+"y": "PAYX",
 "sh": 355980473.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Paychex, Inc.",
+"alts": [
+"PAYX"
+]
 },
 {
 "t": "PYPL",
-"y": "PYPL",
 "n": "PayPal",
 "s": "Financials",
+"y": "PYPL",
 "sh": 830658298.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "PayPal Holdings, Inc.",
+"alts": [
+"PYPL"
+]
 },
 {
 "t": "PNR",
-"y": "PNR",
 "n": "Pentair",
 "s": "Industrials",
+"y": "PNR",
 "sh": 159654682.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Pentair plc",
+"alts": [
+"PNR"
+]
 },
 {
 "t": "PEP",
-"y": "PEP",
 "n": "PepsiCo",
 "s": "Consumer Staples",
+"y": "PEP",
 "sh": 1362741092.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "PepsiCo, Inc.",
+"alts": [
+"PEP"
+]
 },
 {
 "t": "PFE",
-"y": "PFE",
 "n": "Pfizer",
 "s": "Health Care",
+"y": "PFE",
 "sh": 5699853733.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Pfizer Inc.",
+"alts": [
+"PFE"
+]
 },
 {
 "t": "PCG",
-"y": "PCG",
 "n": "PG&E Corporation",
 "s": "Utilities",
+"y": "PCG",
 "sh": 2202429703.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "PG&E Corporation",
+"alts": [
+"PCG"
+]
 },
 {
 "t": "PM",
-"y": "PM",
 "n": "Philip Morris International",
 "s": "Consumer Staples",
+"y": "PM",
 "sh": 1558655629.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Philip Morris International Inc.",
+"alts": [
+"PM"
+]
 },
 {
 "t": "PSX",
-"y": "PSX",
 "n": "Phillips 66",
 "s": "Energy",
+"y": "PSX",
 "sh": 390072362.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Phillips 66",
+"alts": [
+"PSX"
+]
 },
 {
 "t": "PNW",
-"y": "PNW",
 "n": "Pinnacle West Capital",
 "s": "Utilities",
+"y": "PNW",
 "sh": 121201207.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Pinnacle West Capital Corporation",
+"alts": [
+"PNW"
+]
 },
 {
 "t": "PNC",
-"y": "PNC",
 "n": "PNC Financial Services",
 "s": "Financials",
+"y": "PNC",
 "sh": 396778009.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The PNC Financial Services Group, Inc.",
+"alts": [
+"PNC"
+]
 },
 {
 "t": "PPG",
-"y": "PPG",
 "n": "PPG Industries",
 "s": "Materials",
+"y": "PPG",
 "sh": 220900000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "PPG Industries, Inc.",
+"alts": [
+"PPG"
+]
 },
 {
 "t": "PPL",
-"y": "PPL",
 "n": "PPL Corporation",
 "s": "Utilities",
+"y": "PPL",
 "sh": 752747825.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "PPL Corporation",
+"alts": [
+"PPL"
+]
 },
 {
 "t": "PFG",
-"y": "PFG",
 "n": "Principal Financial Group",
 "s": "Financials",
+"y": "PFG",
 "sh": 212376467.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Principal Financial Group, Inc.",
+"alts": [
+"PFG"
+]
 },
 {
 "t": "PG",
-"y": "PG",
 "n": "Procter & Gamble",
 "s": "Consumer Staples",
+"y": "PG",
 "sh": 2317783143.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The Procter & Gamble Company",
+"alts": [
+"PG"
+]
 },
 {
 "t": "PGR",
-"y": "PGR",
 "n": "Progressive Corporation",
 "s": "Financials",
+"y": "PGR",
 "sh": 577700000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Progressive Corporation",
+"alts": [
+"PGR"
+]
 },
 {
 "t": "PLD",
-"y": "PLD",
 "n": "Prologis",
 "s": "Real Estate",
+"y": "PLD",
 "sh": 950513000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Prologis, Inc.",
+"alts": [
+"PLD"
+]
 },
 {
 "t": "PRU",
-"y": "PRU",
 "n": "Prudential Financial",
 "s": "Financials",
+"y": "PRU",
 "sh": 343000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Prudential Financial, Inc.",
+"alts": [
+"PRU"
+]
 },
 {
 "t": "PTC",
-"y": "PTC",
 "n": "PTC Inc.",
 "s": "Information Technology",
-"sh": 108633154.0,
-"shAt": "2026-11-22"
+"y": "PTC",
+"sh": 109025686.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "PTC Inc.",
+"alts": [
+"PTC"
+]
 },
 {
 "t": "PEG",
-"y": "PEG",
 "n": "Public Service Enterprise Group",
 "s": "Utilities",
+"y": "PEG",
 "sh": 498515417.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Public Service Enterprise Group Incorporated",
+"alts": [
+"PEG"
+]
 },
 {
 "t": "PSA",
-"y": "PSA",
 "n": "Public Storage",
 "s": "Real Estate",
+"y": "PSA",
 "sh": 186843449.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Public Storage",
+"alts": [
+"PSA"
+]
 },
 {
 "t": "PHM",
-"y": "PHM",
 "n": "PulteGroup",
 "s": "Consumer Discretionary",
+"y": "PHM",
 "sh": 184086754.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "PulteGroup, Inc.",
+"alts": [
+"PHM"
+]
 },
 {
 "t": "Q",
-"y": "Q",
 "n": "Qnity Electronics",
 "s": "Information Technology",
+"y": "Q",
 "sh": 209043355.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Qnity Electronics, Inc.",
+"alts": [
+"Q"
+]
 },
 {
 "t": "QCOM",
-"y": "QCOM",
 "n": "Qualcomm",
 "s": "Information Technology",
+"y": "QCOM",
 "sh": 1070000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "QUALCOMM Incorporated",
+"alts": [
+"QCOM"
+]
 },
 {
 "t": "PWR",
-"y": "PWR",
 "n": "Quanta Services",
 "s": "Industrials",
+"y": "PWR",
 "sh": 150677145.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Quanta Services, Inc.",
+"alts": [
+"PWR"
+]
 },
 {
 "t": "DGX",
-"y": "DGX",
 "n": "Quest Diagnostics",
 "s": "Health Care",
+"y": "DGX",
 "sh": 110019073.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Quest Diagnostics Incorporated",
+"alts": [
+"DGX"
+]
 },
 {
 "t": "RL",
-"y": "RL",
 "n": "Ralph Lauren Corporation",
 "s": "Consumer Discretionary",
-"sh": 59101709.0,
-"shAt": "2026-11-22"
+"y": "RL",
+"sh": 37220433.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ralph Lauren Corporation",
+"alts": [
+"RL"
+]
 },
 {
 "t": "RJF",
-"y": "RJF",
 "n": "Raymond James Financial",
 "s": "Financials",
-"sh": 192361711.0,
-"shAt": "2026-11-22"
+"y": "RJF",
+"sh": 192100000.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Raymond James Financial, Inc.",
+"alts": [
+"RJF"
+]
 },
 {
 "t": "RDDT",
-"y": "RDDT",
 "n": "Reddit",
 "s": "Communication Services",
-"sh": 193093731.0,
-"shAt": "2026-11-22"
+"y": "RDDT",
+"sh": 146942127.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Reddit, Inc.",
+"alts": [
+"RDDT"
+]
 },
 {
 "t": "O",
-"y": "O",
 "n": "Realty Income",
 "s": "Real Estate",
+"y": "O",
 "sh": 950997048.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Realty Income Corporation",
+"alts": [
+"O"
+]
 },
 {
 "t": "REG",
-"y": "REG",
 "n": "Regency Centers",
 "s": "Real Estate",
+"y": "REG",
 "sh": 183125078.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Regency Centers Corporation",
+"alts": [
+"REG"
+]
 },
 {
 "t": "REGN",
-"y": "REGN",
 "n": "Regeneron Pharmaceuticals",
 "s": "Health Care",
-"sh": 103447859.0,
-"shAt": "2026-11-22"
+"y": "REGN",
+"sh": 101630713.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Regeneron Pharmaceuticals, Inc.",
+"alts": [
+"REGN"
+]
 },
 {
 "t": "RF",
-"y": "RF",
 "n": "Regions Financial Corporation",
 "s": "Financials",
+"y": "RF",
 "sh": 848847340.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Regions Financial Corporation",
+"alts": [
+"RF"
+]
 },
 {
 "t": "RSG",
-"y": "RSG",
 "n": "Republic Services",
 "s": "Industrials",
+"y": "RSG",
 "sh": 304639653.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Republic Services, Inc.",
+"alts": [
+"RSG"
+]
 },
 {
 "t": "RMD",
-"y": "RMD",
 "n": "ResMed",
 "s": "Health Care",
+"y": "RMD",
 "sh": 140657071.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "ResMed Inc.",
+"alts": [
+"RMD"
+]
 },
 {
 "t": "RVTY",
-"y": "RVTY",
 "n": "Revvity",
 "s": "Health Care",
+"y": "RVTY",
 "sh": 111638757.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Revvity, Inc.",
+"alts": [
+"RVTY"
+]
 },
 {
 "t": "HOOD",
-"y": "HOOD",
 "n": "Robinhood Markets",
 "s": "Financials",
-"sh": 900491277.0,
-"shAt": "2026-11-22"
+"y": "HOOD",
+"sh": 793425151.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Robinhood Markets, Inc.",
+"alts": [
+"HOOD"
+]
 },
 {
 "t": "ROK",
-"y": "ROK",
 "n": "Rockwell Automation",
 "s": "Industrials",
+"y": "ROK",
 "sh": 109758673.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Rockwell Automation, Inc.",
+"alts": [
+"ROK"
+]
 },
 {
 "t": "ROL",
-"y": "ROL",
 "n": "Rollins, Inc.",
 "s": "Industrials",
+"y": "ROL",
 "sh": 478045280.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Rollins, Inc.",
+"alts": [
+"ROL"
+]
 },
 {
 "t": "ROP",
-"y": "ROP",
 "n": "Roper Technologies",
 "s": "Information Technology",
+"y": "ROP",
 "sh": 99036429.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Roper Technologies, Inc.",
+"alts": [
+"ROP"
+]
 },
 {
 "t": "ROST",
-"y": "ROST",
 "n": "Ross Stores",
 "s": "Consumer Discretionary",
-"sh": 319453110.0,
-"shAt": "2026-11-22"
+"y": "ROST",
+"sh": 320781076.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ross Stores, Inc.",
+"alts": [
+"ROST"
+]
 },
 {
 "t": "RCL",
-"y": "RCL",
 "n": "Royal Caribbean Group",
 "s": "Consumer Discretionary",
+"y": "RCL",
 "sh": 267470925.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Royal Caribbean Cruises Ltd.",
+"alts": [
+"RCL"
+]
 },
 {
 "t": "RTX",
-"y": "RTX",
 "n": "RTX Corporation",
 "s": "Industrials",
+"y": "RTX",
 "sh": 1349440548.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "RTX Corporation",
+"alts": [
+"RTX"
+]
 },
 {
 "t": "SPGI",
-"y": "SPGI",
 "n": "S&P Global",
 "s": "Financials",
+"y": "SPGI",
 "sh": 289900000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "S&P Global Inc.",
+"alts": [
+"SPGI"
+]
 },
 {
 "t": "CRM",
-"y": "CRM",
 "n": "Salesforce",
 "s": "Information Technology",
+"y": "CRM",
 "sh": 823000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Salesforce, Inc.",
+"alts": [
+"CRM"
+]
 },
 {
 "t": "SNDK",
-"y": "SNDK",
 "n": "Sandisk",
 "s": "Information Technology",
+"y": "SNDK",
 "sh": 1138314920.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Sandisk Corporation",
+"alts": [
+"SNDK"
+]
 },
 {
 "t": "SBAC",
-"y": "SBAC",
 "n": "SBA Communications",
 "s": "Real Estate",
+"y": "SBAC",
 "sh": 104427989.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "SBA Communications Corporation",
+"alts": [
+"SBAC"
+]
 },
 {
 "t": "SLB",
-"y": "SLB",
 "n": "Schlumberger",
 "s": "Energy",
+"y": "SLB",
 "sh": 1476029613.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "SLB N.V.",
+"alts": [
+"SLB"
+]
 },
 {
 "t": "STX",
-"y": "STX",
 "n": "Seagate Technology",
 "s": "Information Technology",
+"y": "STX",
 "sh": 229561109.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Seagate Technology Holdings plc",
+"alts": [
+"STX"
+]
 },
 {
 "t": "SRE",
-"y": "SRE",
 "n": "Sempra",
 "s": "Utilities",
+"y": "SRE",
 "sh": 654119591.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Sempra",
+"alts": [
+"SRE"
+]
 },
 {
 "t": "NOW",
-"y": "NOW",
 "n": "ServiceNow",
 "s": "Information Technology",
+"y": "NOW",
 "sh": 1037917000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "ServiceNow, Inc.",
+"alts": [
+"NOW"
+]
 },
 {
 "t": "SHW",
-"y": "SHW",
 "n": "Sherwin-Williams",
 "s": "Materials",
+"y": "SHW",
 "sh": 241588072.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "The Sherwin-Williams Company",
+"alts": [
+"SHW"
+]
 },
 {
 "t": "SPG",
-"y": "SPG",
 "n": "Simon Property Group",
 "s": "Real Estate",
-"sh": 322470211.0,
-"shAt": "2026-11-22"
+"y": "SPG",
+"sh": 322462211.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Simon Property Group, Inc.",
+"alts": [
+"SPG"
+]
 },
 {
 "t": "SKYD",
-"y": "SKYD",
 "n": "Skydance",
 "s": "Communication Services",
-"sh": 5044222368.0,
-"shAt": "2026-11-22"
+"y": "SKYD",
+"sh": 5012722281.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Skydance Corporation",
+"alts": [
+"SKYD"
+]
 },
 {
 "t": "SWKS",
-"y": "SWKS",
 "n": "Skyworks Solutions",
 "s": "Information Technology",
+"y": "SWKS",
 "sh": 234854620.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Skyworks Solutions, Inc.",
+"alts": [
+"SWKS"
+]
 },
 {
 "t": "SJM",
-"y": "SJM",
 "n": "J.M. Smucker Company (The)",
 "s": "Consumer Staples",
+"y": "SJM",
 "sh": 106823183.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "The J. M. Smucker Company",
+"alts": [
+"SJM"
+]
 },
 {
 "t": "SW",
-"y": "SW",
 "n": "Smurfit Westrock",
 "s": "Materials",
+"y": "SW",
 "sh": 524526976.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Smurfit Westrock Plc",
+"alts": [
+"SW"
+]
 },
 {
 "t": "SNA",
-"y": "SNA",
 "n": "Snap-on",
 "s": "Industrials",
+"y": "SNA",
 "sh": 51581233.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Snap-on Incorporated",
+"alts": [
+"SNA"
+]
 },
 {
 "t": "SOLV",
-"y": "SOLV",
 "n": "Solventum",
 "s": "Health Care",
+"y": "SOLV",
 "sh": 169956897.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Solventum Corporation",
+"alts": [
+"SOLV"
+]
 },
 {
 "t": "SO",
-"y": "SO",
 "n": "Southern Company",
 "s": "Utilities",
+"y": "SO",
 "sh": 1164261029.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "The Southern Company",
+"alts": [
+"SO"
+]
 },
 {
 "t": "LUV",
-"y": "LUV",
 "n": "Southwest Airlines",
 "s": "Industrials",
+"y": "LUV",
 "sh": 489602380.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Southwest Airlines Co.",
+"alts": [
+"LUV"
+]
 },
 {
 "t": "SWK",
-"y": "SWK",
 "n": "Stanley Black & Decker",
 "s": "Industrials",
+"y": "SWK",
 "sh": 148696226.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Stanley Black & Decker, Inc.",
+"alts": [
+"SWK"
+]
 },
 {
 "t": "SBUX",
-"y": "SBUX",
 "n": "Starbucks",
 "s": "Consumer Discretionary",
+"y": "SBUX",
 "sh": 1140100000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Starbucks Corporation",
+"alts": [
+"SBUX"
+]
 },
 {
 "t": "STT",
-"y": "STT",
 "n": "State Street Corporation",
 "s": "Financials",
+"y": "STT",
 "sh": 272078043.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "State Street Corporation",
+"alts": [
+"STT"
+]
 },
 {
 "t": "STLD",
-"y": "STLD",
 "n": "Steel Dynamics",
 "s": "Materials",
+"y": "STLD",
 "sh": 142217487.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Steel Dynamics, Inc.",
+"alts": [
+"STLD"
+]
 },
 {
 "t": "STE",
-"y": "STE",
 "n": "Steris",
 "s": "Health Care",
+"y": "STE",
 "sh": 97107020.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "STERIS plc",
+"alts": [
+"STE"
+]
 },
 {
 "t": "SYK",
-"y": "SYK",
 "n": "Stryker Corporation",
 "s": "Health Care",
+"y": "SYK",
 "sh": 380691004.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Stryker Corporation",
+"alts": [
+"SYK"
+]
 },
 {
 "t": "SMCI",
-"y": "SMCI",
 "n": "Supermicro",
 "s": "Information Technology",
+"y": "SMCI",
 "sh": 659227367.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Super Micro Computer, Inc.",
+"alts": [
+"SMCI"
+]
 },
 {
 "t": "SYF",
-"y": "SYF",
 "n": "Synchrony Financial",
 "s": "Financials",
+"y": "SYF",
 "sh": 311404854.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Synchrony Financial",
+"alts": [
+"SYF"
+]
 },
 {
 "t": "SNPS",
-"y": "SNPS",
 "n": "Synopsys",
 "s": "Information Technology",
+"y": "SNPS",
 "sh": 191636646.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Synopsys, Inc.",
+"alts": [
+"SNPS"
+]
 },
 {
 "t": "SYY",
-"y": "SYY",
 "n": "Sysco",
 "s": "Consumer Staples",
+"y": "SYY",
 "sh": 492270756.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Sysco Corporation",
+"alts": [
+"SYY"
+]
 },
 {
 "t": "TMUS",
-"y": "TMUS",
 "n": "T-Mobile US",
 "s": "Communication Services",
+"y": "TMUS",
 "sh": 1059272571.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "T-Mobile US, Inc.",
+"alts": [
+"TMUS"
+]
 },
 {
 "t": "TROW",
-"y": "TROW",
 "n": "T. Rowe Price",
 "s": "Financials",
+"y": "TROW",
 "sh": 213325929.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "T. Rowe Price Group, Inc.",
+"alts": [
+"TROW"
+]
 },
 {
 "t": "TTWO",
-"y": "TTWO",
 "n": "Take-Two Interactive",
 "s": "Communication Services",
+"y": "TTWO",
 "sh": 187213488.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Take-Two Interactive Software, Inc.",
+"alts": [
+"TTWO"
+]
 },
 {
 "t": "TPR",
-"y": "TPR",
 "n": "Tapestry, Inc.",
 "s": "Consumer Discretionary",
+"y": "TPR",
 "sh": 196516496.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Tapestry, Inc.",
+"alts": [
+"TPR"
+]
 },
 {
 "t": "TRGP",
-"y": "TRGP",
 "n": "Targa Resources",
 "s": "Energy",
+"y": "TRGP",
 "sh": 214554011.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Targa Resources Corp.",
+"alts": [
+"TRGP"
+]
 },
 {
 "t": "TGT",
-"y": "TGT",
 "n": "Target Corporation",
 "s": "Consumer Staples",
+"y": "TGT",
 "sh": 452734623.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Target Corporation",
+"alts": [
+"TGT"
+]
 },
 {
 "t": "TEL",
-"y": "TEL",
 "n": "TE Connectivity",
 "s": "Information Technology",
+"y": "TEL",
 "sh": 286695097.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "TE Connectivity plc",
+"alts": [
+"TEL"
+]
 },
 {
 "t": "TDY",
-"y": "TDY",
 "n": "Teledyne Technologies",
 "s": "Information Technology",
+"y": "TDY",
 "sh": 46036417.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Teledyne Technologies Incorporated",
+"alts": [
+"TDY"
+]
 },
 {
 "t": "TER",
-"y": "TER",
 "n": "Teradyne",
 "s": "Information Technology",
+"y": "TER",
 "sh": 156124751.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Teradyne, Inc.",
+"alts": [
+"TER"
+]
 },
 {
 "t": "TSLA",
-"y": "TSLA",
 "n": "Tesla, Inc.",
 "s": "Consumer Discretionary",
+"y": "TSLA",
 "sh": 3952757946.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Tesla, Inc.",
+"alts": [
+"TSLA"
+]
 },
 {
 "t": "TXN",
-"y": "TXN",
 "n": "Texas Instruments",
 "s": "Information Technology",
+"y": "TXN",
 "sh": 913770316.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Texas Instruments Incorporated",
+"alts": [
+"TXN"
+]
 },
 {
 "t": "TPL",
-"y": "TPL",
 "n": "Texas Pacific Land Corporation",
 "s": "Energy",
+"y": "TPL",
 "sh": 68974683.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Texas Pacific Land Corporation",
+"alts": [
+"TPL"
+]
 },
 {
 "t": "TXT",
-"y": "TXT",
 "n": "Textron",
 "s": "Industrials",
+"y": "TXT",
 "sh": 169399979.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Textron Inc.",
+"alts": [
+"TXT"
+]
 },
 {
 "t": "TMO",
-"y": "TMO",
 "n": "Thermo Fisher Scientific",
 "s": "Health Care",
+"y": "TMO",
 "sh": 370515868.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Thermo Fisher Scientific Inc.",
+"alts": [
+"TMO"
+]
 },
 {
 "t": "TJX",
-"y": "TJX",
 "n": "TJX Companies",
 "s": "Consumer Discretionary",
+"y": "TJX",
 "sh": 1099974061.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "The TJX Companies, Inc.",
+"alts": [
+"TJX"
+]
 },
 {
 "t": "TKO",
-"y": "TKO",
 "n": "TKO Group Holdings",
 "s": "Communication Services",
+"y": "TKO",
 "sh": 72440231.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "TKO Group Holdings, Inc.",
+"alts": [
+"TKO"
+]
 },
 {
 "t": "TSCO",
-"y": "TSCO",
 "n": "Tractor Supply",
 "s": "Consumer Discretionary",
+"y": "TSCO",
 "sh": 518573690.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Tractor Supply Company",
+"alts": [
+"TSCO"
+]
 },
 {
 "t": "TT",
-"y": "TT",
 "n": "Trane Technologies",
 "s": "Industrials",
+"y": "TT",
 "sh": 218895337.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Trane Technologies plc",
+"alts": [
+"TT"
+]
 },
 {
 "t": "TDG",
-"y": "TDG",
 "n": "TransDigm Group",
 "s": "Industrials",
+"y": "TDG",
 "sh": 54589836.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "TransDigm Group Incorporated",
+"alts": [
+"TDG"
+]
 },
 {
 "t": "TRV",
-"y": "TRV",
 "n": "Travelers Companies (The)",
 "s": "Financials",
+"y": "TRV",
 "sh": 204946347.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Travelers Companies, Inc.",
+"alts": [
+"TRV"
+]
 },
 {
 "t": "TRMB",
-"y": "TRMB",
 "n": "Trimble Inc.",
 "s": "Information Technology",
+"y": "TRMB",
 "sh": 229243001.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Trimble Inc.",
+"alts": [
+"TRMB"
+]
 },
 {
 "t": "TFC",
-"y": "TFC",
 "n": "Truist Financial",
 "s": "Financials",
+"y": "TFC",
 "sh": 1198488412.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Truist Financial Corporation",
+"alts": [
+"TFC"
+]
 },
 {
 "t": "TWLO",
-"y": "TWLO",
 "n": "Twilio",
 "s": "Information Technology",
+"y": "TWLO",
 "sh": 154734032.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Twilio Inc.",
+"alts": [
+"TWLO"
+]
 },
 {
 "t": "TYL",
-"y": "TYL",
 "n": "Tyler Technologies",
 "s": "Information Technology",
+"y": "TYL",
 "sh": 39759524.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Tyler Technologies, Inc.",
+"alts": [
+"TYL"
+]
 },
 {
 "t": "TSN",
-"y": "TSN",
 "n": "Tyson Foods",
 "s": "Consumer Staples",
-"sh": 344530166.0,
-"shAt": "2026-11-22"
+"y": "TSN",
+"sh": 274521161.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Tyson Foods, Inc.",
+"alts": [
+"TSN"
+]
 },
 {
 "t": "USB",
-"y": "USB",
 "n": "U.S. Bancorp",
 "s": "Financials",
+"y": "USB",
 "sh": 1558208825.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "U.S. Bancorp",
+"alts": [
+"USB"
+]
 },
 {
 "t": "UBER",
-"y": "UBER",
 "n": "Uber",
 "s": "Industrials",
+"y": "UBER",
 "sh": 2041898070.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Uber Technologies, Inc.",
+"alts": [
+"UBER"
+]
 },
 {
 "t": "UDR",
-"y": "UDR",
 "n": "UDR, Inc.",
 "s": "Real Estate",
+"y": "UDR",
 "sh": 316888770.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "UDR, Inc.",
+"alts": [
+"UDR"
+]
 },
 {
 "t": "ULTA",
-"y": "ULTA",
 "n": "Ulta Beauty",
 "s": "Consumer Discretionary",
-"sh": 42989311.0,
-"shAt": "2026-11-22"
+"y": "ULTA",
+"sh": 42757471.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ulta Beauty, Inc.",
+"alts": [
+"ULTA"
+]
 },
 {
 "t": "UNP",
-"y": "UNP",
 "n": "Union Pacific Corporation",
 "s": "Industrials",
+"y": "UNP",
 "sh": 594250416.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Union Pacific Corporation",
+"alts": [
+"UNP"
+]
 },
 {
 "t": "UAL",
-"y": "UAL",
 "n": "United Airlines Holdings",
 "s": "Industrials",
+"y": "UAL",
 "sh": 324894375.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "United Airlines Holdings, Inc.",
+"alts": [
+"UAL"
+]
 },
 {
 "t": "UPS",
-"y": "UPS",
 "n": "United Parcel Service",
 "s": "Industrials",
-"sh": 851469372.0,
-"shAt": "2026-11-22"
+"y": "UPS",
+"sh": 751657335.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "United Parcel Service, Inc.",
+"alts": [
+"UPS"
+]
 },
 {
 "t": "URI",
-"y": "URI",
 "n": "United Rentals",
 "s": "Industrials",
+"y": "URI",
 "sh": 61916588.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "United Rentals, Inc.",
+"alts": [
+"URI"
+]
 },
 {
 "t": "UNH",
-"y": "UNH",
 "n": "UnitedHealth Group",
 "s": "Health Care",
+"y": "UNH",
 "sh": 896022611.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "UnitedHealth Group Incorporated",
+"alts": [
+"UNH"
+]
 },
 {
 "t": "UHS",
-"y": "UHS",
 "n": "Universal Health Services",
 "s": "Health Care",
-"sh": 57652117.0,
-"shAt": "2026-11-22"
+"y": "UHS",
+"sh": 50403612.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Universal Health Services, Inc.",
+"alts": [
+"UHS"
+]
 },
 {
 "t": "VLO",
-"y": "VLO",
 "n": "Valero Energy",
 "s": "Energy",
+"y": "VLO",
 "sh": 278884400.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Valero Energy Corporation",
+"alts": [
+"VLO"
+]
 },
 {
 "t": "VEEV",
-"y": "VEEV",
 "n": "Veeva Systems",
 "s": "Health Care",
+"y": "VEEV",
 "sh": 161908850.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Veeva Systems Inc.",
+"alts": [
+"VEEV"
+]
 },
 {
 "t": "VTR",
-"y": "VTR",
 "n": "Ventas",
 "s": "Real Estate",
+"y": "VTR",
 "sh": 528820000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Ventas, Inc.",
+"alts": [
+"VTR"
+]
 },
 {
 "t": "VLTO",
-"y": "VLTO",
 "n": "Veralto",
 "s": "Industrials",
+"y": "VLTO",
 "sh": 243141824.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Veralto Corporation",
+"alts": [
+"VLTO"
+]
 },
 {
 "t": "VRSN",
-"y": "VRSN",
 "n": "Verisign",
 "s": "Information Technology",
+"y": "VRSN",
 "sh": 89700000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "VeriSign, Inc.",
+"alts": [
+"VRSN"
+]
 },
 {
 "t": "VRSK",
-"y": "VRSK",
 "n": "Verisk Analytics",
 "s": "Industrials",
+"y": "VRSK",
 "sh": 128286417.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Verisk Analytics, Inc.",
+"alts": [
+"VRSK"
+]
 },
 {
 "t": "VZ",
-"y": "VZ",
 "n": "Verizon",
 "s": "Communication Services",
+"y": "VZ",
 "sh": 4144598336.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Verizon Communications Inc.",
+"alts": [
+"VZ"
+]
 },
 {
 "t": "VRTX",
-"y": "VRTX",
 "n": "Vertex Pharmaceuticals",
 "s": "Health Care",
+"y": "VRTX",
 "sh": 253537674.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Vertex Pharmaceuticals Incorporated",
+"alts": [
+"VRTX"
+]
 },
 {
 "t": "VRT",
-"y": "VRT",
 "n": "Vertiv",
 "s": "Industrials",
+"y": "VRT",
 "sh": 385060421.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Vertiv Holdings Co",
+"alts": [
+"VRT"
+]
 },
 {
 "t": "VTRS",
-"y": "VTRS",
 "n": "Viatris",
 "s": "Health Care",
+"y": "VTRS",
 "sh": 1146454729.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Viatris Inc.",
+"alts": [
+"VTRS"
+]
 },
 {
 "t": "VICI",
-"y": "VICI",
 "n": "Vici Properties",
 "s": "Real Estate",
+"y": "VICI",
 "sh": 1101085584.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "VICI Properties Inc.",
+"alts": [
+"VICI"
+]
 },
 {
 "t": "V",
-"y": "V",
 "n": "Visa Inc.",
 "s": "Financials",
-"sh": 1865800052.0,
-"shAt": "2026-11-22"
+"y": "V",
+"sh": 1724473215.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Visa Inc.",
+"alts": [
+"V"
+]
 },
 {
 "t": "VST",
-"y": "VST",
 "n": "Vistra Corp.",
 "s": "Utilities",
+"y": "VST",
 "sh": 339394683.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Vistra Corp.",
+"alts": [
+"VST"
+]
 },
 {
 "t": "VMRK",
-"y": "VMRK",
 "n": "Vivmark Residential",
 "s": "Real Estate",
+"y": "VMRK",
 "sh": 774798545.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "AvalonBay Communities, Inc.",
+"alts": [
+"VMRK"
+]
 },
 {
 "t": "VMC",
-"y": "VMC",
 "n": "Vulcan Materials Company",
 "s": "Materials",
+"y": "VMC",
 "sh": 128344422.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Vulcan Materials Company",
+"alts": [
+"VMC"
+]
 },
 {
 "t": "VYLR",
-"y": "VYLR",
 "n": "Vylor",
 "s": "Consumer Staples",
+"y": "VYLR",
 "sh": 667303030.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Vylor Inc.",
+"alts": [
+"VYLR"
+]
 },
 {
 "t": "WRB",
-"y": "WRB",
 "n": "W. R. Berkley Corporation",
 "s": "Financials",
+"y": "WRB",
 "sh": 371515776.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "W. R. Berkley Corporation",
+"alts": [
+"WRB"
+]
 },
 {
 "t": "GWW",
-"y": "GWW",
 "n": "W. W. Grainger",
 "s": "Industrials",
+"y": "GWW",
 "sh": 46814148.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "W.W. Grainger, Inc.",
+"alts": [
+"GWW"
+]
 },
 {
 "t": "WAB",
-"y": "WAB",
 "n": "Wabtec",
 "s": "Industrials",
+"y": "WAB",
 "sh": 167802384.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Westinghouse Air Brake Technologies Corporation",
+"alts": [
+"WAB"
+]
 },
 {
 "t": "WMT",
-"y": "WMT",
 "n": "Walmart",
 "s": "Consumer Staples",
-"sh": 7933746241.0,
-"shAt": "2026-11-22"
+"y": "WMT",
+"sh": 7958079155.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Walmart Inc.",
+"alts": [
+"WMT"
+]
 },
 {
 "t": "DIS",
-"y": "DIS",
 "n": "Walt Disney Company (The)",
 "s": "Communication Services",
+"y": "DIS",
 "sh": 1708029668.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "The Walt Disney Company",
+"alts": [
+"DIS"
+]
 },
 {
 "t": "WM",
-"y": "WM",
 "n": "Waste Management",
 "s": "Industrials",
+"y": "WM",
 "sh": 397634916.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Waste Management, Inc.",
+"alts": [
+"WM"
+]
 },
 {
 "t": "WAT",
-"y": "WAT",
 "n": "Waters Corporation",
 "s": "Health Care",
-"sh": 196533745.0,
-"shAt": "2026-11-22"
+"y": "WAT",
+"sh": 98285634.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Waters Corporation",
+"alts": [
+"WAT"
+]
 },
 {
 "t": "WEC",
-"y": "WEC",
 "n": "WEC Energy Group",
 "s": "Utilities",
+"y": "WEC",
 "sh": 328992329.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "WEC Energy Group, Inc.",
+"alts": [
+"WEC"
+]
 },
 {
 "t": "WFC",
-"y": "WFC",
 "n": "Wells Fargo",
 "s": "Financials",
+"y": "WFC",
 "sh": 3001850317.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Wells Fargo & Company",
+"alts": [
+"WFC"
+]
 },
 {
 "t": "WELL",
-"y": "WELL",
 "n": "Welltower",
 "s": "Real Estate",
+"y": "WELL",
 "sh": 733609863.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Welltower Inc.",
+"alts": [
+"WELL"
+]
 },
 {
 "t": "WST",
-"y": "WST",
 "n": "West Pharmaceutical Services",
 "s": "Health Care",
+"y": "WST",
 "sh": 69661036.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "West Pharmaceutical Services, Inc.",
+"alts": [
+"WST"
+]
 },
 {
 "t": "WDC",
-"y": "WDC",
 "n": "Western Digital",
 "s": "Information Technology",
+"y": "WDC",
 "sh": 374323269.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Western Digital Corporation",
+"alts": [
+"WDC"
+]
 },
 {
 "t": "WY",
-"y": "WY",
 "n": "Weyerhaeuser",
 "s": "Real Estate",
+"y": "WY",
 "sh": 720344000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Weyerhaeuser Company",
+"alts": [
+"WY"
+]
 },
 {
 "t": "WSM",
-"y": "WSM",
 "n": "Williams-Sonoma, Inc.",
 "s": "Consumer Discretionary",
+"y": "WSM",
 "sh": 117067000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Williams-Sonoma, Inc.",
+"alts": [
+"WSM"
+]
 },
 {
 "t": "WMB",
-"y": "WMB",
 "n": "Williams Companies",
 "s": "Energy",
+"y": "WMB",
 "sh": 1250202516.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "The Williams Companies, Inc.",
+"alts": [
+"WMB"
+]
 },
 {
 "t": "WTW",
-"y": "WTW",
 "n": "Willis Towers Watson",
 "s": "Financials",
+"y": "WTW",
 "sh": 92216232.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Willis Towers Watson Public Limited Company",
+"alts": [
+"WTW"
+]
 },
 {
 "t": "WDAY",
-"y": "WDAY",
 "n": "Workday, Inc.",
 "s": "Information Technology",
-"sh": 241000000.0,
-"shAt": "2026-11-22"
+"y": "WDAY",
+"sh": 196000000.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Workday, Inc.",
+"alts": [
+"WDAY"
+]
 },
 {
 "t": "WYNN",
-"y": "WYNN",
 "n": "Wynn Resorts",
 "s": "Consumer Discretionary",
+"y": "WYNN",
 "sh": 102551611.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Wynn Resorts, Limited",
+"alts": [
+"WYNN"
+]
 },
 {
 "t": "XEL",
-"y": "XEL",
 "n": "Xcel Energy",
 "s": "Utilities",
+"y": "XEL",
 "sh": 641874448.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Xcel Energy Inc.",
+"alts": [
+"XEL"
+]
 },
 {
 "t": "XYL",
-"y": "XYL",
 "n": "Xylem Inc.",
 "s": "Industrials",
+"y": "XYL",
 "sh": 229334592.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Xylem Inc.",
+"alts": [
+"XYL"
+]
 },
 {
 "t": "YUM",
-"y": "YUM",
 "n": "Yum! Brands",
 "s": "Consumer Discretionary",
+"y": "YUM",
 "sh": 268258657.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Yum! Brands, Inc.",
+"alts": [
+"YUM"
+]
 },
 {
 "t": "ZBRA",
-"y": "ZBRA",
 "n": "Zebra Technologies",
 "s": "Information Technology",
+"y": "ZBRA",
 "sh": 47087454.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Zebra Technologies Corporation",
+"alts": [
+"ZBRA"
+]
 },
 {
 "t": "ZBH",
-"y": "ZBH",
 "n": "Zimmer Biomet",
 "s": "Health Care",
+"y": "ZBH",
 "sh": 189253888.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Zimmer Biomet Holdings, Inc.",
+"alts": [
+"ZBH"
+]
 },
 {
 "t": "ZTS",
-"y": "ZTS",
 "n": "Zoetis",
 "s": "Health Care",
+"y": "ZTS",
 "sh": 406316147.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Zoetis Inc.",
+"alts": [
+"ZTS"
+]
 }
 ]

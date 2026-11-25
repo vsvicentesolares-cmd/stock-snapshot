@@ -1,802 +1,1297 @@
 [
 {
 "t": "III",
-"y": "III.L",
 "n": "3i",
 "s": "Investment Banking and Brokerage Services",
-"sh": 1013286946.0,
-"shAt": "2026-11-22"
+"y": "III.L",
+"sh": 1011775950.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "3i Group Ord",
+"alts": [
+"III.L"
+]
 },
 {
 "t": "ABDN",
-"y": "ABDN.L",
 "n": "Aberdeen Group",
 "s": "Investment Banking and Brokerage Services",
+"y": "ABDN.L",
 "sh": 1790943876.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aberdeen Group Plc",
+"alts": [
+"ABDN.L"
+]
 },
 {
 "t": "ADM",
-"y": "ADM.L",
 "n": "Admiral Group",
 "s": "Non-life Insurance",
+"y": "ADM.L",
 "sh": 299792457.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Admiral Group plc",
+"alts": [
+"ADM.L"
+]
 },
 {
 "t": "AAF",
-"y": "AAF.L",
 "n": "Airtel Africa",
 "s": "Telecommunications Service Providers",
+"y": "AAF.L",
 "sh": 3620832598.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Airtel Africa Plc",
+"alts": [
+"AAF.L"
+]
 },
 {
 "t": "ALW",
-"y": "ALW.L",
 "n": "Alliance Witan",
 "s": "Closed End Investments",
+"y": "ALW.L",
 "sh": 361775276.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "Alliance Witan Ord",
+"alts": [
+"ALW.L"
+]
 },
 {
 "t": "AAL",
-"y": "AAL.L",
 "n": "Anglo American plc",
 "s": "Industrial Metals and Mining",
+"y": "AAL.L",
 "sh": 1071487947.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Anglo American plc",
+"alts": [
+"AAL.L"
+]
 },
 {
 "t": "ANTO",
-"y": "ANTO.L",
 "n": "Antofagasta plc",
 "s": "Industrial Metals and Mining",
+"y": "ANTO.L",
 "sh": 985856695.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Antofagasta plc",
+"alts": [
+"ANTO.L"
+]
 },
 {
 "t": "ABF",
-"y": "ABF.L",
 "n": "Associated British Foods",
 "s": "Food Producers",
+"y": "ABF.L",
 "sh": 699557272.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Associated British Foods plc",
+"alts": [
+"ABF.L"
+]
 },
 {
 "t": "AZN",
-"y": "AZN.L",
 "n": "AstraZeneca",
 "s": "Pharmaceuticals, Biotechnology and Marijuana Producers",
+"y": "AZN.L",
 "sh": 1550917690.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "AstraZeneca PLC",
+"alts": [
+"AZN.L"
+]
 },
 {
 "t": "AUTO",
-"y": "AUTO.L",
 "n": "Autotrader Group",
 "s": "Software and Computer Services",
-"sh": 758562442.0,
-"shAt": "2026-11-22"
+"y": "AUTO.L",
+"sh": 757666414.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Autotrader Group plc",
+"alts": [
+"AUTO.L"
+]
 },
 {
 "t": "AV",
-"y": "AV.L",
 "n": "Aviva",
 "s": "Life Insurance",
+"y": "AV.L",
 "sh": 2991051023.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aviva plc",
+"alts": [
+"AV.L"
+]
 },
 {
 "t": "BAB",
-"y": "BAB.L",
 "n": "Babcock International",
 "s": "Aerospace and Defense",
-"sh": 486185648.0,
-"shAt": "2026-11-22"
+"y": "BAB.L",
+"sh": 486171145.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Babcock International Group PLC",
+"alts": [
+"BAB.L"
+]
 },
 {
 "t": "BA",
-"y": "BA.L",
 "n": "BAE Systems",
 "s": "Aerospace and Defense",
-"sh": 2922883500.0,
-"shAt": "2026-11-22"
+"y": "BA.L",
+"sh": 2922302850.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "BAE Systems plc",
+"alts": [
+"BA.L"
+]
 },
 {
 "t": "BBY",
-"y": "BBY.L",
 "n": "Balfour Beatty",
 "s": "Construction and Materials",
-"sh": 465491708.0,
-"shAt": "2026-11-22"
+"y": "BBY.L",
+"sh": 465009731.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Balfour Beatty plc",
+"alts": [
+"BBY.L"
+]
 },
 {
 "t": "BARC",
-"y": "BARC.L",
 "n": "Barclays",
 "s": "Banks",
-"sh": 13279299611.0,
-"shAt": "2026-11-22"
+"y": "BARC.L",
+"sh": 13262172372.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Barclays PLC",
+"alts": [
+"BARC.L"
+]
 },
 {
 "t": "BTRW",
-"y": "BTRW.L",
 "n": "Barratt Redrow",
 "s": "Household Goods and Home Construction",
-"sh": 1351455415.0,
-"shAt": "2026-11-22"
+"y": "BTRW.L",
+"sh": 1348335192.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Barratt Redrow plc",
+"alts": [
+"BTRW.L"
+]
 },
 {
 "t": "BP",
-"y": "BP.L",
 "n": "BP",
 "s": "Non-Renewable Energy",
+"y": "BP.L",
 "sh": 15453912643.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "BP p.l.c.",
+"alts": [
+"BP.L"
+]
 },
 {
 "t": "BATS",
-"y": "BATS.L",
 "n": "British American Tobacco",
 "s": "Tobacco",
-"sh": 2147419732.0,
-"shAt": "2026-11-22"
+"y": "BATS.L",
+"sh": 2146818478.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "British American Tobacco p.l.c.",
+"alts": [
+"BATS.L"
+]
 },
 {
 "t": "BLND",
-"y": "BLND.L",
 "n": "British Land",
 "s": "Real Estate Investment Trusts",
-"sh": 1025254219.0,
-"shAt": "2026-11-22"
+"y": "BLND.L",
+"sh": 1025249042.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "British Land Company PLC",
+"alts": [
+"BLND.L"
+]
 },
 {
 "t": "BT.A",
-"y": "BT-A.L",
 "n": "BT Group",
 "s": "Telecommunications Service Providers",
+"y": "BT-A.L",
 "sh": 9853621250.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "BT Group plc",
+"alts": [
+"BT-A.L"
+]
 },
 {
 "t": "BNZL",
-"y": "BNZL.L",
 "n": "Bunzl",
 "s": "General Industrials",
-"sh": 311781908.0,
-"shAt": "2026-11-22"
+"y": "BNZL.L",
+"sh": 311298714.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Bunzl plc",
+"alts": [
+"BNZL.L"
+]
 },
 {
 "t": "BRBY",
-"y": "BRBY.L",
 "n": "Burberry Group",
 "s": "Personal Goods",
+"y": "BRBY.L",
 "sh": 357656580.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Burberry Group plc",
+"alts": [
+"BRBY.L"
+]
 },
 {
 "t": "CNA",
-"y": "CNA.L",
 "n": "Centrica",
 "s": "Gas, Water and Multi-utilities",
+"y": "CNA.L",
 "sh": 4529179270.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Centrica plc",
+"alts": [
+"CNA.L"
+]
 },
 {
 "t": "CCEP",
-"y": "CCEP.L",
 "n": "Coca-Cola Europacific Partners",
 "s": "Beverages",
-"sh": 438475164.0,
-"shAt": "2026-11-22"
+"y": "CCEP.L",
+"sh": 438468164.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Coca-Cola Europacific Partners PLC",
+"alts": [
+"CCEP.L"
+]
 },
 {
 "t": "CCH",
-"y": "CCH.L",
 "n": "Coca-Cola HBC",
 "s": "Beverages",
+"y": "CCH.L",
 "sh": 364464550.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Coca-Cola HBC AG",
+"alts": [
+"CCH.L"
+]
 },
 {
 "t": "CPG",
-"y": "CPG.L",
 "n": "Compass Group",
 "s": "Consumer Services",
+"y": "CPG.L",
 "sh": 1700320665.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Compass Group PLC",
+"alts": [
+"CPG.L"
+]
 },
 {
 "t": "CCC",
-"y": "CCC.L",
 "n": "Computacenter",
 "s": "Software and Computer Services",
+"y": "CCC.L",
 "sh": 104948626.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Computacenter plc",
+"alts": [
+"CCC.L"
+]
 },
 {
 "t": "CTEC",
-"y": "CTEC.L",
 "n": "Convatec",
 "s": "Medical Equipment and Services",
-"sh": 1908856496.0,
-"shAt": "2026-11-22"
+"y": "CTEC.L",
+"sh": 1905266125.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Convatec Group PLC",
+"alts": [
+"CTEC.L"
+]
 },
 {
 "t": "CRDA",
-"y": "CRDA.L",
 "n": "Croda International",
 "s": "Chemicals",
+"y": "CRDA.L",
 "sh": 139354139.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-22",
+"ys": "Basic Materials",
+"yn": "Croda International Plc",
+"alts": [
+"CRDA.L"
+]
 },
 {
 "t": "DCC",
-"y": "DCC.L",
 "n": "DCC Energy",
 "s": "Industrial Support Services",
+"y": "DCC.L",
 "sh": 85448992.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "DCC Energy plc",
+"alts": [
+"DCC.L"
+]
 },
 {
 "t": "DGE",
-"y": "DGE.L",
 "n": "Diageo",
 "s": "Beverages",
+"y": "DGE.L",
 "sh": 2227591734.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Diageo plc",
+"alts": [
+"DGE.L"
+]
 },
 {
 "t": "DPLM",
-"y": "DPLM.L",
 "n": "Diploma",
 "s": "Industrial Support Services",
+"y": "DPLM.L",
 "sh": 134094839.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Diploma PLC",
+"alts": [
+"DPLM.L"
+]
 },
 {
 "t": "EZJ",
-"y": "EZJ.L",
 "n": "EasyJet",
 "s": "Travel and Leisure",
+"y": "EZJ.L",
 "sh": 747526182.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "easyJet plc",
+"alts": [
+"EZJ.L"
+]
 },
 {
 "t": "EDV",
-"y": "EDV.L",
 "n": "Endeavour Mining",
 "s": "Precious Metals and Mining",
+"y": "EDV.L",
 "sh": 241025722.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Endeavour Mining plc",
+"alts": [
+"EDV.L"
+]
 },
 {
 "t": "EXPN",
-"y": "EXPN.L",
 "n": "Experian",
 "s": "Industrial Support Services",
-"sh": 875983604.0,
-"shAt": "2026-11-22"
+"y": "EXPN.L",
+"sh": 876063405.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Experian plc",
+"alts": [
+"EXPN.L"
+]
 },
 {
 "t": "FCIT",
-"y": "FCIT.L",
 "n": "F & C Investment Trust",
 "s": "Closed End Investments",
+"y": "FCIT.L",
 "sh": 1849134877.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "F&C Investment Trust Ord",
+"alts": [
+"FCIT.L"
+]
 },
 {
 "t": "FRES",
-"y": "FRES.L",
 "n": "Fresnillo plc",
 "s": "Precious Metals and Mining",
+"y": "FRES.L",
 "sh": 736893589.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-22",
+"ys": "Basic Materials",
+"yn": "Fresnillo plc",
+"alts": [
+"FRES.L"
+]
 },
 {
 "t": "GAW",
-"y": "GAW.L",
 "n": "Games Workshop",
 "s": "Leisure Goods",
+"y": "GAW.L",
 "sh": 33079475.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Games Workshop Group PLC",
+"alts": [
+"GAW.L"
+]
 },
 {
 "t": "GLEN",
-"y": "GLEN.L",
 "n": "Glencore",
 "s": "Industrial Metals and Mining",
+"y": "GLEN.L",
 "sh": 11696818906.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Glencore plc",
+"alts": [
+"GLEN.L"
+]
 },
 {
 "t": "GSK",
-"y": "GSK.L",
 "n": "GSK plc",
 "s": "Pharmaceuticals, Biotechnology and Marijuana Producers",
-"sh": 4008939182.0,
-"shAt": "2026-11-22"
+"y": "GSK.L",
+"sh": 4030951066.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "GSK plc",
+"alts": [
+"GSK.L"
+]
 },
 {
 "t": "HLN",
-"y": "HLN.L",
 "n": "Haleon",
 "s": "Pharmaceuticals, Biotechnology and Marijuana Producers",
-"sh": 8767228436.0,
-"shAt": "2026-11-22"
+"y": "HLN.L",
+"sh": 8755539038.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Haleon plc",
+"alts": [
+"HLN.L"
+]
 },
 {
 "t": "HLMA",
-"y": "HLMA.L",
 "n": "Halma plc",
 "s": "Electronic and Electrical Equipment",
+"y": "HLMA.L",
 "sh": 377678275.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-22",
+"ys": "Industrials",
+"yn": "Halma plc",
+"alts": [
+"HLMA.L"
+]
 },
 {
 "t": "HSX",
-"y": "HSX.L",
 "n": "Hiscox",
 "s": "Non-life Insurance",
+"y": "HSX.L",
 "sh": 314128497.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Hiscox Ltd",
+"alts": [
+"HSX.L"
+]
 },
 {
 "t": "HWDN",
-"y": "HWDN.L",
 "n": "Howdens Joinery",
 "s": "Retailers",
+"y": "HWDN.L",
 "sh": 540617237.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Howden Joinery Group Plc",
+"alts": [
+"HWDN.L"
+]
 },
 {
 "t": "HSBA",
-"y": "HSBA.L",
 "n": "HSBC",
 "s": "Banks",
-"sh": 17084640109.0,
-"shAt": "2026-11-22"
+"y": "HSBA.L",
+"sh": 17082957306.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "HSBC Holdings plc",
+"alts": [
+"HSBA.L"
+]
 },
 {
 "t": "ICG",
-"y": "ICG.L",
 "n": "ICG",
 "s": "Investment Banking and Brokerage Services",
-"sh": 285906581.0,
-"shAt": "2026-11-22"
+"y": "ICG.L",
+"sh": 270625756.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "ICG plc",
+"alts": [
+"ICG.L"
+]
 },
 {
 "t": "IGG",
-"y": "IGG.L",
 "n": "IG Group",
 "s": "Investment Banking and Brokerage Services",
+"y": "IGG.L",
 "sh": 329634415.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "IG Group Holdings plc",
+"alts": [
+"IGG.L"
+]
 },
 {
 "t": "IHG",
-"y": "IHG.L",
 "n": "IHG Hotels & Resorts",
 "s": "Travel and Leisure",
-"sh": 145127524.0,
-"shAt": "2026-11-22"
+"y": "IHG.L",
+"sh": 145048210.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "InterContinental Hotels Group PLC",
+"alts": [
+"IHG.L"
+]
 },
 {
 "t": "IMI",
-"y": "IMI.L",
 "n": "IMI",
 "s": "Electronic and Electrical Equipment",
-"sh": 231749566.0,
-"shAt": "2026-11-22"
+"y": "IMI.L",
+"sh": 230446449.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "IMI plc",
+"alts": [
+"IMI.L"
+]
 },
 {
 "t": "IMB",
-"y": "IMB.L",
 "n": "Imperial Brands",
 "s": "Tobacco",
-"sh": 745489262.0,
-"shAt": "2026-11-22"
+"y": "IMB.L",
+"sh": 743916316.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Imperial Brands PLC",
+"alts": [
+"IMB.L"
+]
 },
 {
 "t": "INF",
-"y": "INF.L",
 "n": "Informa",
 "s": "Media",
+"y": "INF.L",
 "sh": 1358604673.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Informa plc",
+"alts": [
+"INF.L"
+]
 },
 {
 "t": "IAG",
-"y": "IAG.L",
 "n": "International Airlines Group",
 "s": "Travel and Leisure",
-"sh": 4327920795.0,
-"shAt": "2026-11-22"
+"y": "IAG.L",
+"sh": 4320844672.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "International Consolidated Airlines Group S.A.",
+"alts": [
+"IAG.L"
+]
 },
 {
 "t": "ITRK",
-"y": "ITRK.L",
 "n": "Intertek",
 "s": "Industrial Support Services",
+"y": "ITRK.L",
 "sh": 153496203.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-22",
+"ys": "Industrials",
+"yn": "Intertek Group plc",
+"alts": [
+"ITRK.L"
+]
 },
 {
 "t": "INVP",
-"y": "INVP.L",
 "n": "Investec",
 "s": "Banks",
+"y": "INVP.L",
 "sh": 626616897.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Investec Group",
+"alts": [
+"INVP.L"
+]
 },
 {
 "t": "ITH",
-"y": "ITH.L",
 "n": "Ithaca Energy",
 "s": "Non-Renewable Energy",
+"y": "ITH.L",
 "sh": 1650599943.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Ithaca Energy plc",
+"alts": [
+"ITH.L"
+]
 },
 {
 "t": "JD",
-"y": "JD.L",
 "n": "JD Sports",
 "s": "Retailers",
+"y": "JD.L",
 "sh": 4666825374.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "JD Sports Fashion Plc",
+"alts": [
+"JD.L"
+]
 },
 {
 "t": "BGEO",
-"y": "BGEO.L",
 "n": "Lion Finance Group",
 "s": "Banks",
-"sh": 42949702.0,
-"shAt": "2026-11-22"
+"y": "BGEO.L",
+"sh": 42927702.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Lion Finance Group PLC",
+"alts": [
+"BGEO.L"
+]
 },
 {
 "t": "KGF",
-"y": "KGF.L",
 "n": "Kingfisher plc",
 "s": "Retailers",
+"y": "KGF.L",
 "sh": 1608799135.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Kingfisher plc",
+"alts": [
+"KGF.L"
+]
 },
 {
 "t": "LAND",
-"y": "LAND.L",
 "n": "Land Securities",
 "s": "Real Estate Investment Trusts",
+"y": "LAND.L",
 "sh": 828500780.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Land Securities Group Plc",
+"alts": [
+"LAND.L"
+]
 },
 {
 "t": "LGEN",
-"y": "LGEN.L",
 "n": "Legal & General",
 "s": "Life Insurance",
-"sh": 5325326428.0,
-"shAt": "2026-11-22"
+"y": "LGEN.L",
+"sh": 5295657658.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Legal & General Group Plc",
+"alts": [
+"LGEN.L"
+]
 },
 {
 "t": "LLOY",
-"y": "LLOY.L",
 "n": "Lloyds Banking Group",
 "s": "Banks",
-"sh": 56942352683.0,
-"shAt": "2026-11-22"
+"y": "LLOY.L",
+"sh": 56742118963.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Lloyds Banking Group plc",
+"alts": [
+"LLOY.L"
+]
 },
 {
 "t": "LMP",
-"y": "LMP.L",
 "n": "LondonMetric Property",
 "s": "Real Estate Investment Trusts",
+"y": "LMP.L",
 "sh": 2439021877.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "LondonMetric Property Plc",
+"alts": [
+"LMP.L"
+]
 },
 {
 "t": "LSEG",
-"y": "LSEG.L",
 "n": "London Stock Exchange Group",
 "s": "Finance and Credit Services",
-"sh": 477806742.0,
-"shAt": "2026-11-22"
+"y": "LSEG.L",
+"sh": 477290525.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "London Stock Exchange Group plc",
+"alts": [
+"LSEG.L"
+]
 },
 {
 "t": "MNG",
-"y": "MNG.L",
 "n": "M&G",
 "s": "Investment Banking and Brokerage Services",
+"y": "MNG.L",
 "sh": 2382488792.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "M&G plc",
+"alts": [
+"MNG.L"
+]
 },
 {
 "t": "MKS",
-"y": "MKS.L",
 "n": "Marks & Spencer",
 "s": "Personal Care, Drug and Grocery Stores",
+"y": "MKS.L",
 "sh": 2069052388.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Marks and Spencer Group plc",
+"alts": [
+"MKS.L"
+]
 },
 {
 "t": "MRO",
-"y": "MRO.L",
 "n": "Melrose Industries",
 "s": "Aerospace and Defense",
+"y": "MRO.L",
 "sh": 1246097524.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Melrose Industries PLC",
+"alts": [
+"MRO.L"
+]
 },
 {
 "t": "MTLN",
-"y": "MTLN.L",
 "n": "Metlen Energy & Metals",
 "s": "Gas, Water and Multi-utilities",
-"sh": 142105770.0,
-"shAt": "2026-11-22"
+"y": "MTLN.L",
+"sh": 142085770.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Metlen Energy & Metals PLC",
+"alts": [
+"MTLN.L"
+]
 },
 {
 "t": "NG",
-"y": "NG.L",
 "n": "National Grid plc",
 "s": "Gas, Water and Multi-utilities",
+"y": "NG.L",
 "sh": 5026965821.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "National Grid plc",
+"alts": [
+"NG.L"
+]
 },
 {
 "t": "NWG",
-"y": "NWG.L",
 "n": "NatWest Group",
 "s": "Banks",
+"y": "NWG.L",
 "sh": 7890220338.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "NatWest Group plc",
+"alts": [
+"NWG.L"
+]
 },
 {
 "t": "NXT",
-"y": "NXT.L",
 "n": "Next plc",
 "s": "Retailers",
+"y": "NXT.L",
 "sh": 114152051.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "NEXT plc",
+"alts": [
+"NXT.L"
+]
 },
 {
 "t": "PSON",
-"y": "PSON.L",
 "n": "Pearson plc",
 "s": "Media",
+"y": "PSON.L",
 "sh": 601090414.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Pearson plc",
+"alts": [
+"PSON.L"
+]
 },
 {
 "t": "PSH",
-"y": "PSH.L",
 "n": "Pershing Square Holdings",
 "s": "Closed End Investments",
-"sh": 175030591.0,
-"shAt": "2026-11-22"
+"y": "PSH.L",
+"sh": 174262536.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Pershing Square Holdings, Ltd.",
+"alts": [
+"PSH.L"
+]
 },
 {
 "t": "PCT",
-"y": "PCT.L",
 "n": "Polar Capital Technology Trust",
 "s": "Closed End Investments",
+"y": "PCT.L",
 "sh": 1099105220.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "Polar Capital Technology Ord",
+"alts": [
+"PCT.L"
+]
 },
 {
 "t": "PRU",
-"y": "PRU.L",
 "n": "Prudential plc",
 "s": "Life Insurance",
-"sh": 2440864935.0,
-"shAt": "2026-11-22"
+"y": "PRU.L",
+"sh": 2436015229.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Prudential plc",
+"alts": [
+"PRU.L"
+]
 },
 {
 "t": "RKT",
-"y": "RKT.L",
 "n": "Reckitt",
 "s": "Personal Care, Drug and Grocery Stores",
-"sh": 632988365.0,
-"shAt": "2026-11-22"
+"y": "RKT.L",
+"sh": 632874234.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Reckitt Benckiser Group plc",
+"alts": [
+"RKT.L"
+]
 },
 {
 "t": "REL",
-"y": "REL.L",
 "n": "RELX",
 "s": "Software and Computer Services",
-"sh": 1734016255.0,
-"shAt": "2026-11-22"
+"y": "REL.L",
+"sh": 1733368490.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "RELX PLC",
+"alts": [
+"REL.L"
+]
 },
 {
 "t": "RTO",
-"y": "RTO.L",
 "n": "Rentokil Initial",
 "s": "Industrial Support Services",
+"y": "RTO.L",
 "sh": 2509797049.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Rentokil Initial plc",
+"alts": [
+"RTO.L"
+]
 },
 {
 "t": "RIO",
-"y": "RIO.L",
 "n": "Rio Tinto",
 "s": "Industrial Metals and Mining",
-"sh": 1626497329.0,
-"shAt": "2026-11-22"
+"y": "RIO.L",
+"sh": 1254747091.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Rio Tinto Group",
+"alts": [
+"RIO.L"
+]
 },
 {
 "t": "RR",
-"y": "RR.L",
 "n": "Rolls-Royce Holdings",
 "s": "Aerospace and Defense",
+"y": "RR.L",
 "sh": 8182793350.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Rolls-Royce Holdings plc",
+"alts": [
+"RR.L"
+]
 },
 {
 "t": "SGE",
-"y": "SGE.L",
 "n": "Sage Group",
 "s": "Software and Computer Services",
+"y": "SGE.L",
 "sh": 900608595.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "The Sage Group plc",
+"alts": [
+"SGE.L"
+]
 },
 {
 "t": "SBRY",
-"y": "SBRY.L",
 "n": "Sainsbury's",
 "s": "Personal Care, Drug and Grocery Stores",
-"sh": 2175163466.0,
-"shAt": "2026-11-22"
+"y": "SBRY.L",
+"sh": 2173174466.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "J Sainsbury plc",
+"alts": [
+"SBRY.L"
+]
 },
 {
 "t": "SMT",
-"y": "SMT.L",
 "n": "Scottish Mortgage Investment Trust",
 "s": "Closed End Investments",
+"y": "SMT.L",
 "sh": 1029666858.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "Scottish Mortgage Ord",
+"alts": [
+"SMT.L"
+]
 },
 {
 "t": "SGRO",
-"y": "SGRO.L",
 "n": "Segro",
 "s": "Real Estate Investment Trusts",
+"y": "SGRO.L",
 "sh": 1353011026.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "SEGRO Plc",
+"alts": [
+"SGRO.L"
+]
 },
 {
 "t": "SVT",
-"y": "SVT.L",
 "n": "Severn Trent",
 "s": "Gas, Water and Multi-utilities",
+"y": "SVT.L",
 "sh": 302101054.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Severn Trent PLC",
+"alts": [
+"SVT.L"
+]
 },
 {
 "t": "SHEL",
-"y": "SHEL.L",
 "n": "Shell plc",
 "s": "Non-Renewable Energy",
-"sh": 5645167459.0,
-"shAt": "2026-11-22"
+"y": "SHEL.L",
+"sh": 5640925059.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Shell plc",
+"alts": [
+"SHEL.L"
+]
 },
 {
 "t": "SMIN",
-"y": "SMIN.L",
 "n": "Smiths Group",
 "s": "General Industrials",
-"sh": 270394627.0,
-"shAt": "2026-11-22"
+"y": "SMIN.L",
+"sh": 269095083.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Smiths Group plc",
+"alts": [
+"SMIN.L"
+]
 },
 {
 "t": "SN",
-"y": "SN.L",
 "n": "Smith & Nephew",
 "s": "Medical Equipment and Services",
-"sh": 836215908.0,
-"shAt": "2026-11-22"
+"y": "SN.L",
+"sh": 834063891.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Smith & Nephew plc",
+"alts": [
+"SN.L"
+]
 },
 {
 "t": "SPX",
-"y": "SPX.L",
 "n": "Spirax Group",
 "s": "Industrial Engineering",
+"y": "SPX.L",
 "sh": 73795881.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Spirax Group plc",
+"alts": [
+"SPX.L"
+]
 },
 {
 "t": "SSE",
-"y": "SSE.L",
 "n": "SSE plc",
 "s": "Electricity",
-"sh": 1213799664.0,
-"shAt": "2026-11-22"
+"y": "SSE.L",
+"sh": 1212871185.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "SSE plc",
+"alts": [
+"SSE.L"
+]
 },
 {
 "t": "STAN",
-"y": "STAN.L",
 "n": "Standard Chartered",
 "s": "Banks",
-"sh": 2160781896.0,
-"shAt": "2026-11-22"
+"y": "STAN.L",
+"sh": 2158778877.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Standard Chartered PLC",
+"alts": [
+"STAN.L"
+]
 },
 {
 "t": "SDLF",
-"y": "SDLF.L",
 "n": "Standard Life",
 "s": "Life Insurance",
+"y": "SDLF.L",
 "sh": 1002283230.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Standard Life plc",
+"alts": [
+"SDLF.L"
+]
 },
 {
 "t": "STJ",
-"y": "STJ.L",
 "n": "St. James's Place",
 "s": "Investment Banking and Brokerage Services",
+"y": "STJ.L",
 "sh": 494563220.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "St. James's Place plc",
+"alts": [
+"STJ.L"
+]
 },
 {
 "t": "TSCO",
-"y": "TSCO.L",
 "n": "Tesco",
 "s": "Personal Care, Drug and Grocery Stores",
-"sh": 6196285285.0,
-"shAt": "2026-11-22"
+"y": "TSCO.L",
+"sh": 6196283370.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Tesco PLC",
+"alts": [
+"TSCO.L"
+]
 },
 {
 "t": "BBOX",
-"y": "BBOX.L",
 "n": "Tritax Big Box REIT",
 "s": "Real Estate Investment Trusts",
+"y": "BBOX.L",
 "sh": 2927912135.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"yn": "Tritax Big Box Ord",
+"alts": [
+"BBOX.L"
+]
 },
 {
 "t": "ULVR",
-"y": "ULVR.L",
 "n": "Unilever",
 "s": "Personal Care, Drug and Grocery Stores",
+"y": "ULVR.L",
 "sh": 2153366959.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Unilever PLC",
+"alts": [
+"ULVR.L"
+]
 },
 {
 "t": "UU",
-"y": "UU.L",
 "n": "United Utilities",
 "s": "Gas, Water and Multi-utilities",
+"y": "UU.L",
 "sh": 742864028.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "United Utilities Group PLC",
+"alts": [
+"UU.L"
+]
 },
 {
 "t": "VOD",
-"y": "VOD.L",
 "n": "Vodafone Group",
 "s": "Telecommunications Service Providers",
+"y": "VOD.L",
 "sh": 23168639889.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Vodafone Group Public Limited Company",
+"alts": [
+"VOD.L"
+]
 },
 {
 "t": "WEIR",
-"y": "WEIR.L",
 "n": "Weir",
 "s": "Industrial Engineering",
-"sh": 259612053.0,
-"shAt": "2026-11-22"
+"y": "WEIR.L",
+"sh": 259612052.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Weir PLC",
+"alts": [
+"WEIR.L"
+]
 },
 {
 "t": "WTB",
-"y": "WTB.L",
 "n": "Whitbread",
 "s": "Travel and Leisure",
+"y": "WTB.L",
 "sh": 167541535.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Whitbread plc",
+"alts": [
+"WTB.L"
+]
 },
 {
 "t": "WPP",
-"y": "WPP.L",
 "n": "WPP",
 "s": "Media",
+"y": "WPP.L",
 "sh": 1078525408.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "WPP plc",
+"alts": [
+"WPP.L"
+]
 }
 ]

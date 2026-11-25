@@ -3,385 +3,454 @@
 "t": "AC",
 "n": "Arca Continental",
 "s": "Consumer Staples",
-"alts": [
-"AC.MX"
-],
 "y": "AC.MX",
 "sh": 1698192061.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Arca Continental, S.A.B. de C.V.",
+"alts": [
+"AC.MX"
+]
 },
 {
 "t": "ALPEK A",
 "n": "Alpek",
 "s": "Materials",
-"alts": [
-"ALPEKA.MX"
-],
 "y": "ALPEKA.MX",
 "sh": 2084502837.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "ALPEK, S.A.B. de C.V.",
+"alts": [
+"ALPEKA.MX"
+]
 },
 {
 "t": "ALSEA",
 "n": "Alsea",
 "s": "Consumer Discretionary",
-"alts": [
-"ALSEA.MX"
-],
 "y": "ALSEA.MX",
 "sh": 787427269.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Alsea, S.A.B. de C.V.",
+"alts": [
+"ALSEA.MX"
+]
 },
 {
 "t": "AMX B",
 "n": "America Movil",
 "s": "Communication Services",
-"alts": [
-"AMXB.MX"
-],
 "y": "AMXB.MX",
 "sh": 59702000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "América Móvil, S.A.B. de C.V.",
+"alts": [
+"AMXB.MX"
+]
 },
 {
 "t": "ASUR B",
 "n": "Grupo Aeroportuario del Sureste",
 "s": "Industrials",
-"alts": [
-"ASURB.MX"
-],
 "y": "ASURB.MX",
 "sh": 277050000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Grupo Aeroportuario del Sureste, S. A. B. de C. V.",
+"alts": [
+"ASURB.MX"
+]
 },
 {
 "t": "BBAJIO O",
 "n": "Banco del Bajio",
 "s": "Financials",
-"alts": [
-"BBAJIOO.MX"
-],
 "y": "BBAJIOO.MX",
 "sh": 1189931687.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Banco del Bajío, S.A., Institución de Banca Múltiple",
+"alts": [
+"BBAJIOO.MX"
+]
 },
 {
 "t": "BIMBO A",
 "n": "Grupo Bimbo",
 "s": "Consumer Staples",
-"alts": [
-"BIMBOA.MX"
-],
 "y": "BIMBOA.MX",
 "sh": 4296284215.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Grupo Bimbo, S.A.B. de C.V.",
+"alts": [
+"BIMBOA.MX"
+]
 },
 {
 "t": "BOLSA A",
 "n": "Bolsa Mexicana de Valores",
 "s": "Financials",
-"alts": [
-"BOLSAA.MX"
-],
 "y": "BOLSAA.MX",
 "sh": 551591000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Bolsa Mexicana de Valores, S.A.B. de C.V.",
+"alts": [
+"BOLSAA.MX"
+]
 },
 {
 "t": "CEMEX CPO",
 "n": "Cemex",
 "s": "Materials",
-"alts": [
-"CEMEXCPO.MX"
-],
 "y": "CEMEXCPO.MX",
 "sh": 14429524537.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "CEMEX, S.A.B. de C.V.",
+"alts": [
+"CEMEXCPO.MX"
+]
 },
 {
 "t": "CHDRAUI B",
 "n": "Grupo Comercial Chedraui",
 "s": "Consumer Staples",
-"alts": [
-"CHDRAUIB.MX"
-],
 "y": "CHDRAUIB.MX",
 "sh": 959240806.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Grupo Comercial Chedraui, S.A.B. de C.V.",
+"alts": [
+"CHDRAUIB.MX"
+]
 },
 {
 "t": "FEMSA UBD",
 "n": "FEMSA",
 "s": "Consumer Staples",
-"alts": [
-"FEMSAUBD.MX"
-],
 "y": "FEMSAUBD.MX",
 "sh": 2022672509.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Fomento Económico Mexicano, S.A.B. de C.V.",
+"alts": [
+"FEMSAUBD.MX"
+]
 },
 {
 "t": "GAP B",
 "n": "Grupo Aeroportuario del Pacifico",
 "s": "Industrials",
-"alts": [
-"GAPB.MX"
-],
 "y": "GAPB.MX",
 "sh": 519226576.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",
+"alts": [
+"GAPB.MX"
+]
 },
 {
 "t": "GCARSO A1",
 "n": "Grupo Carso",
 "s": "Industrials",
-"alts": [
-"GCARSOA1.MX"
-],
 "y": "GCARSOA1.MX",
 "sh": 2252216966.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Grupo Carso, S.A.B. de C.V.",
+"alts": [
+"GCARSOA1.MX"
+]
 },
 {
 "t": "GCC",
 "n": "GCC",
 "s": "Materials",
-"alts": [
-"GCC.MX"
-],
 "y": "GCC.MX",
 "sh": 326163532.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "GCC, S.A.B. de C.V.",
+"alts": [
+"GCC.MX"
+]
 },
 {
 "t": "GENTERA",
 "n": "Gentera",
 "s": "Financials",
-"alts": [
-"GENTERA.MX"
-],
 "y": "GENTERA.MX",
 "sh": 1579239112.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Gentera, S.A.B. de C.V.",
+"alts": [
+"GENTERA.MX"
+]
 },
 {
 "t": "GFINBUR O",
 "n": "Grupo Financiero Inbursa",
 "s": "Financials",
-"alts": [
-"GFINBURO.MX"
-],
 "y": "GFINBURO.MX",
 "sh": 5973607464.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Grupo Financiero Inbursa, S.A.B. de C.V.",
+"alts": [
+"GFINBURO.MX"
+]
 },
 {
 "t": "GFNORTE O",
 "n": "Grupo Financiero Banorte",
 "s": "Financials",
-"alts": [
-"GFNORTEO.MX"
-],
 "y": "GFNORTEO.MX",
 "sh": 2774660273.0,
-"shAt": "2026-11-23"
+"shAt": "2026-11-23",
+"ys": "Financial Services",
+"yn": "Grupo Financiero Banorte, S.A.B. de C.V.",
+"alts": [
+"GFNORTEO.MX"
+]
 },
 {
 "t": "GMEXICO B",
 "n": "Grupo Mexico",
 "s": "Materials",
-"alts": [
-"GMEXICOB.MX"
-],
 "y": "GMEXICOB.MX",
 "sh": 7825128866.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Grupo México, S.A.B. de C.V.",
+"alts": [
+"GMEXICOB.MX"
+]
 },
 {
 "t": "GRUMA B",
 "n": "Gruma",
 "s": "Consumer Staples",
-"alts": [
-"GRUMAB.MX"
-],
 "y": "GRUMAB.MX",
 "sh": 331519505.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Gruma, S.A.B. de C.V.",
+"alts": [
+"GRUMAB.MX"
+]
 },
 {
 "t": "KIMBER A",
 "n": "Kimberly-Clark de Mexico",
 "s": "Consumer Staples",
+"y": "KIMBERA.MX",
+"sh": 1549573973.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Kimberly-Clark de México, S. A. B. de C. V.",
 "alts": [
 "KIMBERA.MX"
-],
-"y": "KIMBERA.MX",
-"sh": 2979568820.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "KOF UBL",
 "n": "Coca-Cola FEMSA",
 "s": "Consumer Staples",
+"y": "KOFUBL.MX",
+"sh": 525208065.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Coca-Cola FEMSA, S.A.B. de C.V.",
 "alts": [
 "KOFUBL.MX"
-],
-"y": "KOFUBL.MX",
-"sh": 1893509242.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "LAB B",
 "n": "Genomma Lab",
 "s": "Health Care",
-"alts": [
-"LABB.MX"
-],
 "y": "LABB.MX",
 "sh": 977752666.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Genomma Lab Internacional, S.A.B. de C.V.",
+"alts": [
+"LABB.MX"
+]
 },
 {
 "t": "LACOMER UBC",
 "n": "La Comer",
 "s": "Consumer Staples",
-"alts": [
-"LACOMERUBC.MX"
-],
 "y": "LACOMERUBC.MX",
 "sh": 1086000000.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "La Comer, S.A.B. de C.V.",
+"alts": [
+"LACOMERUBC.MX"
+]
 },
 {
 "t": "LIVEPOL C-1",
 "n": "El Puerto de Liverpool",
 "s": "Consumer Discretionary",
+"y": "LIVEPOLC-1.MX",
+"sh": 192914882.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "El Puerto de Liverpool, S.A.B. de C.V.",
 "alts": [
 "LIVEPOLC-1.MX"
-],
-"y": "LIVEPOLC-1.MX",
-"sh": 1337564882.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "MEGA CPO",
 "n": "Megacable",
 "s": "Communication Services",
+"y": "MEGACPO.MX",
+"yn": "Megacable Holdings, S. A. B. de C. V.",
 "alts": [
 "MEGACPO.MX"
-],
-"y": "MEGACPO.MX"
+]
 },
 {
 "t": "OMA B",
 "n": "Grupo Aeroportuario Centro Norte",
 "s": "Industrials",
+"y": "OMAB.MX",
+"sh": 336403425.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",
 "alts": [
 "OMAB.MX"
-],
-"y": "OMAB.MX",
-"sh": 386169425.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "ORBIA",
 "n": "Orbia",
 "s": "Materials",
-"alts": [
-"ORBIA.MX"
-],
 "y": "ORBIA.MX",
 "sh": 1927212589.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Orbia Advance Corporation, S.A.B. de C.V.",
+"alts": [
+"ORBIA.MX"
+]
 },
 {
 "t": "PE&OLES",
 "n": "Penoles",
 "s": "Materials",
-"alts": [
-"PE&OLES.MX"
-],
 "y": "PE&OLES.MX",
 "sh": 397475747.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Industrias Peñoles, S.A.B. de C.V.",
+"alts": [
+"PE&OLES.MX"
+]
 },
 {
 "t": "PINFRA",
 "n": "Promotora y Operadora de Infraestructura",
 "s": "Industrials",
+"y": "PINFRA.MX",
+"sh": 325287385.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Promotora y Operadora de Infraestructura, S. A. B. de C. V.",
 "alts": [
 "PINFRA.MX"
-],
-"y": "PINFRA.MX",
-"sh": 374703443.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "Q",
 "n": "Qualitas",
 "s": "Financials",
-"alts": [
-"Q.MX"
-],
 "y": "Q.MX",
 "sh": 394386086.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Quálitas Controladora, S.A.B. de C.V.",
+"alts": [
+"Q.MX"
+]
 },
 {
 "t": "R A",
 "n": "Regional",
 "s": "Financials",
-"alts": [
-"RA.MX"
-],
 "y": "RA.MX",
 "sh": 266614245.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Regional S.A.B. de C.V.",
+"alts": [
+"RA.MX"
+]
 },
 {
 "t": "SIGMAF",
 "n": "Sigma Foods",
 "s": "Consumer Staples",
+"y": "SIGMAFA.MX",
+"sh": 5554460508.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Sigma Foods, S.A.B. de C.V.",
 "alts": [
 "SIGMAF.MX",
 "SIGMAFA.MX",
 "ALFAA.MX"
-],
-"y": "SIGMAFA.MX",
-"sh": 5554460508.0,
-"shAt": "2026-11-22"
+]
 },
 {
 "t": "VESTA",
 "n": "Corporacion Inmobiliaria Vesta",
 "s": "Real Estate",
-"alts": [
-"VESTA.MX"
-],
 "y": "VESTA.MX",
 "sh": 928201237.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Corporación Inmobiliaria Vesta, S.A.B. de C.V.",
+"alts": [
+"VESTA.MX"
+]
 },
 {
 "t": "VOLAR A",
 "n": "Volaris",
 "s": "Industrials",
-"alts": [
-"VOLARA.MX"
-],
 "y": "VOLARA.MX",
 "sh": 1149513695.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Controladora Vuela Compañía de Aviación, S.A.B. de C.V.",
+"alts": [
+"VOLARA.MX"
+]
 },
 {
 "t": "WALMEX",
 "n": "Walmart de Mexico",
 "s": "Consumer Staples",
-"alts": [
-"WALMEX.MX"
-],
 "y": "WALMEX.MX",
 "sh": 17220231803.0,
-"shAt": "2026-11-22"
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Wal-Mart de México, S.A.B. de C.V.",
+"alts": [
+"WALMEX.MX"
+]
 }
 ]

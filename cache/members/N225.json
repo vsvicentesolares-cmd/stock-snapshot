@@ -1,0 +1,2914 @@
+[
+{
+"t": "4062",
+"n": "IBIDEN CO., LTD.",
+"s": "",
+"y": "4062.T",
+"sh": 570655095.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Ibiden Co.,Ltd.",
+"alts": [
+"4062.T"
+]
+},
+{
+"t": "6479",
+"n": "MINEBEA MITSUMI INC.",
+"s": "",
+"y": "6479.T",
+"sh": 401595208.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "MINEBEA MITSUMI Inc.",
+"alts": [
+"6479.T"
+]
+},
+{
+"t": "6501",
+"n": "HITACHI, LTD.",
+"s": "",
+"y": "6501.T",
+"sh": 4434475136.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Hitachi, Ltd.",
+"alts": [
+"6501.T"
+]
+},
+{
+"t": "6503",
+"n": "MITSUBISHI ELECTRIC CORP.",
+"s": "",
+"y": "6503.T",
+"sh": 2046880068.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsubishi Electric Corporation",
+"alts": [
+"6503.T"
+]
+},
+{
+"t": "6504",
+"n": "FUJI ELECTRIC CO., LTD.",
+"s": "",
+"y": "6504.T",
+"sh": 146056941.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Fuji Electric Co., Ltd.",
+"alts": [
+"6504.T"
+]
+},
+{
+"t": "6506",
+"n": "YASKAWA ELECTRIC CORP.",
+"s": "",
+"y": "6506.T",
+"sh": 259439350.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "YASKAWA Electric Corporation",
+"alts": [
+"6506.T"
+]
+},
+{
+"t": "6525",
+"n": "KOKUSAI ELECTRIC CORP.",
+"s": "",
+"y": "6525.T",
+"sh": 233383914.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Kokusai Electric Corporation",
+"alts": [
+"6525.T"
+]
+},
+{
+"t": "6526",
+"n": "SOCIONEXT INC.",
+"s": "",
+"y": "6526.T",
+"sh": 175458818.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Socionext Inc.",
+"alts": [
+"6526.T"
+]
+},
+{
+"t": "6645",
+"n": "OMRON CORP.",
+"s": "",
+"y": "6645.T",
+"sh": 196629396.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "OMRON Corporation",
+"alts": [
+"6645.T"
+]
+},
+{
+"t": "6701",
+"n": "NEC CORP.",
+"s": "",
+"y": "6701.T",
+"sh": 1327434115.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "NEC Corporation",
+"alts": [
+"6701.T"
+]
+},
+{
+"t": "6702",
+"n": "FUJITSU LTD.",
+"s": "",
+"y": "6702.T",
+"sh": 1718622103.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Fujitsu Limited",
+"alts": [
+"6702.T"
+]
+},
+{
+"t": "6723",
+"n": "RENESAS ELECTRONICS CORP.",
+"s": "",
+"y": "6723.T",
+"sh": 1827489239.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Renesas Electronics Corporation",
+"alts": [
+"6723.T"
+]
+},
+{
+"t": "6724",
+"n": "SEIKO EPSON CORP.",
+"s": "",
+"y": "6724.T",
+"sh": 316724766.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Seiko Epson Corporation",
+"alts": [
+"6724.T"
+]
+},
+{
+"t": "6752",
+"n": "PANASONIC HOLDINGS CORP.",
+"s": "",
+"y": "6752.T",
+"sh": 2335101114.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Panasonic Holdings Corporation",
+"alts": [
+"6752.T"
+]
+},
+{
+"t": "6753",
+"n": "SHARP CORP.",
+"s": "",
+"y": "6753.T",
+"sh": 649306200.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Sharp Corporation",
+"alts": [
+"6753.T"
+]
+},
+{
+"t": "6758",
+"n": "SONY GROUP CORP.",
+"s": "",
+"y": "6758.T",
+"sh": 5828253872.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Sony Group Corporation",
+"alts": [
+"6758.T"
+]
+},
+{
+"t": "6762",
+"n": "TDK CORP.",
+"s": "",
+"y": "6762.T",
+"sh": 1898333484.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "TDK Corporation",
+"alts": [
+"6762.T"
+]
+},
+{
+"t": "6770",
+"n": "ALPS ALPINE CO., LTD.",
+"s": "",
+"y": "6770.T",
+"sh": 189288554.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Alps Alpine Co., Ltd.",
+"alts": [
+"6770.T"
+]
+},
+{
+"t": "6841",
+"n": "YOKOGAWA ELECTRIC CORP.",
+"s": "",
+"y": "6841.T",
+"sh": 248713267.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Yokogawa Electric Corporation",
+"alts": [
+"6841.T"
+]
+},
+{
+"t": "6857",
+"n": "ADVANTEST CORP.",
+"s": "",
+"y": "6857.T",
+"sh": 722103842.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Advantest Corporation",
+"alts": [
+"6857.T"
+]
+},
+{
+"t": "6861",
+"n": "KEYENCE CORP.",
+"s": "",
+"y": "6861.T",
+"sh": 1212624920.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Keyence Corporation",
+"alts": [
+"6861.T"
+]
+},
+{
+"t": "6902",
+"n": "DENSO CORP.",
+"s": "",
+"y": "6902.T",
+"sh": 2509948732.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "DENSO Corporation",
+"alts": [
+"6902.T"
+]
+},
+{
+"t": "6920",
+"n": "LASERTEC CORP.",
+"s": "",
+"y": "6920.T",
+"sh": 89706615.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Lasertec Corporation",
+"alts": [
+"6920.T"
+]
+},
+{
+"t": "6954",
+"n": "FANUC CORP.",
+"s": "",
+"y": "6954.T",
+"sh": 924913368.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Fanuc Corporation",
+"alts": [
+"6954.T"
+]
+},
+{
+"t": "6963",
+"n": "ROHM CO., LTD.",
+"s": "",
+"y": "6963.T",
+"sh": 386067271.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "ROHM Co., Ltd.",
+"alts": [
+"6963.T"
+]
+},
+{
+"t": "6971",
+"n": "KYOCERA CORP.",
+"s": "",
+"y": "6971.T",
+"sh": 1266651861.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Kyocera Corporation",
+"alts": [
+"6971.T"
+]
+},
+{
+"t": "6976",
+"n": "TAIYO YUDEN CO., LTD.",
+"s": "",
+"y": "6976.T",
+"sh": 133131054.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Taiyo Yuden Co., Ltd.",
+"alts": [
+"6976.T"
+]
+},
+{
+"t": "6981",
+"n": "MURATA MANUFACTURING CO., LTD.",
+"s": "",
+"y": "6981.T",
+"sh": 1806662898.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Murata Manufacturing Co., Ltd.",
+"alts": [
+"6981.T"
+]
+},
+{
+"t": "7735",
+"n": "SCREEN HOLDINGS CO., LTD.",
+"s": "",
+"y": "7735.T",
+"sh": 189294149.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "SCREEN Holdings Co., Ltd.",
+"alts": [
+"7735.T"
+]
+},
+{
+"t": "7751",
+"n": "CANON INC.",
+"s": "",
+"y": "7751.T",
+"sh": 833323480.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Canon Inc.",
+"alts": [
+"7751.T"
+]
+},
+{
+"t": "7752",
+"n": "RICOH CO., LTD.",
+"s": "",
+"y": "7752.T",
+"sh": 557858763.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Ricoh Company, Ltd.",
+"alts": [
+"7752.T"
+]
+},
+{
+"t": "8035",
+"n": "TOKYO ELECTRON LTD.",
+"s": "",
+"y": "8035.T",
+"sh": 2263569790.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Tokyo Electron Limited",
+"alts": [
+"8035.T"
+]
+},
+{
+"t": "7201",
+"n": "NISSAN MOTOR CO., LTD.",
+"s": "",
+"y": "7201.T",
+"sh": 3500082533.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Nissan Motor Co., Ltd.",
+"alts": [
+"7201.T"
+]
+},
+{
+"t": "7202",
+"n": "ISUZU MOTORS LTD.",
+"s": "",
+"y": "7202.T",
+"sh": 687255927.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Isuzu Motors Limited",
+"alts": [
+"7202.T"
+]
+},
+{
+"t": "7203",
+"n": "TOYOTA MOTOR CORP.",
+"s": "",
+"y": "7203.T",
+"sh": 11736048369.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Toyota Motor Corporation",
+"alts": [
+"7203.T"
+]
+},
+{
+"t": "7211",
+"n": "MITSUBISHI MOTORS CORP.",
+"s": "",
+"y": "7211.T",
+"sh": 1338835622.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Mitsubishi Motors Corporation",
+"alts": [
+"7211.T"
+]
+},
+{
+"t": "7261",
+"n": "MAZDA MOTOR CORP.",
+"s": "",
+"y": "7261.T",
+"sh": 631076638.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Mazda Motor Corporation",
+"alts": [
+"7261.T"
+]
+},
+{
+"t": "7267",
+"n": "HONDA MOTOR CO., LTD.",
+"s": "",
+"y": "7267.T",
+"sh": 3893017005.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Honda Motor Co., Ltd.",
+"alts": [
+"7267.T"
+]
+},
+{
+"t": "7269",
+"n": "SUZUKI MOTOR CORP.",
+"s": "",
+"y": "7269.T",
+"sh": 1929383245.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Suzuki Motor Corporation",
+"alts": [
+"7269.T"
+]
+},
+{
+"t": "7270",
+"n": "SUBARU CORP.",
+"s": "",
+"y": "7270.T",
+"sh": 689393337.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Subaru Corporation",
+"alts": [
+"7270.T"
+]
+},
+{
+"t": "7272",
+"n": "YAMAHA MOTOR CO., LTD.",
+"s": "",
+"y": "7272.T",
+"sh": 970618531.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Yamaha Motor Co., Ltd.",
+"alts": [
+"7272.T"
+]
+},
+{
+"t": "4543",
+"n": "TERUMO CORP.",
+"s": "",
+"y": "4543.T",
+"sh": 1475233233.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Terumo Corporation",
+"alts": [
+"4543.T"
+]
+},
+{
+"t": "6146",
+"n": "DISCO CORP.",
+"s": "",
+"y": "6146.T",
+"sh": 108507425.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Disco Corporation",
+"alts": [
+"6146.T"
+]
+},
+{
+"t": "7731",
+"n": "NIKON CORP.",
+"s": "",
+"y": "7731.T",
+"sh": 329472986.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Nikon Corporation",
+"alts": [
+"7731.T"
+]
+},
+{
+"t": "7733",
+"n": "OLYMPUS CORP.",
+"s": "",
+"y": "7733.T",
+"sh": 1062852409.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Olympus Corporation",
+"alts": [
+"7733.T"
+]
+},
+{
+"t": "7741",
+"n": "HOYA CORP.",
+"s": "",
+"y": "7741.T",
+"sh": 331632026.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "HOYA Corporation",
+"alts": [
+"7741.T"
+]
+},
+{
+"t": "2432",
+"n": "DENA CO., LTD.",
+"s": "",
+"y": "2432.T",
+"sh": 92512841.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "DeNA Co., Ltd.",
+"alts": [
+"2432.T"
+]
+},
+{
+"t": "3659",
+"n": "NEXON CO., LTD.",
+"s": "",
+"y": "3659.T",
+"sh": 779463799.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "NEXON Co., Ltd.",
+"alts": [
+"3659.T"
+]
+},
+{
+"t": "3697",
+"n": "SHIFT INC.",
+"s": "",
+"y": "3697.T",
+"sh": 255605108.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "SHIFT Inc.",
+"alts": [
+"3697.T"
+]
+},
+{
+"t": "4307",
+"n": "NOMURA RESEARCH INSTITUTE, LTD.",
+"s": "",
+"y": "4307.T",
+"sh": 555385789.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Nomura Research Institute, Ltd.",
+"alts": [
+"4307.T"
+]
+},
+{
+"t": "4385",
+"n": "MERCARI, INC.",
+"s": "",
+"y": "4385.T",
+"sh": 163259266.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Mercari, Inc.",
+"alts": [
+"4385.T"
+]
+},
+{
+"t": "4689",
+"n": "LY CORP.",
+"s": "",
+"y": "4689.T",
+"sh": 6864129568.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "LY Corporation",
+"alts": [
+"4689.T"
+]
+},
+{
+"t": "4704",
+"n": "TREND MICRO INC.",
+"s": "",
+"y": "4704.T",
+"sh": 129792336.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Trend Micro Incorporated",
+"alts": [
+"4704.T"
+]
+},
+{
+"t": "7974",
+"n": "NINTENDO CO., LTD.",
+"s": "",
+"y": "7974.T",
+"sh": 1152918950.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Nintendo Co., Ltd.",
+"alts": [
+"7974.T"
+]
+},
+{
+"t": "9432",
+"n": "NTT, INC.",
+"s": "",
+"y": "9432.T",
+"sh": 80733493398.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "NTT, Inc.",
+"alts": [
+"9432.T"
+]
+},
+{
+"t": "9433",
+"n": "KDDI CORP.",
+"s": "",
+"y": "9433.T",
+"sh": 3685662322.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "KDDI Corporation",
+"alts": [
+"9433.T"
+]
+},
+{
+"t": "9434",
+"n": "SOFTBANK CORP.",
+"s": "",
+"y": "9434.T",
+"sh": 47918017644.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "SoftBank Corp.",
+"alts": [
+"9434.T"
+]
+},
+{
+"t": "9602",
+"n": "TOHO CO., LTD",
+"s": "",
+"y": "9602.T",
+"sh": 831924848.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Toho Co., Ltd.",
+"alts": [
+"9602.T"
+]
+},
+{
+"t": "9697",
+"n": "CAPCOM CO., LTD.",
+"s": "",
+"y": "9697.T",
+"sh": 418341604.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Capcom Co., Ltd.",
+"alts": [
+"9697.T"
+]
+},
+{
+"t": "9766",
+"n": "KONAMI GROUP CORP.",
+"s": "",
+"y": "9766.T",
+"sh": 135556333.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Konami Group Corporation",
+"alts": [
+"9766.T"
+]
+},
+{
+"t": "9984",
+"n": "SOFTBANK GROUP CORP.",
+"s": "",
+"y": "9984.T",
+"sh": 5699306663.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "SoftBank Group Corp.",
+"alts": [
+"9984.T"
+]
+},
+{
+"t": "5831",
+"n": "SHIZUOKA FINANCIAL GROUP, INC.",
+"s": "",
+"y": "5831.T",
+"sh": 526828323.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Shizuoka Financial Group,Inc.",
+"alts": [
+"5831.T"
+]
+},
+{
+"t": "7186",
+"n": "YOKOHAMA FINANCIAL GROUP, INC.",
+"s": "",
+"y": "7186.T",
+"sh": 1101159832.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Yokohama Financial Group, Inc.",
+"alts": [
+"7186.T"
+]
+},
+{
+"t": "8304",
+"n": "AOZORA BANK, LTD.",
+"s": "",
+"y": "8304.T",
+"sh": 138455906.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Aozora Bank, Ltd.",
+"alts": [
+"8304.T"
+]
+},
+{
+"t": "8306",
+"n": "MITSUBISHI UFJ FINANCIAL GROUP, INC.",
+"s": "",
+"y": "8306.T",
+"sh": 11258544591.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Mitsubishi UFJ Financial Group, Inc.",
+"alts": [
+"8306.T"
+]
+},
+{
+"t": "8308",
+"n": "RESONA HOLDINGS, INC.",
+"s": "",
+"y": "8308.T",
+"sh": 2226378092.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Resona Holdings, Inc.",
+"alts": [
+"8308.T"
+]
+},
+{
+"t": "8309",
+"n": "SUMITOMO MITSUI TRUST GROUP, INC.",
+"s": "",
+"y": "8309.T",
+"sh": 2753946829.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Sumitomo Mitsui Trust Group, Inc.",
+"alts": [
+"8309.T"
+]
+},
+{
+"t": "8316",
+"n": "SUMITOMO MITSUI FINANCIAL GROUP, INC.",
+"s": "",
+"y": "8316.T",
+"sh": 7582003610.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Sumitomo Mitsui Financial Group, Inc.",
+"alts": [
+"8316.T"
+]
+},
+{
+"t": "8331",
+"n": "THE CHIBA BANK, LTD.",
+"s": "",
+"y": "8331.T",
+"sh": 685807629.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "The Chiba Bank, Ltd.",
+"alts": [
+"8331.T"
+]
+},
+{
+"t": "8354",
+"n": "FUKUOKA FINANCIAL GROUP, INC.",
+"s": "",
+"y": "8354.T",
+"sh": 188981148.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Fukuoka Financial Group, Inc.",
+"alts": [
+"8354.T"
+]
+},
+{
+"t": "8411",
+"n": "MIZUHO FINANCIAL GROUP, INC.",
+"s": "",
+"y": "8411.T",
+"sh": 2414586288.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Mizuho Financial Group, Inc.",
+"alts": [
+"8411.T"
+]
+},
+{
+"t": "8253",
+"n": "CREDIT SAISON CO., LTD.",
+"s": "",
+"y": "8253.T",
+"sh": 145041495.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Credit Saison Co., Ltd.",
+"alts": [
+"8253.T"
+]
+},
+{
+"t": "8591",
+"n": "ORIX CORP.",
+"s": "",
+"y": "8591.T",
+"sh": 1073250552.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "ORIX Corporation",
+"alts": [
+"8591.T"
+]
+},
+{
+"t": "8697",
+"n": "JAPAN EXCHANGE GROUP, INC.",
+"s": "",
+"y": "8697.T",
+"sh": 1009212133.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Japan Exchange Group, Inc.",
+"alts": [
+"8697.T"
+]
+},
+{
+"t": "8601",
+"n": "DAIWA SECURITIES GROUP INC.",
+"s": "",
+"y": "8601.T",
+"sh": 1388568756.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Daiwa Securities Group Inc.",
+"alts": [
+"8601.T"
+]
+},
+{
+"t": "8604",
+"n": "NOMURA HOLDINGS, INC.",
+"s": "",
+"y": "8604.T",
+"sh": 2922591081.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Nomura Holdings, Inc.",
+"alts": [
+"8604.T"
+]
+},
+{
+"t": "8630",
+"n": "SOMPO HOLDINGS, INC.",
+"s": "",
+"y": "8630.T",
+"sh": 881470267.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Sompo Holdings, Inc.",
+"alts": [
+"8630.T"
+]
+},
+{
+"t": "8725",
+"n": "MS&AD INSURANCE GROUP HOLDINGS, INC.",
+"s": "",
+"y": "8725.T",
+"sh": 1420988924.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "MS&AD Insurance Group Holdings, Inc.",
+"alts": [
+"8725.T"
+]
+},
+{
+"t": "8750",
+"n": "DAIICHI LIFE GROUP, INC.",
+"s": "",
+"y": "8750.T",
+"sh": 3603591680.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Daiichi Life Group, Inc.",
+"alts": [
+"8750.T"
+]
+},
+{
+"t": "8766",
+"n": "TOKIO MARINE HOLDINGS, INC.",
+"s": "",
+"y": "8766.T",
+"sh": 28037615770.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Tokio Marine Holdings, Inc.",
+"alts": [
+"8766.T"
+]
+},
+{
+"t": "8795",
+"n": "T&D HOLDINGS, INC.",
+"s": "",
+"y": "8795.T",
+"sh": 476459877.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "T&D Holdings, Inc.",
+"alts": [
+"8795.T"
+]
+},
+{
+"t": "1332",
+"n": "NISSUI CORP.",
+"s": "",
+"y": "1332.T",
+"sh": 303381193.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Nissui Corporation",
+"alts": [
+"1332.T"
+]
+},
+{
+"t": "2002",
+"n": "NISSHIN SEIFUN GROUP INC.",
+"s": "",
+"y": "2002.T",
+"sh": 279615680.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Nisshin Seifun Group Inc.",
+"alts": [
+"2002.T"
+]
+},
+{
+"t": "2269",
+"n": "MEIJI HOLDINGS CO., LTD.",
+"s": "",
+"y": "2269.T",
+"sh": 271177917.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Meiji Holdings Co., Ltd.",
+"alts": [
+"2269.T"
+]
+},
+{
+"t": "2282",
+"n": "NH FOODS LTD.",
+"s": "",
+"y": "2282.T",
+"sh": 269307950.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "NH Foods Ltd.",
+"alts": [
+"2282.T"
+]
+},
+{
+"t": "2501",
+"n": "SAPPORO BREWERIES LTD.",
+"s": "",
+"y": "2501.T",
+"sh": 389874210.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Sapporo Breweries Limited",
+"alts": [
+"2501.T"
+]
+},
+{
+"t": "2502",
+"n": "ASAHI GROUP HOLDINGS, LTD.",
+"s": "",
+"y": "2502.T",
+"sh": 1462662258.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Asahi Group Holdings, Ltd.",
+"alts": [
+"2502.T"
+]
+},
+{
+"t": "2503",
+"n": "KIRIN HOLDINGS CO., LTD.",
+"s": "",
+"y": "2503.T",
+"sh": 788295812.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Kirin Holdings Company, Limited",
+"alts": [
+"2503.T"
+]
+},
+{
+"t": "2801",
+"n": "KIKKOMAN CORP.",
+"s": "",
+"y": "2801.T",
+"sh": 926845410.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Kikkoman Corporation",
+"alts": [
+"2801.T"
+]
+},
+{
+"t": "2802",
+"n": "AJINOMOTO CO., INC.",
+"s": "",
+"y": "2802.T",
+"sh": 950326321.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Ajinomoto Co., Inc.",
+"alts": [
+"2802.T"
+]
+},
+{
+"t": "2871",
+"n": "NICHIREI CORP.",
+"s": "",
+"y": "2871.T",
+"sh": 250668118.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Nichirei Corporation",
+"alts": [
+"2871.T"
+]
+},
+{
+"t": "2914",
+"n": "JAPAN TOBACCO INC.",
+"s": "",
+"y": "2914.T",
+"sh": 1775429749.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Japan Tobacco Inc.",
+"alts": [
+"2914.T"
+]
+},
+{
+"t": "4151",
+"n": "KYOWA KIRIN CO., LTD.",
+"s": "",
+"y": "4151.T",
+"sh": 523586484.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Kyowa Kirin Co., Ltd.",
+"alts": [
+"4151.T"
+]
+},
+{
+"t": "4502",
+"n": "TAKEDA PHARMACEUTICAL CO., LTD.",
+"s": "",
+"y": "4502.T",
+"sh": 1597448897.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Takeda Pharmaceutical Company Limited",
+"alts": [
+"4502.T"
+]
+},
+{
+"t": "4503",
+"n": "ASTELLAS PHARMA INC.",
+"s": "",
+"y": "4503.T",
+"sh": 1793122825.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Astellas Pharma Inc.",
+"alts": [
+"4503.T"
+]
+},
+{
+"t": "4506",
+"n": "SUMITOMO PHARMA CO., LTD.",
+"s": "",
+"y": "4506.T",
+"sh": 448593085.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Sumitomo Pharma Co., Ltd.",
+"alts": [
+"4506.T"
+]
+},
+{
+"t": "4507",
+"n": "SHIONOGI & CO., LTD.",
+"s": "",
+"y": "4507.T",
+"sh": 851173538.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Shionogi & Co., Ltd.",
+"alts": [
+"4507.T"
+]
+},
+{
+"t": "4519",
+"n": "CHUGAI PHARMACEUTICAL CO., LTD.",
+"s": "",
+"y": "4519.T",
+"sh": 1645577167.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Chugai Pharmaceutical Co., Ltd.",
+"alts": [
+"4519.T"
+]
+},
+{
+"t": "4523",
+"n": "EISAI CO., LTD.",
+"s": "",
+"y": "4523.T",
+"sh": 281890297.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Eisai Co., Ltd.",
+"alts": [
+"4523.T"
+]
+},
+{
+"t": "4568",
+"n": "DAIICHI SANKYO CO., LTD.",
+"s": "",
+"y": "4568.T",
+"sh": 1822065870.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Daiichi Sankyo Company, Limited",
+"alts": [
+"4568.T"
+]
+},
+{
+"t": "4578",
+"n": "OTSUKA HOLDINGS CO., LTD.",
+"s": "",
+"y": "4578.T",
+"sh": 523653673.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Otsuka Holdings Co., Ltd.",
+"alts": [
+"4578.T"
+]
+},
+{
+"t": "3086",
+"n": "J.FRONT RETAILING CO., LTD.",
+"s": "",
+"y": "3086.T",
+"sh": 244329482.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "J. Front Retailing Co., Ltd.",
+"alts": [
+"3086.T"
+]
+},
+{
+"t": "3092",
+"n": "ZOZO, INC.",
+"s": "",
+"y": "3092.T",
+"sh": 865486926.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "ZOZO, Inc.",
+"alts": [
+"3092.T"
+]
+},
+{
+"t": "3099",
+"n": "ISETAN MITSUKOSHI HOLDINGS LTD.",
+"s": "",
+"y": "3099.T",
+"sh": 690480338.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Isetan Mitsukoshi Holdings Ltd.",
+"alts": [
+"3099.T"
+]
+},
+{
+"t": "3382",
+"n": "SEVEN & I HOLDINGS CO., LTD.",
+"s": "",
+"y": "3382.T",
+"sh": 2267083741.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Seven & i Holdings Co., Ltd.",
+"alts": [
+"3382.T"
+]
+},
+{
+"t": "7453",
+"n": "RYOHIN KEIKAKU CO., LTD.",
+"s": "",
+"y": "7453.T",
+"sh": 530828292.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Ryohin Keikaku Co., Ltd.",
+"alts": [
+"7453.T"
+]
+},
+{
+"t": "7532",
+"n": "PAN PACIFIC INTERNATIONAL HOLDINGS CORP.",
+"s": "",
+"y": "7532.T",
+"sh": 2990842875.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Pan Pacific International Holdings Corporation",
+"alts": [
+"7532.T"
+]
+},
+{
+"t": "8233",
+"n": "TAKASHIMAYA CO., LTD.",
+"s": "",
+"y": "8233.T",
+"sh": 293023733.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Takashimaya Company, Limited",
+"alts": [
+"8233.T"
+]
+},
+{
+"t": "8252",
+"n": "MARUI GROUP CO., LTD.",
+"s": "",
+"y": "8252.T",
+"sh": 174035007.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Marui Group Co., Ltd.",
+"alts": [
+"8252.T"
+]
+},
+{
+"t": "8267",
+"n": "AEON CO., LTD.",
+"s": "",
+"y": "8267.T",
+"sh": 2768104768.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Aeon Co., Ltd.",
+"alts": [
+"8267.T"
+]
+},
+{
+"t": "9843",
+"n": "NITORI HOLDINGS CO., LTD.",
+"s": "",
+"y": "9843.T",
+"sh": 565057680.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Nitori Holdings Co., Ltd.",
+"alts": [
+"9843.T"
+]
+},
+{
+"t": "9983",
+"n": "FAST RETAILING CO., LTD.",
+"s": "",
+"y": "9983.T",
+"sh": 306859565.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Fast Retailing Co., Ltd.",
+"alts": [
+"9983.T"
+]
+},
+{
+"t": "2413",
+"n": "M3, INC.",
+"s": "",
+"y": "2413.T",
+"sh": 664652561.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "M3, Inc.",
+"alts": [
+"2413.T"
+]
+},
+{
+"t": "4324",
+"n": "DENTSU GROUP INC.",
+"s": "",
+"y": "4324.T",
+"sh": 259585776.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Dentsu Group Inc.",
+"alts": [
+"4324.T"
+]
+},
+{
+"t": "4661",
+"n": "ORIENTAL LAND CO., LTD.",
+"s": "",
+"y": "4661.T",
+"sh": 1640116738.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Oriental Land Co., Ltd.",
+"alts": [
+"4661.T"
+]
+},
+{
+"t": "4751",
+"n": "CYBERAGENT, INC.",
+"s": "",
+"y": "4751.T",
+"sh": 507099063.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "CyberAgent, Inc.",
+"alts": [
+"4751.T"
+]
+},
+{
+"t": "4755",
+"n": "RAKUTEN GROUP, INC.",
+"s": "",
+"y": "4755.T",
+"sh": 2181985574.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Rakuten Group, Inc.",
+"alts": [
+"4755.T"
+]
+},
+{
+"t": "6098",
+"n": "RECRUIT HOLDINGS CO., LTD.",
+"s": "",
+"y": "6098.T",
+"sh": 1387147679.0,
+"shAt": "2026-11-25",
+"ys": "Communication Services",
+"yn": "Recruit Holdings Co., Ltd.",
+"alts": [
+"6098.T"
+]
+},
+{
+"t": "6178",
+"n": "JAPAN POST HOLDINGS CO., LTD.",
+"s": "",
+"y": "6178.T",
+"sh": 2734484200.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Japan Post Holdings Co., Ltd.",
+"alts": [
+"6178.T"
+]
+},
+{
+"t": "6532",
+"n": "BAYCURRENT, INC.",
+"s": "",
+"y": "6532.T",
+"sh": 146984035.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Baycurrent, Inc.",
+"alts": [
+"6532.T"
+]
+},
+{
+"t": "9735",
+"n": "SECOM CO., LTD.",
+"s": "",
+"y": "9735.T",
+"sh": 392581048.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "SECOM CO., LTD.",
+"alts": [
+"9735.T"
+]
+},
+{
+"t": "1605",
+"n": "INPEX CORP.",
+"s": "",
+"y": "1605.T",
+"sh": 1139315376.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Inpex Corporation",
+"alts": [
+"1605.T"
+]
+},
+{
+"t": "3401",
+"n": "TEIJIN LTD.",
+"s": "",
+"y": "3401.T",
+"sh": 193070015.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Teijin Limited",
+"alts": [
+"3401.T"
+]
+},
+{
+"t": "3402",
+"n": "TORAY INDUSTRIES, INC.",
+"s": "",
+"y": "3402.T",
+"sh": 1456901030.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Toray Industries, Inc.",
+"alts": [
+"3402.T"
+]
+},
+{
+"t": "3861",
+"n": "OJI HOLDINGS CORP.",
+"s": "",
+"y": "3861.T",
+"sh": 850020917.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Oji Holdings Corporation",
+"alts": [
+"3861.T"
+]
+},
+{
+"t": "3405",
+"n": "KURARAY CO., LTD.",
+"s": "",
+"y": "3405.T",
+"sh": 301296860.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Kuraray Co., Ltd.",
+"alts": [
+"3405.T"
+]
+},
+{
+"t": "3407",
+"n": "ASAHI KASEI CORP.",
+"s": "",
+"y": "3407.T",
+"sh": 1333805100.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Asahi Kasei Corporation",
+"alts": [
+"3407.T"
+]
+},
+{
+"t": "4004",
+"n": "RESONAC HOLDINGS CORP.",
+"s": "",
+"y": "4004.T",
+"sh": 189706990.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Resonac Holdings Corporation",
+"alts": [
+"4004.T"
+]
+},
+{
+"t": "4005",
+"n": "SUMITOMO CHEMICAL CO., LTD.",
+"s": "",
+"y": "4005.T",
+"sh": 1662472285.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Sumitomo Chemical Company, Limited",
+"alts": [
+"4005.T"
+]
+},
+{
+"t": "4021",
+"n": "NISSAN CHEMICAL CORP.",
+"s": "",
+"y": "4021.T",
+"sh": 133398233.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Nissan Chemical Corporation",
+"alts": [
+"4021.T"
+]
+},
+{
+"t": "4042",
+"n": "TOSOH CORP.",
+"s": "",
+"y": "4042.T",
+"sh": 307991699.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Tosoh Corporation",
+"alts": [
+"4042.T"
+]
+},
+{
+"t": "4043",
+"n": "TOKUYAMA CORP.",
+"s": "",
+"y": "4043.T",
+"sh": 71111491.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Tokuyama Corporation",
+"alts": [
+"4043.T"
+]
+},
+{
+"t": "4061",
+"n": "DENKA CO., LTD.",
+"s": "",
+"y": "4061.T",
+"sh": 86166187.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Denka Company Limited",
+"alts": [
+"4061.T"
+]
+},
+{
+"t": "4063",
+"n": "SHIN-ETSU CHEMICAL CO., LTD.",
+"s": "",
+"y": "4063.T",
+"sh": 1815752718.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Shin-Etsu Chemical Co., Ltd.",
+"alts": [
+"4063.T"
+]
+},
+{
+"t": "4183",
+"n": "MITSUI CHEMICALS, INC.",
+"s": "",
+"y": "4183.T",
+"sh": 361527203.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Mitsui Chemicals, Inc.",
+"alts": [
+"4183.T"
+]
+},
+{
+"t": "4188",
+"n": "MITSUBISHI CHEMICAL GROUP CORP.",
+"s": "",
+"y": "4188.T",
+"sh": 1358753557.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Mitsubishi Chemical Group Corporation",
+"alts": [
+"4188.T"
+]
+},
+{
+"t": "4208",
+"n": "UBE CORP.",
+"s": "",
+"y": "4208.T",
+"sh": 97176707.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "UBE Corporation",
+"alts": [
+"4208.T"
+]
+},
+{
+"t": "4452",
+"n": "KAO CORP.",
+"s": "",
+"y": "4452.T",
+"sh": 904757994.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Kao Corporation",
+"alts": [
+"4452.T"
+]
+},
+{
+"t": "4901",
+"n": "FUJIFILM HOLDINGS CORP.",
+"s": "",
+"y": "4901.T",
+"sh": 1196083840.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "FUJIFILM Holdings Corporation",
+"alts": [
+"4901.T"
+]
+},
+{
+"t": "4911",
+"n": "SHISEIDO CO., LTD.",
+"s": "",
+"y": "4911.T",
+"sh": 399624362.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Shiseido Company, Limited",
+"alts": [
+"4911.T"
+]
+},
+{
+"t": "6988",
+"n": "NITTO DENKO CORP.",
+"s": "",
+"y": "6988.T",
+"sh": 658187650.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Nitto Denko Corporation",
+"alts": [
+"6988.T"
+]
+},
+{
+"t": "5019",
+"n": "IDEMITSU KOSAN CO., LTD.",
+"s": "",
+"y": "5019.T",
+"sh": 1197492845.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "Idemitsu Kosan Co.,Ltd.",
+"alts": [
+"5019.T"
+]
+},
+{
+"t": "5020",
+"n": "ENEOS HOLDINGS, INC.",
+"s": "",
+"y": "5020.T",
+"sh": 2611212490.0,
+"shAt": "2026-11-25",
+"ys": "Energy",
+"yn": "ENEOS Holdings, Inc.",
+"alts": [
+"5020.T"
+]
+},
+{
+"t": "5101",
+"n": "THE YOKOHAMA RUBBER CO., LTD.",
+"s": "",
+"y": "5101.T",
+"sh": 157747381.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "The Yokohama Rubber Company, Limited",
+"alts": [
+"5101.T"
+]
+},
+{
+"t": "5108",
+"n": "BRIDGESTONE CORP.",
+"s": "",
+"y": "5108.T",
+"sh": 1234125931.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Bridgestone Corporation",
+"alts": [
+"5108.T"
+]
+},
+{
+"t": "5201",
+"n": "AGC INC.",
+"s": "",
+"y": "5201.T",
+"sh": 212393793.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "AGC Inc.",
+"alts": [
+"5201.T"
+]
+},
+{
+"t": "5214",
+"n": "NIPPON ELECTRIC GLASS CO., LTD.",
+"s": "",
+"y": "5214.T",
+"sh": 71785534.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Nippon Electric Glass Co., Ltd.",
+"alts": [
+"5214.T"
+]
+},
+{
+"t": "5233",
+"n": "TAIHEIYO CEMENT CORP.",
+"s": "",
+"y": "5233.T",
+"sh": 109231384.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Taiheiyo Cement Corporation",
+"alts": [
+"5233.T"
+]
+},
+{
+"t": "5301",
+"n": "TOKAI CARBON CO., LTD.",
+"s": "",
+"y": "5301.T",
+"sh": 202335774.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Tokai Carbon Co., Ltd.",
+"alts": [
+"5301.T"
+]
+},
+{
+"t": "5332",
+"n": "TOTO LTD.",
+"s": "",
+"y": "5332.T",
+"sh": 164454597.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "TOTO LTD.",
+"alts": [
+"5332.T"
+]
+},
+{
+"t": "5333",
+"n": "NGK CORP.",
+"s": "",
+"y": "5333.T",
+"sh": 281578396.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "NGK Corporation",
+"alts": [
+"5333.T"
+]
+},
+{
+"t": "5401",
+"n": "NIPPON STEEL CORP.",
+"s": "",
+"y": "5401.T",
+"sh": 5226271532.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Nippon Steel Corporation",
+"alts": [
+"5401.T"
+]
+},
+{
+"t": "5406",
+"n": "KOBE STEEL, LTD.",
+"s": "",
+"y": "5406.T",
+"sh": 398094776.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Kobe Steel, Ltd.",
+"alts": [
+"5406.T"
+]
+},
+{
+"t": "5411",
+"n": "JFE HOLDINGS, INC.",
+"s": "",
+"y": "5411.T",
+"sh": 636123971.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "JFE Holdings, Inc.",
+"alts": [
+"5411.T"
+]
+},
+{
+"t": "3436",
+"n": "SUMCO CORP.",
+"s": "",
+"y": "3436.T",
+"sh": 349732314.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Sumco Corporation",
+"alts": [
+"3436.T"
+]
+},
+{
+"t": "5016",
+"n": "JX ADVANCED METALS CORP.",
+"s": "",
+"y": "5016.T",
+"sh": 894041210.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "JX Advanced Metals Corporation",
+"alts": [
+"5016.T"
+]
+},
+{
+"t": "5706",
+"n": "MITSUI KINZOKU CO., LTD.",
+"s": "",
+"y": "5706.T",
+"sh": 572138580.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsui Kinzoku Company, Limited",
+"alts": [
+"5706.T"
+]
+},
+{
+"t": "5711",
+"n": "MITSUBISHI MATERIALS CORP.",
+"s": "",
+"y": "5711.T",
+"sh": 130658272.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Mitsubishi Materials Corporation",
+"alts": [
+"5711.T"
+]
+},
+{
+"t": "5713",
+"n": "SUMITOMO METAL MINING CO., LTD.",
+"s": "",
+"y": "5713.T",
+"sh": 268487246.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Sumitomo Metal Mining Co., Ltd.",
+"alts": [
+"5713.T"
+]
+},
+{
+"t": "5714",
+"n": "DOWA HOLDINGS CO., LTD.",
+"s": "",
+"y": "5714.T",
+"sh": 59160006.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Dowa Holdings Co., Ltd.",
+"alts": [
+"5714.T"
+]
+},
+{
+"t": "5801",
+"n": "FURUKAWA ELECTRIC CO., LTD.",
+"s": "",
+"y": "5801.T",
+"sh": 703687853.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Furukawa Electric Co., Ltd.",
+"alts": [
+"5801.T"
+]
+},
+{
+"t": "5802",
+"n": "SUMITOMO ELECTRIC IND., LTD.",
+"s": "",
+"y": "5802.T",
+"sh": 3120276984.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Sumitomo Electric Industries, Ltd.",
+"alts": [
+"5802.T"
+]
+},
+{
+"t": "5803",
+"n": "FUJIKURA LTD.",
+"s": "",
+"y": "5803.T",
+"sh": 1656198459.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Fujikura Ltd.",
+"alts": [
+"5803.T"
+]
+},
+{
+"t": "2768",
+"n": "SOJITZ CORP.",
+"s": "",
+"y": "2768.T",
+"sh": 208032590.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Sojitz Corporation",
+"alts": [
+"2768.T"
+]
+},
+{
+"t": "8001",
+"n": "ITOCHU CORP.",
+"s": "",
+"y": "8001.T",
+"sh": 6878759292.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "ITOCHU Corporation",
+"alts": [
+"8001.T"
+]
+},
+{
+"t": "8002",
+"n": "MARUBENI CORP.",
+"s": "",
+"y": "8002.T",
+"sh": 1620839325.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Marubeni Corporation",
+"alts": [
+"8002.T"
+]
+},
+{
+"t": "8015",
+"n": "TOYOTA TSUSHO CORP.",
+"s": "",
+"y": "8015.T",
+"sh": 937765365.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Toyota Tsusho Corporation",
+"alts": [
+"8015.T"
+]
+},
+{
+"t": "8031",
+"n": "MITSUI & CO., LTD.",
+"s": "",
+"y": "8031.T",
+"sh": 2818523272.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsui & Co., Ltd.",
+"alts": [
+"8031.T"
+]
+},
+{
+"t": "8053",
+"n": "SUMITOMO CORP.",
+"s": "",
+"y": "8053.T",
+"sh": 4725549076.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Sumitomo Corporation",
+"alts": [
+"8053.T"
+]
+},
+{
+"t": "8058",
+"n": "MITSUBISHI CORP.",
+"s": "",
+"y": "8058.T",
+"sh": 3663358124.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsubishi Corporation",
+"alts": [
+"8058.T"
+]
+},
+{
+"t": "1721",
+"n": "COMSYS HOLDINGS CORP.",
+"s": "",
+"y": "1721.T",
+"sh": 114136155.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "COMSYS Holdings Corporation",
+"alts": [
+"1721.T"
+]
+},
+{
+"t": "1801",
+"n": "TAISEI CORP.",
+"s": "",
+"y": "1801.T",
+"sh": 162986028.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Taisei Corporation",
+"alts": [
+"1801.T"
+]
+},
+{
+"t": "1802",
+"n": "OBAYASHI CORP.",
+"s": "",
+"y": "1802.T",
+"sh": 685489914.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Obayashi Corporation",
+"alts": [
+"1802.T"
+]
+},
+{
+"t": "1803",
+"n": "SHIMIZU CORP.",
+"s": "",
+"y": "1803.T",
+"sh": 672664281.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Shimizu Corporation",
+"alts": [
+"1803.T"
+]
+},
+{
+"t": "1808",
+"n": "HASEKO CORP.",
+"s": "",
+"y": "1808.T",
+"sh": 264888597.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "HASEKO Corporation",
+"alts": [
+"1808.T"
+]
+},
+{
+"t": "1812",
+"n": "KAJIMA CORP.",
+"s": "",
+"y": "1812.T",
+"sh": 460757574.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Kajima Corporation",
+"alts": [
+"1812.T"
+]
+},
+{
+"t": "1925",
+"n": "DAIWA HOUSE IND. CO., LTD.",
+"s": "",
+"y": "1925.T",
+"sh": 1239079528.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Daiwa House Industry Co., Ltd.",
+"alts": [
+"1925.T"
+]
+},
+{
+"t": "1928",
+"n": "SEKISUI HOUSE, LTD.",
+"s": "",
+"y": "1928.T",
+"sh": 648403407.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Sekisui House, Ltd.",
+"alts": [
+"1928.T"
+]
+},
+{
+"t": "1963",
+"n": "JGC HOLDINGS CORP.",
+"s": "",
+"y": "1963.T",
+"sh": 242075649.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "JGC Holdings Corporation",
+"alts": [
+"1963.T"
+]
+},
+{
+"t": "5631",
+"n": "THE JAPAN STEEL WORKS, LTD.",
+"s": "",
+"y": "5631.T",
+"sh": 73623049.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "The Japan Steel Works, Ltd.",
+"alts": [
+"5631.T"
+]
+},
+{
+"t": "6103",
+"n": "OKUMA CORP.",
+"s": "",
+"y": "6103.T",
+"sh": 58172308.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Okuma Corporation",
+"alts": [
+"6103.T"
+]
+},
+{
+"t": "6113",
+"n": "AMADA CO., LTD.",
+"s": "",
+"y": "6113.T",
+"sh": 300529104.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Amada Co., Ltd.",
+"alts": [
+"6113.T"
+]
+},
+{
+"t": "6273",
+"n": "SMC CORP.",
+"s": "",
+"y": "6273.T",
+"sh": 62335133.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "SMC Corporation",
+"alts": [
+"6273.T"
+]
+},
+{
+"t": "6301",
+"n": "KOMATSU LTD.",
+"s": "",
+"y": "6301.T",
+"sh": 885861294.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Komatsu Ltd.",
+"alts": [
+"6301.T"
+]
+},
+{
+"t": "6302",
+"n": "SUMITOMO HEAVY IND., LTD.",
+"s": "",
+"y": "6302.T",
+"sh": 118494313.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Sumitomo Heavy Industries, Ltd.",
+"alts": [
+"6302.T"
+]
+},
+{
+"t": "6305",
+"n": "HITACHI CONST. MACH. CO., LTD.",
+"s": "",
+"y": "6305.T",
+"sh": 206760871.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Hitachi Construction Machinery Co., Ltd.",
+"alts": [
+"6305.T"
+]
+},
+{
+"t": "6326",
+"n": "KUBOTA CORP.",
+"s": "",
+"y": "6326.T",
+"sh": 1126392455.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Kubota Corporation",
+"alts": [
+"6326.T"
+]
+},
+{
+"t": "6361",
+"n": "EBARA CORP.",
+"s": "",
+"y": "6361.T",
+"sh": 455397470.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Ebara Corporation",
+"alts": [
+"6361.T"
+]
+},
+{
+"t": "6367",
+"n": "DAIKIN INDUSTRIES, LTD.",
+"s": "",
+"y": "6367.T",
+"sh": 278206687.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Daikin Industries,Ltd.",
+"alts": [
+"6367.T"
+]
+},
+{
+"t": "6471",
+"n": "NSK LTD.",
+"s": "",
+"y": "6471.T",
+"sh": 489320981.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "NSK Ltd.",
+"alts": [
+"6471.T"
+]
+},
+{
+"t": "6472",
+"n": "NTN CORP.",
+"s": "",
+"y": "6472.T",
+"sh": 594527563.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "NTN Corporation",
+"alts": [
+"6472.T"
+]
+},
+{
+"t": "6473",
+"n": "JTEKT CORP.",
+"s": "",
+"y": "6473.T",
+"sh": 318381433.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "JTEKT Corporation",
+"alts": [
+"6473.T"
+]
+},
+{
+"t": "7011",
+"n": "MITSUBISHI HEAVY IND., LTD.",
+"s": "",
+"y": "7011.T",
+"sh": 3361484230.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsubishi Heavy Industries, Ltd.",
+"alts": [
+"7011.T"
+]
+},
+{
+"t": "7013",
+"n": "IHI CORP.",
+"s": "",
+"y": "7013.T",
+"sh": 1060903834.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "IHI Corporation",
+"alts": [
+"7013.T"
+]
+},
+{
+"t": "7012",
+"n": "KAWASAKI HEAVY IND., LTD.",
+"s": "",
+"y": "7012.T",
+"sh": 873545230.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Kawasaki Heavy Industries, Ltd.",
+"alts": [
+"7012.T"
+]
+},
+{
+"t": "7832",
+"n": "BANDAI NAMCO HOLDINGS INC.",
+"s": "",
+"y": "7832.T",
+"sh": 641042700.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "BANDAI NAMCO Holdings Inc.",
+"alts": [
+"7832.T"
+]
+},
+{
+"t": "7911",
+"n": "TOPPAN HOLDINGS INC.",
+"s": "",
+"y": "7911.T",
+"sh": 558174300.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "TOPPAN Holdings Inc.",
+"alts": [
+"7911.T"
+]
+},
+{
+"t": "7912",
+"n": "DAI NIPPON PRINTING CO., LTD.",
+"s": "",
+"y": "7912.T",
+"sh": 423477734.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Dai Nippon Printing Co., Ltd.",
+"alts": [
+"7912.T"
+]
+},
+{
+"t": "7951",
+"n": "YAMAHA CORP.",
+"s": "",
+"y": "7951.T",
+"sh": 439896341.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Yamaha Corporation",
+"alts": [
+"7951.T"
+]
+},
+{
+"t": "3289",
+"n": "TOKYU FUDOSAN HOLDINGS CORP.",
+"s": "",
+"y": "3289.T",
+"sh": 714268569.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Tokyu Fudosan Holdings Corporation",
+"alts": [
+"3289.T"
+]
+},
+{
+"t": "8801",
+"n": "MITSUI FUDOSAN CO., LTD.",
+"s": "",
+"y": "8801.T",
+"sh": 2692320298.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Mitsui Fudosan Co., Ltd.",
+"alts": [
+"8801.T"
+]
+},
+{
+"t": "8802",
+"n": "MITSUBISHI ESTATE CO., LTD.",
+"s": "",
+"y": "8802.T",
+"sh": 1193851045.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Mitsubishi Estate Co., Ltd.",
+"alts": [
+"8802.T"
+]
+},
+{
+"t": "8804",
+"n": "TOKYO TATEMONO CO., LTD.",
+"s": "",
+"y": "8804.T",
+"sh": 207139048.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Tokyo Tatemono Co., Ltd.",
+"alts": [
+"8804.T"
+]
+},
+{
+"t": "8830",
+"n": "SUMITOMO REALTY & DEVELOPMENT CO., LTD.",
+"s": "",
+"y": "8830.T",
+"sh": 923682935.0,
+"shAt": "2026-11-25",
+"ys": "Real Estate",
+"yn": "Sumitomo Realty & Development Co., Ltd.",
+"alts": [
+"8830.T"
+]
+},
+{
+"t": "9001",
+"n": "TOBU RAILWAY CO., LTD.",
+"s": "",
+"y": "9001.T",
+"sh": 195545964.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Tobu Railway Co., Ltd.",
+"alts": [
+"9001.T"
+]
+},
+{
+"t": "9005",
+"n": "TOKYU CORP.",
+"s": "",
+"y": "9005.T",
+"sh": 558687806.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Tokyu Corporation",
+"alts": [
+"9005.T"
+]
+},
+{
+"t": "9007",
+"n": "ODAKYU ELECTRIC RAILWAY CO., LTD.",
+"s": "",
+"y": "9007.T",
+"sh": 338322625.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Odakyu Electric Railway Co., Ltd.",
+"alts": [
+"9007.T"
+]
+},
+{
+"t": "9008",
+"n": "KEIO CORP.",
+"s": "",
+"y": "9008.T",
+"sh": 578883130.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Keio Corporation",
+"alts": [
+"9008.T"
+]
+},
+{
+"t": "9009",
+"n": "KEISEI ELECTRIC RAILWAY CO., LTD.",
+"s": "",
+"y": "9009.T",
+"sh": 482239218.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Keisei Electric Railway Co., Ltd.",
+"alts": [
+"9009.T"
+]
+},
+{
+"t": "9020",
+"n": "EAST JAPAN RAILWAY CO.",
+"s": "",
+"y": "9020.T",
+"sh": 1128865149.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "East Japan Railway Company",
+"alts": [
+"9020.T"
+]
+},
+{
+"t": "9021",
+"n": "WEST JAPAN RAILWAY CO.",
+"s": "",
+"y": "9021.T",
+"sh": 455141322.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "West Japan Railway Company",
+"alts": [
+"9021.T"
+]
+},
+{
+"t": "9022",
+"n": "CENTRAL JAPAN RAILWAY CO., LTD.",
+"s": "",
+"y": "9022.T",
+"sh": 949380107.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Central Japan Railway Company",
+"alts": [
+"9022.T"
+]
+},
+{
+"t": "9064",
+"n": "YAMATO HOLDINGS CO., LTD.",
+"s": "",
+"y": "9064.T",
+"sh": 316714354.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Yamato Holdings Co., Ltd.",
+"alts": [
+"9064.T"
+]
+},
+{
+"t": "9147",
+"n": "NIPPON EXPRESS HOLDINGS, INC.",
+"s": "",
+"y": "9147.T",
+"sh": 233996999.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Nippon Express Holdings, Inc.",
+"alts": [
+"9147.T"
+]
+},
+{
+"t": "9101",
+"n": "NIPPON YUSEN K.K.",
+"s": "",
+"y": "9101.T",
+"sh": 403611730.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Nippon Yusen Kabushiki Kaisha",
+"alts": [
+"9101.T"
+]
+},
+{
+"t": "9104",
+"n": "MITSUI O.S.K.LINES, LTD.",
+"s": "",
+"y": "9104.T",
+"sh": 343877214.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Mitsui O.S.K. Lines, Ltd.",
+"alts": [
+"9104.T"
+]
+},
+{
+"t": "9107",
+"n": "KAWASAKI KISEN KAISHA, LTD.",
+"s": "",
+"y": "9107.T",
+"sh": 587818769.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Kawasaki Kisen Kaisha, Ltd.",
+"alts": [
+"9107.T"
+]
+},
+{
+"t": "9201",
+"n": "JAPAN AIRLINES CO., LTD.",
+"s": "",
+"y": "9201.T",
+"sh": 429952000.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Japan Airlines Co., Ltd.",
+"alts": [
+"9201.T"
+]
+},
+{
+"t": "9202",
+"n": "ANA HOLDINGS INC.",
+"s": "",
+"y": "9202.T",
+"sh": 421709190.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "ANA Holdings Inc.",
+"alts": [
+"9202.T"
+]
+},
+{
+"t": "9501",
+"n": "TOKYO ELECTRIC POWER COMPANY HOLDINGS, I",
+"s": "",
+"y": "9501.T",
+"sh": 1602687793.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Tokyo Electric Power Company Holdings, Incorporated",
+"alts": [
+"9501.T"
+]
+},
+{
+"t": "9502",
+"n": "CHUBU ELECTRIC POWER CO., INC.",
+"s": "",
+"y": "9502.T",
+"sh": 755686558.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Chubu Electric Power Company, Incorporated",
+"alts": [
+"9502.T"
+]
+},
+{
+"t": "9503",
+"n": "THE KANSAI ELECTRIC POWER CO., INC.",
+"s": "",
+"y": "9503.T",
+"sh": 1114208028.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "The Kansai Electric Power Company, Incorporated",
+"alts": [
+"9503.T"
+]
+},
+{
+"t": "9531",
+"n": "TOKYO GAS CO., LTD.",
+"s": "",
+"y": "9531.T",
+"sh": 325427889.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Tokyo Gas Co.,Ltd.",
+"alts": [
+"9531.T"
+]
+},
+{
+"t": "9532",
+"n": "OSAKA GAS CO., LTD.",
+"s": "",
+"y": "9532.T",
+"sh": 375067027.0,
+"shAt": "2026-11-25",
+"ys": "Utilities",
+"yn": "Osaka Gas Co., Ltd.",
+"alts": [
+"9532.T"
+]
+}
+]

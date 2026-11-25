@@ -1,0 +1,262 @@
+[
+{
+"t": "NOVN",
+"n": "Novartis International AG",
+"s": "Health care",
+"y": "NOVN.SW",
+"sh": 1888623572.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Novartis AG",
+"alts": [
+"NOVN.SW"
+]
+},
+{
+"t": "ROP",
+"n": "Roche Holding AG",
+"s": "Health care",
+"y": "ROP.SW",
+"sh": 796765913.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Roche Holding AG",
+"alts": [
+"ROP.SW"
+]
+},
+{
+"t": "NESN",
+"n": "Nestlé SA",
+"s": "Retail staples",
+"y": "NESN.SW",
+"sh": 2572220000.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Defensive",
+"yn": "Nestlé S.A.",
+"alts": [
+"NESN.SW"
+]
+},
+{
+"t": "ABBN",
+"n": "ABB Ltd",
+"s": "Industrials",
+"y": "ABBN.SW",
+"sh": 1804437894.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "ABB Ltd",
+"alts": [
+"ABBN.SW"
+]
+},
+{
+"t": "UBSG",
+"n": "UBS Group AG",
+"s": "Financials",
+"y": "UBSG.SW",
+"sh": 3030255878.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "UBS Group AG",
+"alts": [
+"UBSG.SW"
+]
+},
+{
+"t": "CFR",
+"n": "Compagnie Financière Richemont SA",
+"s": "Retail discretionary",
+"y": "CFR.SW",
+"sh": 587940297.0,
+"shAt": "2026-11-25",
+"ys": "Consumer Cyclical",
+"yn": "Compagnie Financière Richemont SA",
+"alts": [
+"CFR.SW"
+]
+},
+{
+"t": "ZURN",
+"n": "Zurich Insurance Group AG",
+"s": "Financials",
+"y": "ZURN.SW",
+"sh": 149369269.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Zurich Insurance Group AG",
+"alts": [
+"ZURN.SW"
+]
+},
+{
+"t": "HOLN",
+"n": "Holcim Limited",
+"s": "Materials",
+"y": "HOLN.SW",
+"sh": 553125111.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Holcim AG",
+"alts": [
+"HOLN.SW"
+]
+},
+{
+"t": "SREN",
+"n": "Swiss Reinsurance Company Ltd",
+"s": "Financials",
+"y": "SREN.SW",
+"sh": 294919585.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Swiss Re AG",
+"alts": [
+"SREN.SW"
+]
+},
+{
+"t": "LONN",
+"n": "Lonza Group AG",
+"s": "Healthcare",
+"y": "LONN.SW",
+"sh": 69844229.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Lonza Group AG",
+"alts": [
+"LONN.SW"
+]
+},
+{
+"t": "SDZ",
+"n": "Sandoz",
+"s": "Healthcare",
+"y": "SDZ.SW",
+"sh": 432692617.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Sandoz Group AG",
+"alts": [
+"SDZ.SW"
+]
+},
+{
+"t": "GIVN",
+"n": "Givaudan SA",
+"s": "Materials",
+"y": "GIVN.SW",
+"sh": 9231317.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Givaudan SA",
+"alts": [
+"GIVN.SW"
+]
+},
+{
+"t": "ALC",
+"n": "Alcon Inc",
+"s": "Health care",
+"y": "ALC.SW",
+"sh": 480400000.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Alcon Inc.",
+"alts": [
+"ALC.SW"
+]
+},
+{
+"t": "SIKA",
+"n": "Sika AG",
+"s": "Materials",
+"y": "SIKA.SW",
+"sh": 160439241.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Sika AG",
+"alts": [
+"SIKA.SW"
+]
+},
+{
+"t": "AMRZ",
+"n": "Amrize AG",
+"s": "Materials",
+"y": "AMRZ.SW",
+"sh": 532391396.0,
+"shAt": "2026-11-25",
+"ys": "Basic Materials",
+"yn": "Amrize AG",
+"alts": [
+"AMRZ.SW"
+]
+},
+{
+"t": "SLHN",
+"n": "Swiss Life Holding AG",
+"s": "Financials",
+"y": "SLHN.SW",
+"sh": 27945498.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Swiss Life Holding AG",
+"alts": [
+"SLHN.SW"
+]
+},
+{
+"t": "GALD",
+"n": "Galderma",
+"s": "Healthcare",
+"y": "GALD.SW",
+"sh": 233188937.0,
+"shAt": "2026-11-25",
+"ys": "Healthcare",
+"yn": "Galderma Group AG",
+"alts": [
+"GALD.SW"
+]
+},
+{
+"t": "GEBN",
+"n": "Geberit AG",
+"s": "Industrials",
+"y": "GEBN.SW",
+"sh": 32358401.0,
+"shAt": "2026-11-25",
+"ys": "Industrials",
+"yn": "Geberit AG",
+"alts": [
+"GEBN.SW"
+]
+},
+{
+"t": "PGHN",
+"n": "Partners Group Holding AG",
+"s": "Financials",
+"y": "PGHN.SW",
+"sh": 25759865.0,
+"shAt": "2026-11-25",
+"ys": "Financial Services",
+"yn": "Partners Group Holding AG",
+"alts": [
+"PGHN.SW"
+]
+},
+{
+"t": "LOGN",
+"n": "Logitech International SA",
+"s": "Information technology",
+"y": "LOGN.SW",
+"sh": 141818544.0,
+"shAt": "2026-11-25",
+"ys": "Technology",
+"yn": "Logitech International S.A.",
+"alts": [
+"LOGN.SW"
+]
+}
+]
