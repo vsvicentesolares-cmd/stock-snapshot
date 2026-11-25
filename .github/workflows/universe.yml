@@ -1,0 +1,56 @@
+name: universe
+
+on:
+  schedule:
+    # After every v1 market has closed (US close is 21:00 UTC in winter, 20:00 in summer).
+    # GitHub cron is best effort; the second slot only runs if the first did not build today.
+    - cron: "37 22 * * 1-5"
+    - cron: "19 0 * * 2-6"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Countries to rebuild, comma separated (e.g. ES,BR). Empty = all."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: universe
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Skip if already built for this session
+        id: guard
+        if: github.event_name == 'schedule' && github.event.schedule == '19 0 * * 2-6'
+        run: |
+          built=$(python3 -c "import json;print(json.load(open('universe/index.json'))['generatedAt'][:10])" 2>/dev/null || echo none)
+          y=$(date -u -d yesterday +%F)
+          if [ "$built" = "$y" ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; fi
+      - uses: actions/setup-python@v5
+        if: steps.guard.outputs.skip != 'true'
+        with:
+          python-version: "3.12"
+      - name: Install
+        if: steps.guard.outputs.skip != 'true'
+        run: pip install --quiet yfinance pandas lxml requests
+      - name: Build universe
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          if [ -n "${{ github.event.inputs.only }}" ]; then python scripts/build_universe.py --only "${{ github.event.inputs.only }}"
+          else python scripts/build_universe.py; fi
+      - name: Commit
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add universe cache
+          git diff --cached --quiet || git commit -m "universe $(date -u +%F)"
+          git pull --rebase --quiet
+          git push

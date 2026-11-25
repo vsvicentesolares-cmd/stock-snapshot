@@ -1,0 +1,282 @@
+[
+{
+"t": "ACS.MC",
+"y": "ACS.MC",
+"n": "ACS",
+"s": "Construction",
+"sh": 259974536.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ACX.MC",
+"y": "ACX.MC",
+"n": "Acerinox",
+"s": "Steel",
+"sh": 249158749.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "AMS.MC",
+"y": "AMS.MC",
+"n": "Amadeus IT Group",
+"s": "Tourism",
+"sh": 419991910.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ANA.MC",
+"y": "ANA.MC",
+"n": "Acciona",
+"s": "Construction",
+"sh": 53204475.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ANE.MC",
+"y": "ANE.MC",
+"n": "Acciona Energía",
+"s": "Energy",
+"sh": 324549450.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "BBVA.MC",
+"y": "BBVA.MC",
+"n": "BBVA",
+"s": "Financial Services",
+"sh": 5470660457.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "BKT.MC",
+"y": "BKT.MC",
+"n": "Bankinter",
+"s": "Financial Services",
+"sh": 898696272.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "CABK.MC",
+"y": "CABK.MC",
+"n": "CaixaBank",
+"s": "Financial Services",
+"sh": 6939157102.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "CLNX.MC",
+"y": "CLNX.MC",
+"n": "Cellnex Telecom",
+"s": "Telecommunications",
+"sh": 655498200.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "COL.MC",
+"y": "COL.MC",
+"n": "Inmobiliaria Colonial",
+"s": "Real Estate",
+"sh": 626091410.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "AENA.MC",
+"y": "AENA.MC",
+"n": "AENA",
+"s": "Aviation",
+"sh": 1500000000.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ELE.MC",
+"y": "ELE.MC",
+"n": "Endesa",
+"s": "Energy",
+"sh": 1014650934.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ENG.MC",
+"y": "ENG.MC",
+"n": "Enagás",
+"s": "Energy",
+"sh": 260298033.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "FDR.MC",
+"y": "FDR.MC",
+"n": "Fluidra",
+"s": "Manufacturing",
+"sh": 187821605.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "FER.MC",
+"y": "FER.MC",
+"n": "Ferrovial",
+"s": "Infrastructure",
+"sh": 718242155.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "GRF.MC",
+"y": "GRF.MC",
+"n": "Grifols",
+"s": "Pharmaceuticals",
+"sh": 680580507.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "IAG.MC",
+"y": "IAG.MC",
+"n": "International Airlines Group",
+"s": "Aviation",
+"sh": 4327920795.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "IBE.MC",
+"y": "IBE.MC",
+"n": "Iberdrola",
+"s": "Energy",
+"sh": 6638144188.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "IDR.MC",
+"y": "IDR.MC",
+"n": "Indra",
+"s": "Information Technology",
+"sh": 174730024.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ITX.MC",
+"y": "ITX.MC",
+"n": "Inditex",
+"s": "Textile",
+"sh": 3115009210.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "LOG.MC",
+"y": "LOG.MC",
+"n": "Logista",
+"s": "Logistics",
+"sh": 132167686.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "MAP.MC",
+"y": "MAP.MC",
+"n": "Mapfre",
+"s": "Insurance",
+"sh": 3069320685.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "MRL.MC",
+"y": "MRL.MC",
+"n": "Merlin Properties",
+"s": "Real Estate",
+"sh": 619182865.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "MTS.MC",
+"y": "MTS.MC",
+"n": "ArcelorMittal",
+"s": "Steel",
+"sh": 751935008.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "NTGY.MC",
+"y": "NTGY.MC",
+"n": "Naturgy",
+"s": "Energy",
+"sh": 926393571.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "PUIG.MC",
+"y": "PUIG.MC",
+"n": "Puig",
+"s": "Clothes and Cosmetics",
+"sh": 563292115.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "RED.MC",
+"y": "RED.MC",
+"n": "Redeia Corporación",
+"s": "Energy",
+"sh": 539595901.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "REP.MC",
+"y": "REP.MC",
+"n": "Repsol",
+"s": "Oil and Gas",
+"sh": 1059282042.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "ROVI.MC",
+"y": "ROVI.MC",
+"n": "Laboratorios Rovi",
+"s": "Pharmaceuticals",
+"sh": 51143123.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "SAB.MC",
+"y": "SAB.MC",
+"n": "Banco Sabadell",
+"s": "Financial Services",
+"sh": 4680778488.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "SAN.MC",
+"y": "SAN.MC",
+"n": "Santander",
+"s": "Financial Services",
+"sh": 14405887701.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "SCYR.MC",
+"y": "SCYR.MC",
+"n": "Sacyr",
+"s": "Construction",
+"sh": 795131069.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "SLR.MC",
+"y": "SLR.MC",
+"n": "Solaria",
+"s": "Solar Energy",
+"sh": 131646263.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "TEF.MC",
+"y": "TEF.MC",
+"n": "Telefónica",
+"s": "Telecommunications",
+"sh": 5628254398.0,
+"shAt": "2026-11-22"
+},
+{
+"t": "UNI.MC",
+"y": "UNI.MC",
+"n": "Unicaja",
+"s": "Financial Services",
+"sh": 2569572211.0,
+"shAt": "2026-11-22"
+}
+]

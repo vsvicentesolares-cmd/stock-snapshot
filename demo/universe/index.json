@@ -1,0 +1,22 @@
+{
+ "generatedAt": "2026-11-25T07:00Z",
+ "demo": true,
+ "countries": [
+  {
+   "code": "US",
+   "name": "United States",
+   "index": "S&P 500",
+   "file": "US.json",
+   "asOf": "2026-11-24",
+   "n": 503
+  },
+  {
+   "code": "ES",
+   "name": "Spain",
+   "index": "IBEX 35",
+   "file": "ES.json",
+   "asOf": "2026-11-24",
+   "n": 35
+  }
+ ]
+}

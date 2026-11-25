@@ -1,0 +1,7 @@
+name = "stock-snapshot"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+# Set to your GitHub Pages origin once it is live, e.g. "https://vsvicentesolares-cmd.github.io"
+ALLOWED_ORIGIN = "*"

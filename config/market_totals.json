@@ -1,0 +1,31 @@
+{
+  "_note": "Domestic market capitalisation of all listed companies per country, USD millions. Source: WFE FOCUS monthly market statistics (focus.world-exchanges.org, issue Nov 2026, data for Sept 2026). Update monthly. null = no figure yet; the page then hides the rest-of-market rectangle for that country. UK is not in WFE statistics; France and the Netherlands are only reported as one Euronext total.",
+  "asOf": "2026-09",
+  "source": "WFE FOCUS, domestic market capitalisation, Sept 2026",
+  "totalsUSDm": {
+    "US": 78710962.76,
+    "ES": 1375321.12,
+    "UK": null,
+    "MX": 561277.39,
+    "BR": 1079991.35,
+    "DE": 2774757.47,
+    "FR": null,
+    "NL": null,
+    "CH": 2526434.32,
+    "JP": 8872885.93,
+    "HK": 5795895.06
+  },
+  "exchanges": {
+    "US": "NYSE + Nasdaq",
+    "ES": "BME",
+    "UK": "London Stock Exchange",
+    "MX": "BMV",
+    "BR": "B3",
+    "DE": "Deutsche Boerse",
+    "FR": "Euronext Paris",
+    "NL": "Euronext Amsterdam",
+    "CH": "SIX",
+    "JP": "Japan Exchange Group",
+    "HK": "HKEX"
+  }
+}
