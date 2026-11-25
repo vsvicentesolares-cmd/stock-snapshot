@@ -122,15 +122,17 @@ async function snapshot(symbol, indexSym) {
     "OperatingCashFlow", "CapitalExpenditure", "FreeCashFlow", "TotalDebt", "CashCashEquivalentsAndShortTermInvestments",
     "StockholdersEquity", "InterestExpense", "DilutedAverageShares"];
   const quarterly = ["TotalRevenue", "EBITDA", "OperatingIncome", "NetIncomeCommonStockholders", "DilutedEPS"];
-  const types = [...annual.map((t) => "annual" + t), ...quarterly.map((t) => "quarterly" + t)].join(",");
+  // Same request shape as yfinance: one call per timescale, period1 fixed at 2016-12-31, no padding/merge params.
+  const tsUrl = (keys, scale) => `${Q2}/ws/fundamentals-timeseries/v1/finance/timeseries/${enc(symbol)}?symbol=${enc(symbol)}&type=${keys.map((k) => scale + k).join(",")}&period1=1483142400&period2=${now}`;
 
-  const [qs, c1y, c5y, i1y, i5y, ts, news] = await Promise.all([
+  const [qs, c1y, c5y, i1y, i5y, tsA, tsQ, news] = await Promise.all([
     safe("quoteSummary", yget(`${Q2}/v10/finance/quoteSummary/${enc(symbol)}?modules=${modules}`, { auth: true })),
     safe("chart", yget(`${Q1}/v8/finance/chart/${enc(symbol)}?range=1y&interval=1d&events=div%7Csplit`)),
     safe("chart5y", yget(`${Q1}/v8/finance/chart/${enc(symbol)}?range=5y&interval=1wk`)),
     indexSym ? safe("indexChart", yget(`${Q1}/v8/finance/chart/${enc(indexSym)}?range=1y&interval=1d`)) : null,
     indexSym ? safe("indexChart5y", yget(`${Q1}/v8/finance/chart/${enc(indexSym)}?range=5y&interval=1wk`)) : null,
-    safe("financials", yget(`${Q2}/ws/fundamentals-timeseries/v1/finance/timeseries/${enc(symbol)}?symbol=${enc(symbol)}&type=${types}&period1=${now - 6 * 366 * 86400}&period2=${now}&merge=false&padTimeSeries=true`, { auth: true })),
+    safe("financials", yget(tsUrl(annual, "annual"), { auth: true })),
+    safe("financialsQ", yget(tsUrl(quarterly, "quarterly"), { auth: true })),
     safe("news", yget(`${Q2}/v1/finance/search?q=${enc(symbol)}&quotesCount=0&newsCount=10&enableFuzzyQuery=false`)),
   ]);
 
@@ -200,7 +202,7 @@ async function snapshot(symbol, indexSym) {
     },
     chart: { "1y": series(c1y), "5y": series(c5y), dividends: dividends(c1y) },
     indexChart: { "1y": series(i1y), "5y": series(i5y), name: i1y?.chart?.result?.[0]?.meta?.shortName || indexSym || null },
-    financials: timeseries(ts, annual, quarterly),
+    financials: timeseries([tsA, tsQ], annual, quarterly),
     events: {
       earningsDates: (ce.earnings?.earningsDate || []).map(raw).filter(Boolean),
       earningsCallDate: (ce.earnings?.earningsCallDate || []).map(raw).filter(Boolean)[0] || null,
@@ -253,8 +255,8 @@ function dividends(c) {
   return Object.values(d).map((x) => ({ date: x.date, amount: x.amount })).sort((a, b) => a.date - b.date);
 }
 
-function timeseries(ts, annual, quarterly) {
-  const res = ts?.timeseries?.result || [];
+function timeseries(list, annual, quarterly) {
+  const res = list.flatMap((ts) => ts?.timeseries?.result || []);
   const byType = {};
   let currency = null;
   for (const r of res) {
