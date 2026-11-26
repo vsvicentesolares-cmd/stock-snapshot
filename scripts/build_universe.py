@@ -29,6 +29,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "universe")
 MEM = os.path.join(ROOT, "cache", "members")
 CFG = os.path.join(ROOT, "config", "market_totals.json")
+CLASSES = os.path.join(ROOT, "config", "share_classes.json")
 UA = {"User-Agent": "Mozilla/5.0 (compatible; stock-snapshot/1.0; personal dashboard)"}
 SHARES_MAX_AGE_DAYS = 7
 
@@ -165,7 +166,7 @@ COUNTRIES = [
     dict(code="MX", name="Mexico", index="S&P/BMV IPC", id="MEXBOL", isym="^MXX", cur="MXN", src="static",
          static=MEX_STATIC, cands=c_mex, sector="source"),
     dict(code="BR", name="Brazil", index="Ibovespa", id="IBOV", isym="^BVSP", cur="BRL", src="b3",
-         lo=70, hi=100, cands=c_suffix(".SA"), sector="yahoo"),
+         lo=70, hi=100, cands=c_suffix(".SA"), sector="yahoo", total_shares=True),
     dict(code="DE", name="Germany", index="DAX 40", id="DAX", isym="^GDAXI", cur="EUR", src="wiki",
          url="https://en.wikipedia.org/wiki/DAX",
          tick=["ticker", "symbol"], ncol=["company", "name"], scol=["prime standard sector", "sector", "industry"],
@@ -403,7 +404,16 @@ def index_change(isym):
 
 
 # ---------------------------------------------------------------- build one country
-def build(cx, totals, today):
+def short_t(t):
+    return re.sub(r"\.[A-Z]{1,3}$", "", str(t))
+
+
+def norm_name(s):
+    return re.sub(r"[^a-z0-9]", "", str(s or "").lower())
+
+
+def build(cx, totals, today, classes=None):
+    classes = classes or {}
     members, msrc = get_members(cx)
     if not members:
         raise RuntimeError("no constituents")
@@ -444,13 +454,39 @@ def build(cx, totals, today):
             flag = "last close " + last_d
         elif len(s) > 1:
             d1 = round((float(s.iloc[-1]) / float(s.iloc[-2]) - 1) * 100, 2)
-        cap = m["sh"] * close if (m.get("sh") and close) else None
+        override = (classes.get(m["y"]) or {}).get("shares")
+        shares = override or m.get("sh")
+        cap = shares * close if (shares and close) else None
         sec = (m.get("ys") if cx["sector"] == "yahoo" else m.get("s")) or m.get("s") or m.get("ys") or "Other"
         if cx.get("smap") and cx["sector"] == "source":
             sec = cx["smap"](sec)
         name = m.get("n") if cx["src"] != "b3" else (m.get("yn") or m.get("n"))
         items.append({"y": m["y"], "t": m["t"], "n": name or m["t"], "s": sec, "cap": cap,
-                      "d1": d1, "c": round(close, 4) if close else None, "f": flag})
+                      "d1": d1, "c": round(close, 4) if close else None, "f": flag,
+                      "_co": norm_name(m.get("yn") or name or m["t"]), "_ov": bool(override)})
+
+    # Companies with more than one share class in the index: label them as one company and avoid double counting.
+    by_co = {}
+    for i in items:
+        by_co.setdefault(i["_co"], []).append(i)
+    for grp in by_co.values():
+        if len(grp) < 2:
+            continue
+        grp.sort(key=lambda i: -(i["cap"] or 0))
+        label = "/".join(short_t(i["t"]) for i in grp)
+        for i in grp:
+            i["g"] = label
+        missing = [i for i in grp if not i["_ov"] and i["cap"]]
+        if cx.get("total_shares") and missing:
+            # Yahoo gave the company total on each class: each line is worth the whole company.
+            # Without per-class counts, count the company once (mean of the lines) and split it pro rata.
+            caps = [i["cap"] for i in grp if i["cap"]]
+            factor = (sum(caps) / len(caps)) / sum(caps)
+            for i in grp:
+                if i["cap"]:
+                    i["cap"] *= factor
+                    i["f"] = (i["f"] + "; " if i["f"] else "") + "class split estimated"
+            log(cx["code"], "estimated class split for", label, "(add to config/share_classes.json)")
 
     tot = sum(i["cap"] for i in items if i["cap"])
     sectors = sorted({i["s"] for i in items})
@@ -466,8 +502,20 @@ def build(cx, totals, today):
         if not i["f"]:
             del i["f"]
     items.sort(key=lambda r: -(r["w"] or 0))
-    for k, i in enumerate(items, 1):
-        i["rank"] = k
+    # Rank and weight at company level (share classes combined)
+    co = {}
+    for i in items:
+        co.setdefault(i["_co"], []).append(i)
+    co_rows = sorted(co.values(), key=lambda g: -sum(i["w"] or 0 for i in g))
+    for k, grp in enumerate(co_rows, 1):
+        gw = round(sum(i["w"] or 0 for i in grp), 4)
+        for i in grp:
+            i["rank"] = k
+            if "g" in i:
+                i["gw"] = gw
+    for i in items:
+        i.pop("_co", None)
+        i.pop("_ov", None)
 
     idx_usd = tot * fx / 1e6
     total_usd = (totals.get("totalsUSDm") or {}).get(cx["code"])
@@ -482,7 +530,7 @@ def build(cx, totals, today):
         "v": 1, "country": cx["code"], "name": cx["name"], "index": cx["index"], "indexId": cx["id"],
         "isym": cx["isym"], "currency": cx["cur"], "fxUSD": round(fx, 6), "asOf": as_of,
         "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
-        "members": msrc, "n": len(items), "priced": sum(1 for i in items if i["d1"] is not None),
+        "members": msrc, "n": len(items), "nc": len(co_rows), "priced": sum(1 for i in items if i["d1"] is not None),
         "idxLevel": idx_level, "idxD1": idx_d1, "capWeightedD1": round(wd / wsum, 2) if wsum else None,
         "idxCapUSDm": round(idx_usd, 1), "market": market, "sectors": sectors, "items": items,
         "source": "Prices, shares, sectors: Yahoo Finance (yfinance). Constituents: " +
@@ -500,6 +548,7 @@ def main():
         only = set(sys.argv[sys.argv.index("--only") + 1].upper().split(","))
     today = dt.datetime.now(dt.timezone.utc).date()
     totals = json.load(open(CFG)) if os.path.exists(CFG) else {}
+    classes = (json.load(open(CLASSES)) if os.path.exists(CLASSES) else {}).get("classes", {})
     os.makedirs(OUT, exist_ok=True)
     idx_path = os.path.join(OUT, "index.json")
     index = json.load(open(idx_path)) if os.path.exists(idx_path) else {"countries": []}
@@ -509,7 +558,7 @@ def main():
         if only and cx["code"] not in only:
             continue
         try:
-            b = build(cx, totals, today)
+            b = build(cx, totals, today, classes)
             with open(os.path.join(OUT, cx["code"] + ".json"), "w") as f:
                 json.dump(b, f, ensure_ascii=False, separators=(",", ":"))
             have[cx["code"]] = {"code": cx["code"], "name": cx["name"], "index": cx["index"],

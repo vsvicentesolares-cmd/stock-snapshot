@@ -1,0 +1,9 @@
+{
+  "_note": "Shares outstanding per listed share class (excl. treasury), for companies with more than one class in an index. Overrides Yahoo's share count, which for Brazilian dual listings is the company total on both tickers. Update after buybacks, capital increases or index reviews.",
+  "classes": {
+    "PETR3.SA": {"shares": 7442231382, "company": "Petrobras", "class": "ON", "source": "Petrobras IR, shareholder composition (latest published)"},
+    "PETR4.SA": {"shares": 5482734479, "company": "Petrobras", "class": "PN", "source": "Petrobras IR, shareholder composition (latest published)"},
+    "BBDC3.SA": {"shares": 5596097177, "company": "Bradesco", "class": "ON", "source": "Bradesco IR, corporate structure 30 Sep 2026, incl. 2026 capital increase, excl. treasury"},
+    "BBDC4.SA": {"shares": 5579467604, "company": "Bradesco", "class": "PN", "source": "Bradesco IR, corporate structure 30 Sep 2026, incl. 2026 capital increase, excl. treasury"}
+  }
+}

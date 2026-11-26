@@ -47,6 +47,7 @@ Deep link: `#ES/ITX.MC` runs that stock on load.
 |---|---|---|
 | `config/market_totals.json` | Monthly | WFE FOCUS > Market statistics > domestic market cap (USD m). UK, FR, NL have no WFE split yet (null = no rest-of-market block). |
 | IPC constituents (`MEX_STATIC`) | After Mar/Sep reviews | Edit list in `build_universe.py` |
+| `config/share_classes.json` | After buybacks, capital increases, index reviews | Shares outstanding per class for companies with 2+ classes in an index (today Petrobras, Bradesco). Brazilian pairs missing from the file get an estimated split and a log line. |
 | Failed country | When `universe/index.json` lists errors | Actions log shows the source that failed; the last good constituent list in `cache/members/` is reused |
 
 ## Known limits
@@ -54,5 +55,6 @@ Deep link: `#ES/ITX.MC` runs that stock on load.
 - Yahoo endpoints are unofficial. The Worker handles the cookie/crumb flow; if Yahoo refuses it, quote, profile, financials and analysts come back empty while price charts and news still work (listed under "Missing pieces" at the bottom of the page).
 - Constituent parsers for DAX, CAC, AEX, SMI, Nikkei, HSI and B3 are untested until the first Actions run.
 - Market cap = shares outstanding x close (full, not float-adjusted). Weights approximate index weights.
+- Companies with several share classes in an index (PETR3/PETR4, BBDC3/BBDC4, GOOGL/GOOG, FOXA/FOX, NWSA/NWS) are one heatmap block, one peer row and one rank. US class counts come from Yahoo per class; Alphabet's unlisted class B is not included.
 - Banks and insurers have no EBITDA; those rows show "–".
 - Worker responses are cached 15 min per symbol (`&fresh=1` bypasses).

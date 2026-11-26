@@ -120,7 +120,7 @@ const $ = (id) => document.getElementById(id);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const norm = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
-let countries = [], uni = null, picked = null, snap = null, chartRange = "1Y", showRest = true;
+let countries = [], uni = null, picked = null, snap = null, chartRange = "1Y", showRest = true, heatCos = new Map();
 
 // ------------------------------------------------------------------ formatting
 const SYM = {USD:"$",EUR:"€",GBP:"£",GBp:"p ",JPY:"¥",CHF:"CHF ",HKD:"HK$",BRL:"R$",MXN:"MX$"};
@@ -145,6 +145,31 @@ const day = (ts) => ts ? new Date(ts * 1000).toLocaleDateString("en-GB", {day: "
 const dateStr = (s) => s ? new Date(s + "T00:00:00Z").toLocaleDateString("en-GB", {month: "short", year: "numeric", timeZone: "UTC"}) : "–";
 const ago = (ts) => { const h = (Date.now() / 1000 - ts) / 3600; return h < 1 ? Math.max(1, Math.round(h * 60)) + "m ago" : h < 48 ? Math.round(h) + "h ago" : Math.round(h / 24) + "d ago"; };
 const short = (t) => String(t || "").replace(/\.[A-Z]{1,3}$/, "");
+// Companies with several share classes in the index (e.g. PETR3/PETR4) are shown as one block / one row.
+function glabel(g) {
+  const parts = String(g).split("/");
+  let pre = parts[0];
+  parts.forEach((p) => { while (!p.startsWith(pre)) pre = pre.slice(0, -1); });
+  return pre.length >= 3 && parts.every((p) => p.length > pre.length) ? pre + parts.map((p) => p.slice(pre.length)).join("/") : g;
+}
+function companiesOf(items) {
+  const map = new Map();
+  for (const it of items) {
+    const k = it.g || it.y;
+    if (!map.has(k)) map.set(k, {key: k, label: it.g ? glabel(it.g) : short(it.t), name: it.n, s: it.s, rank: it.rank, members: []});
+    map.get(k).members.push(it);
+  }
+  return [...map.values()].map((c) => {
+    c.members.sort((a, b) => (b.capUSDm || 0) - (a.capUSDm || 0));
+    c.capUSDm = c.members.reduce((a, i) => a + (i.capUSDm || 0), 0);
+    c.w = c.members.reduce((a, i) => a + (i.w || 0), 0);
+    const wd = c.members.filter((i) => isNum(i.d1) && i.capUSDm);
+    c.d1 = wd.length ? wd.reduce((a, i) => a + i.d1 * i.capUSDm, 0) / wd.reduce((a, i) => a + i.capUSDm, 0) : null;
+    c.f = c.members.map((i) => i.f).filter(Boolean).join("; ");
+    c.lead = c.members[0];
+    return c;
+  });
+}
 
 // ------------------------------------------------------------------ boot
 async function boot() {
@@ -169,7 +194,7 @@ async function loadUniverse(code) {
   const c = countries.find((x) => x.code === code);
   try {
     uni = await (await fetch(UNIV + c.file, {cache: "no-cache"})).json();
-    setStatus(`${uni.index}: ${uni.n} names · prices as of ${uni.asOf}`);
+    setStatus(`${uni.index}: ${uni.nc || uni.n} companies · prices as of ${uni.asOf}`);
   } catch (e) { setStatus("Could not load " + c.file); }
 }
 function setStatus(s) { $("status").innerHTML = s; }
@@ -512,16 +537,19 @@ function positionStats(member, capUSD) {
   if (!uni) return "";
   if (!member) {
     let rank = null;
-    if (isNum(capUSD)) rank = uni.items.filter((i) => (i.capUSDm || 0) * 1e6 > capUSD).length + 1;
-    return `<div class="pos">${kv("Index member", "No")}${kv("Size vs index", rank ? `would rank #${rank} of ${uni.n + 1}` : "–")}${kv(uni.index + " 1D", `<span class="${cls(uni.idxD1)}">${pct(uni.idxD1, 2)}</span>`)}</div>`;
+    const all = companiesOf(uni.items);
+    if (isNum(capUSD)) rank = all.filter((c) => c.capUSDm * 1e6 > capUSD).length + 1;
+    return `<div class="pos">${kv("Index member", "No")}${kv("Size vs index", rank ? `would rank #${rank} of ${all.length + 1}` : "–")}${kv(uni.index + " 1D", `<span class="${cls(uni.idxD1)}">${pct(uni.idxD1, 2)}</span>`)}</div>`;
   }
-  const sec = uni.items.filter((i) => i.s === member.s);
-  const secRank = sec.filter((i) => (i.capUSDm || 0) > (member.capUSDm || 0)).length + 1;
-  const share = uni.market?.totalUSDm && member.capUSDm ? member.capUSDm / uni.market.totalUSDm * 100 : null;
+  const cos = companiesOf(uni.items.filter((i) => i.s === member.s));
+  const mine = cos.find((c) => c.members.includes(member));
+  const secRank = cos.filter((c) => c.capUSDm > mine.capUSDm).length + 1;
+  const share = uni.market?.totalUSDm && mine.capUSDm ? mine.capUSDm / uni.market.totalUSDm * 100 : null;
+  const multi = mine.members.length > 1;
   return `<div class="pos">
-    ${kv("Rank by size", `#${member.rank} of ${uni.n}`)}
-    ${kv("Index weight", isNum(member.w) ? member.w.toFixed(2) + "%" : "–")}
-    ${kv("Sector rank", `#${secRank} of ${sec.length} in ${esc(uni.sectors[member.s])}`)}
+    ${kv("Rank by size", `#${member.rank} of ${uni.nc || uni.n}`)}
+    ${kv("Index weight", isNum(mine.w) ? mine.w.toFixed(2) + "%" + (multi ? ` <span class="mut" style="font-weight:400">(${esc(short(member.t))} ${num(member.w, 2, "%")})</span>` : "") : "–")}
+    ${kv("Sector rank", `#${secRank} of ${cos.length} in ${esc(uni.sectors[member.s])}`)}
     ${kv("Share of market", share != null ? share.toFixed(2) + "%" : "–")}
     ${kv("1D stock / index", `<span class="${cls(member.d1)}">${pct(member.d1, 2)}</span> / <span class="${cls(uni.idxD1)}">${pct(uni.idxD1, 2)}</span>`)}
     ${kv("Index share of market", uni.market ? uni.market.indexShare + "%" : "–")}
@@ -530,11 +558,12 @@ function positionStats(member, capUSD) {
 function peers(member) {
   if (!uni) return "";
   if (!member) return '<div class="mut">Not an index member, so no index sector peers.</div>';
-  const sec = uni.items.filter((i) => i.s === member.s).sort((a, b) => (b.capUSDm || 0) - (a.capUSDm || 0));
+  const sec = companiesOf(uni.items.filter((i) => i.s === member.s)).sort((a, b) => b.capUSDm - a.capUSDm);
+  const mine = sec.find((c) => c.members.includes(member));
   let rows = sec.slice(0, 8);
-  if (!rows.includes(member)) rows = [...rows.slice(0, 7), member];
+  if (!rows.includes(mine)) rows = [...rows.slice(0, 7), mine];
   return `<div class="tbl"><table><thead><tr><th>${esc(uni.sectors[member.s])}</th><th>Mkt cap (USD)</th><th>Weight</th><th>1D</th></tr></thead><tbody>
-    ${rows.map((i) => `<tr class="${i === member ? "sel" : ""}"><td><a href="#" data-sym="${esc(i.y)}">${esc(short(i.t))}</a> <span class="mut">${esc(i.n)}</span></td><td>${money(i.capUSDm * 1e6, "USD")}</td><td>${num(i.w, 2, "%")}</td><td class="${cls(i.d1)}">${pct(i.d1, 2)}</td></tr>`).join("")}
+    ${rows.map((c) => `<tr class="${c === mine ? "sel" : ""}"><td><a href="#" data-sym="${esc(c === mine ? member.y : c.lead.y)}">${esc(c.label)}</a> <span class="mut">${esc(c.name)}</span></td><td>${money(c.capUSDm * 1e6, "USD")}</td><td>${num(c.w, 2, "%")}</td><td class="${cls(c.d1)}">${pct(c.d1, 2)}</td></tr>`).join("")}
   </tbody></table></div>`;
 }
 document.addEventListener("click", (e) => {
@@ -601,8 +630,9 @@ function drawHeat() {
   const W = Math.max(320, Math.round(el.clientWidth || 1000));
   const H = Math.round(Math.max(320, Math.min(620, W * 0.5)));
   const sel = snap?.symbol;
-  const groups = uni.sectors.map((name, si) => ({name, items: uni.items.filter((i) => i.s === si && i.capUSDm > 0)}))
-    .filter((g) => g.items.length).map((g) => ({...g, v: g.items.reduce((a, i) => a + i.capUSDm, 0)})).sort((a, b) => b.v - a.v);
+  const groups = uni.sectors.map((name, si) => ({name, items: companiesOf(uni.items.filter((i) => i.s === si && i.capUSDm > 0))}))
+    .filter((g) => g.items.length).map((g) => ({...g, v: g.items.reduce((a, c) => a + c.capUSDm, 0)})).sort((a, b) => b.v - a.v);
+  heatCos = new Map();
   const top = [...groups];
   const rest = showRest && uni.market?.restUSDm > 0 ? {name: "Rest of market", rest: true, v: uni.market.restUSDm} : null;
   if (rest) top.push(rest);
@@ -621,25 +651,28 @@ function drawHeat() {
     const hdr = r.h > 40 && r.w > 60 ? 15 : 0;
     svg += `<rect x="${r.x}" y="${r.y}" width="${r.w}" height="${r.h}" fill="var(--panel)" stroke="var(--panel)" stroke-width="2"/>`;
     if (hdr) svg += `<text x="${r.x + 4}" y="${r.y + 11}" font-size="10" font-weight="600" fill="var(--muted)" style="text-transform:uppercase">${esc(clip(g.name, r.w / 6))}</text>`;
-    const inner = squarify(g.items.map((i) => ({v: i.capUSDm, it: i})).sort((a, b) => b.v - a.v), r.x + 1, r.y + hdr + 1, r.w - 2, r.h - hdr - 2);
+    const inner = squarify(g.items.map((c) => ({v: c.capUSDm, it: c})).sort((a, b) => b.v - a.v), r.x + 1, r.y + hdr + 1, r.w - 2, r.h - hdr - 2);
     for (const b of inner) {
       const it = b.n.it;
+      heatCos.set(it.key, it);
+      const isSel = it.members.some((m) => m.y === sel);
       const fs = Math.max(8, Math.min(18, Math.sqrt(b.w * b.h) / 5));
       const lab = b.w > fs * 2.2 && b.h > fs * 1.3;
-      svg += `<g class="hb" data-y="${esc(it.y)}" style="cursor:pointer"><rect x="${b.x + .5}" y="${b.y + .5}" width="${Math.max(0, b.w - 1)}" height="${Math.max(0, b.h - 1)}" fill="${heatColor(it.d1)}" opacity="${sel && it.y !== sel ? .88 : 1}"/>
-        ${lab ? `<text x="${b.x + b.w / 2}" y="${b.y + b.h / 2 + (b.h > fs * 2.8 ? -2 : fs * .35)}" text-anchor="middle" font-size="${fs.toFixed(1)}" font-weight="700" fill="#fff">${esc(clip(short(it.t), b.w / (fs * .62)))}</text>` : ""}
+      svg += `<g class="hb" data-k="${esc(it.key)}" style="cursor:pointer"><rect x="${b.x + .5}" y="${b.y + .5}" width="${Math.max(0, b.w - 1)}" height="${Math.max(0, b.h - 1)}" fill="${heatColor(it.d1)}" opacity="${sel && !isSel ? .88 : 1}"/>
+        ${lab ? `<text x="${b.x + b.w / 2}" y="${b.y + b.h / 2 + (b.h > fs * 2.8 ? -2 : fs * .35)}" text-anchor="middle" font-size="${fs.toFixed(1)}" font-weight="700" fill="#fff">${esc(clip(it.label, b.w / (fs * .62)))}</text>` : ""}
         ${lab && b.h > fs * 2.8 ? `<text x="${b.x + b.w / 2}" y="${b.y + b.h / 2 + fs * .95}" text-anchor="middle" font-size="${(fs * .7).toFixed(1)}" fill="#fff" opacity=".9">${pct(it.d1, 1)}</text>` : ""}</g>`;
-      if (it.y === sel) selRect = b;
+      if (isSel) selRect = b;
     }
   }
   if (selRect) svg += `<rect x="${selRect.x + 1}" y="${selRect.y + 1}" width="${Math.max(0, selRect.w - 2)}" height="${Math.max(0, selRect.h - 2)}" fill="none" stroke="var(--ink)" stroke-width="3" pointer-events="none"/>
     <rect x="${selRect.x + 4}" y="${selRect.y + 4}" width="${Math.max(0, selRect.w - 8)}" height="${Math.max(0, selRect.h - 8)}" fill="none" stroke="#fff" stroke-width="1.5" pointer-events="none"/>`;
   el.innerHTML = `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" style="display:block;max-width:100%">${svg}</svg>`;
   el.querySelectorAll("g.hb").forEach((g) => {
-    const it = uni.items.find((i) => i.y === g.dataset.y);
-    g.addEventListener("mousemove", (e) => tip(e, `<b>${esc(short(it.t))}</b> ${esc(it.n)}<br>${esc(uni.sectors[it.s])}<br>Mkt cap ${money(it.capUSDm * 1e6, "USD")} · weight ${num(it.w, 2, "%")}<br>1D <span class="${cls(it.d1)}">${pct(it.d1, 2)}</span>${it.f ? `<br><span class="mut">${esc(it.f)}</span>` : ""}`));
+    const c = heatCos.get(g.dataset.k);
+    const classes = c.members.length > 1 ? "<br>" + c.members.map((m) => `${esc(short(m.t))}: ${money(m.capUSDm * 1e6, "USD")}, 1D <span class="${cls(m.d1)}">${pct(m.d1, 2)}</span>`).join("<br>") : "";
+    g.addEventListener("mousemove", (e) => tip(e, `<b>${esc(c.label)}</b> ${esc(c.name)}<br>${esc(uni.sectors[c.s])}<br>Mkt cap ${money(c.capUSDm * 1e6, "USD")} · weight ${num(c.w, 2, "%")}<br>1D <span class="${cls(c.d1)}">${pct(c.d1, 2)}</span>${classes}${c.f ? `<br><span class="mut">${esc(c.f)}</span>` : ""}`));
     g.addEventListener("mouseleave", hideTip);
-    g.addEventListener("click", () => { hideTip(); choose({symbol: it.y, label: short(it.t), name: it.n}); });
+    g.addEventListener("click", () => { hideTip(); const m = c.members.find((x) => x.y === snap?.symbol) || c.lead; choose({symbol: m.y, label: short(m.t), name: m.n}); });
   });
 }
 const clip = (s, n) => { s = String(s); n = Math.max(1, Math.floor(n)); return s.length > n ? s.slice(0, Math.max(1, n - 1)) + "…" : s; };
