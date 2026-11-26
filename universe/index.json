@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T04:23Z",
+ "generatedAt": "2026-11-26T08:36Z",
  "countries": [
   {
    "code": "US",
@@ -15,18 +15,18 @@
    "name": "Spain",
    "index": "IBEX 35",
    "file": "ES.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 35,
-   "priced": 0
+   "priced": 35
   },
   {
    "code": "UK",
    "name": "United Kingdom",
    "index": "FTSE 100",
    "file": "UK.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 100,
-   "priced": 0
+   "priced": 100
   },
   {
    "code": "MX",
@@ -44,41 +44,41 @@
    "file": "BR.json",
    "asOf": "2026-11-25",
    "n": 76,
-   "priced": 0
+   "priced": 76
   },
   {
    "code": "DE",
    "name": "Germany",
    "index": "DAX 40",
    "file": "DE.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 40,
-   "priced": 0
+   "priced": 40
   },
   {
    "code": "FR",
    "name": "France",
    "index": "CAC 40",
    "file": "FR.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 40,
-   "priced": 0
+   "priced": 40
   },
   {
    "code": "NL",
    "name": "Netherlands",
    "index": "AEX",
    "file": "NL.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 25,
-   "priced": 0
+   "priced": 25
   },
   {
    "code": "CH",
    "name": "Switzerland",
    "index": "SMI",
    "file": "CH.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 20,
    "priced": 20
   },
