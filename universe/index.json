@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T11:33Z",
+ "generatedAt": "2026-11-27T04:32Z",
  "countries": [
   {
    "code": "US",
@@ -17,7 +17,7 @@
    "file": "ES.json",
    "asOf": "2026-11-26",
    "n": 35,
-   "priced": 35
+   "priced": 1
   },
   {
    "code": "UK",
@@ -26,14 +26,14 @@
    "file": "UK.json",
    "asOf": "2026-11-26",
    "n": 100,
-   "priced": 100
+   "priced": 0
   },
   {
    "code": "MX",
    "name": "Mexico",
    "index": "S&P/BMV IPC",
    "file": "MX.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 35,
    "priced": 35
   },
@@ -42,9 +42,9 @@
    "name": "Brazil",
    "index": "Ibovespa",
    "file": "BR.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "n": 76,
-   "priced": 76
+   "priced": 0
   },
   {
    "code": "DE",
@@ -53,7 +53,7 @@
    "file": "DE.json",
    "asOf": "2026-11-26",
    "n": 40,
-   "priced": 40
+   "priced": 0
   },
   {
    "code": "FR",
@@ -62,7 +62,7 @@
    "file": "FR.json",
    "asOf": "2026-11-26",
    "n": 40,
-   "priced": 40
+   "priced": 0
   },
   {
    "code": "NL",
@@ -71,7 +71,7 @@
    "file": "NL.json",
    "asOf": "2026-11-26",
    "n": 25,
-   "priced": 25
+   "priced": 0
   },
   {
    "code": "CH",
@@ -87,7 +87,7 @@
    "name": "Japan",
    "index": "Nikkei 225",
    "file": "JP.json",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "n": 224,
    "priced": 224
   },
@@ -96,7 +96,7 @@
    "name": "Hong Kong",
    "index": "Hang Seng",
    "file": "HK.json",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "n": 85,
    "priced": 85
   }
