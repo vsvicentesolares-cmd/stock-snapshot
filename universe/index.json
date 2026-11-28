@@ -1,12 +1,12 @@
 {
- "generatedAt": "2026-11-27T08:47Z",
+ "generatedAt": "2026-11-28T04:15Z",
  "countries": [
   {
    "code": "US",
    "name": "United States",
    "index": "S&P 500",
    "file": "US.json",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-27",
    "n": 503,
    "priced": 502
   },
@@ -17,7 +17,7 @@
    "file": "ES.json",
    "asOf": "2026-11-27",
    "n": 35,
-   "priced": 35
+   "priced": 0
   },
   {
    "code": "UK",
@@ -26,14 +26,14 @@
    "file": "UK.json",
    "asOf": "2026-11-27",
    "n": 100,
-   "priced": 100
+   "priced": 0
   },
   {
    "code": "MX",
    "name": "Mexico",
    "index": "S&P/BMV IPC",
    "file": "MX.json",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "n": 35,
    "priced": 35
   },
@@ -42,9 +42,9 @@
    "name": "Brazil",
    "index": "Ibovespa",
    "file": "BR.json",
-   "asOf": "2026-11-26",
+   "asOf": "2026-11-27",
    "n": 76,
-   "priced": 76
+   "priced": 0
   },
   {
    "code": "DE",
@@ -53,7 +53,7 @@
    "file": "DE.json",
    "asOf": "2026-11-27",
    "n": 40,
-   "priced": 40
+   "priced": 0
   },
   {
    "code": "FR",
@@ -62,7 +62,7 @@
    "file": "FR.json",
    "asOf": "2026-11-27",
    "n": 40,
-   "priced": 40
+   "priced": 0
   },
   {
    "code": "NL",
@@ -71,7 +71,7 @@
    "file": "NL.json",
    "asOf": "2026-11-27",
    "n": 25,
-   "priced": 25
+   "priced": 0
   },
   {
    "code": "CH",
@@ -80,7 +80,7 @@
    "file": "CH.json",
    "asOf": "2026-11-27",
    "n": 20,
-   "priced": 20
+   "priced": 0
   },
   {
    "code": "JP",
