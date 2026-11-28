@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T04:15Z",
+ "generatedAt": "2026-11-28T08:05Z",
  "countries": [
   {
    "code": "US",
@@ -35,7 +35,7 @@
    "file": "MX.json",
    "asOf": "2026-11-27",
    "n": 35,
-   "priced": 35
+   "priced": 0
   },
   {
    "code": "BR",
